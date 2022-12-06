@@ -1,0 +1,1740 @@
+incident_county,incident_acres_burned,incident_cooperating_agencies,fire_started,fire_extinguished,days_of_fire
+Shasta,37.0, Shasta-Trinity National Forest ,2017-10-31,2018-01-09,70.0
+San Diego,122.0,CAL FIRE San Diego Unit,2009-05-24,2009-05-25,1.0
+Inyo,406.0,"CAL FIRE San Bernardino Unit, Inyo County Sheriff, US Forest Service, BLM, LADWP, Lone Pine Volunteer Fire Department, Big Pine Volunteer Fire Department, Olancha Volunteer Fire Department, Independence Volunteer Fire Department.",2013-02-24,2013-02-28,4.0
+San Bernardino,30.0,San Bernardino National Forest,2013-04-20,2013-04-22,2.0
+Madera,274.0,CAL FIRE Madera-Mariposa-Merced Unit,2013-04-30,2013-05-01,1.0
+Madera,274.0,CAL FIRE Madera-Mariposa-Merced Unit,2013-04-30,2013-05-01,1.0
+Madera,274.0,CAL FIRE Madera-Mariposa-Merced Unit,2013-04-30,2013-05-01,1.0
+Tehama,6965.0,"CAL FIRE Butte Unit, CAL FIRE, USFS (Lassen and Plumas NF), CDCR, SPI, Collins Pine, Chico Fire Department",2013-05-01,2013-05-09,8.0
+Napa,75.0,CAL FIRE Sonoma-Lake-Napa Unit,2013-04-30,2013-05-01,1.0
+Sonoma,125.0,CAL FIRE Sonoma-Lake-Napa Unit,2013-05-01,2013-05-03,2.0
+Riverside,3166.0,CAL FIRE/Riverside County Fire ,2013-05-01,2013-05-04,3.0
+San Benito,354.0,CAL FIRE San Benito-Monterey ,2013-05-03,2013-05-03,0.0
+Glenn,217.0,CAL FIRE Tehama-Glenn Unit,2013-05-01,2013-05-05,4.0
+San Bernardino,75.0,"USFS San Bernardino National Forest, CAL FIRE San Bernardino Unit, CAL FIRE, USFS, San Bernardino Co., San Bernardino City, Rialto, Rancho, Ontario, CHP, San Bernardino Sheriff's Office",2013-05-13,2013-05-15,2.0
+Riverside,510.0,CAL FIRE/Riverside County Fire,2013-05-04,2013-05-05,1.0
+"Kern, Ventura",4346.0,"CAL FIRE / USFS Los Padres National Forest, CAL FIRE, USFS, KERN CO FD, VENTURA CO FD, KERN COUNTY SO, VENTURA CO SO, LA CO SO, LAFD, CALEMA, BLM, KERN CO RD DEPT., CHP, CALIFORNIA STATE PARKS",2013-05-15,2013-05-21,6.0
+Riverside,40.0,CAL FIRE Riverside Unit,2013-05-16,2013-05-17,1.0
+Los Angeles,712.0,CAL FIRE/Los Angeles County ,2013-05-17,2013-05-18,1.0
+Madera,91.0,CAL FIRE Madera-Mariposa-Merced Unit,2013-05-19,2013-05-20,1.0
+San Luis Obispo,35.0,CAL FIRE San Luis Obispo Unit,2013-05-20,2013-05-20,0.0
+Riverside,25.0,CAL FIRE Riverside Unit,2013-05-20,2013-05-20,0.0
+Riverside,90.0,CAL FIRE/Riverside County Fire ,2013-05-21,2013-05-21,0.0
+San Joaquin,303.0,CAL FIRE Tuolumne-Calaveras Unit ,2013-05-30,2013-05-30,0.0
+San Diego,100.0,CAL FIRE San Diego Unit,2013-05-22,2013-05-23,1.0
+San Diego,2781.0,"CAL FIRE San Diego Unit, CALFIRE, USFS, BLM, SAN DIEGO SHERIFF'S OFFICE, AMR, CAL EMA, SAN DIEGO CITY, LOCAL GOVERNMENT, SAN DIEGO FIRE AUTHORITY, RESERVATION, CCC",2013-05-23,2013-05-26,3.0
+San Luis Obispo,50.0,CAL FIRE San Luis Obispo Unit,2013-05-25,2013-05-25,0.0
+Riverside,124.0,CAL FIRE/Riverside County Fire,2013-05-25,2013-05-25,0.0
+San Diego,1271.0,CAL FIRE San Diego Unit,2013-05-26,2013-05-31,5.0
+Santa Barbara,1984.0,USFS Los Padres National Forest,2013-05-27,2013-05-30,3.0
+Los Angeles,149.0,Los Angeles County Fire Department,2013-05-28,2013-05-29,1.0
+Santa Barbara,170.0,Santa Barbara County Fire,2013-05-28,2013-05-29,1.0
+San Luis Obispo,500.0,Los Padres National Forest,2013-06-01,2013-06-03,2.0
+Tuolumne,100.0,CAL FIRE Tuolumne-Calaveras Unit,2013-06-02,2013-06-02,0.0
+Butte,298.0,"CAL FIRE Butte Unit, CAL FIRE, El Medio Fire, Chico Fire Dept, Oroville Fire Dept, Butte Co. Sheriff's Dept, Butte Co. Public Works, PG&E and CHP",2013-06-03,2013-06-03,0.0
+Riverside,0.0,USFS San Bernardino National Forest,2013-06-09,2013-06-09,0.0
+"Sonoma, Solano, Lake, Colusa",28.0,CAL FIRE Sonoma-Lake-Napa Unit,2013-06-10,2013-06-14,4.0
+Merced,124.0,CAL FIRE Madera-Mariposa-Merced Unit,2013-06-04,2013-06-05,1.0
+Lake,30.0,CAL FIRE Sonoma-Lake-Napa Unit,2013-06-05,2013-06-06,1.0
+Los Angeles,30274.0,USFS Angeles National Forest/Los Angeles County/CAL FIRE,2013-05-30,2013-06-08,9.0
+Alameda,240.0,CAL FIRE Santa Clara Unit,2013-06-08,2013-06-08,0.0
+Riverside,42.0,CAL FIRE/Riverside County Fire,2013-06-08,2013-06-08,0.0
+,60.0,California Northern Region,2013-06-10,2013-06-14,4.0
+Amador,96.0,CAL FIRE Amador-El Dorado Unit,2013-06-12,2013-06-13,1.0
+Madera,75.0,CAL FIRE Madera-Mariposa-Merced Unit,2013-06-12,2013-06-14,2.0
+Fresno,108.0,CAL FIRE/Fresno County Fire,2013-06-13,2013-06-13,0.0
+Mariposa,1708.0,"CAL FIRE Madera-Mariposa-Merced Unit / Sierra National Forest , CAL FIRE, US Forest Service, California Highway Patrol, National Park Service, Mariposa County, Mariposa County Fire, Mariposa County Sheriff.",2013-06-16,2013-06-26,10.0
+Placer,237.0,CAL FIRE/Placer County Fire,2013-06-13,2013-06-13,0.0
+Fresno,35.0,CAL FIRE/Fresno County Fire,2013-06-13,2013-06-13,0.0
+Riverside,40.0,CAL FIRE/Riverside County Fire,2013-06-14,2013-06-15,1.0
+Madera,482.0,CAL FIRE Madera-Mariposa-Merced Unit,2013-06-16,2013-06-18,2.0
+Solano,124.0,CAL FIRE Sanoma-Lake-Napa Unit,2013-06-18,2013-06-18,0.0
+Fresno,46.0,CAL FIRE/Fresno County Fire,2013-06-17,2013-06-19,2.0
+Fresno,150.0,CAL FIRE/Fresno County Fire,2013-06-25,2013-06-25,0.0
+Lake,25.0,CAL FIRE Sanoma-Lake-Napa Unit,2013-06-20,2013-06-20,0.0
+San Bernardino,534.0,CAL FIRE San Bernardino Unit/ City of Redlands/San Bernardino Sheriff,2013-06-28,2013-07-01,3.0
+Contra Costa,274.0,CAL FIRE Santa Clara Unit,2013-07-01,2013-07-01,0.0
+Monterey,105.0,CAL FIRE San Benito-Monterey Unit ,2013-06-29,2013-06-29,0.0
+Contra Costa,492.0,CAL FIRE Santa Clara Unit,2013-07-01,2013-07-01,0.0
+,754.0,CAL FIRE Northern Region,2013-07-02,2013-07-04,2.0
+Modoc,502.0,CAL FIRE Lassen-Modoc Unit,2013-07-03,2013-07-05,2.0
+Tehama,200.0,CAL FIRE Tehama-Glenn Unit,2013-07-04,2013-07-04,0.0
+Alameda,50.0,CAL FIRE Santa Clara Unit,2013-07-04,2013-07-04,0.0
+Alameda,38.0,CAL FIRE Santa Clara Unit / Alameda County Fire,2013-07-06,2013-07-06,0.0
+San Diego,7055.0,"CAL FIRE San Diego Unit / Cleveland National Forest, CAL FIRE, USFS Cleveland NF, CHP, San Diego County Fire Authority, San Diego County Sheriff, California State Parks",2013-07-06,2013-07-15,9.0
+San Luis Obispo,85.0,CAL FIRE San Luis Obispo,2013-07-07,2013-07-07,0.0
+Yuba,73.0,CAL FIRE Nevada-Placer-Yuba Unit,2013-07-08,2013-07-08,0.0
+Shasta,43.0,CAL FIRE Shasta-Trinity Unit,2013-07-09,2013-07-09,0.0
+El Dorado,572.0,Eldorado National Forest,2013-07-08,2013-07-11,3.0
+Santa Clara,50.0,CAL FIRE Santa Clara Unit,2013-07-12,2013-07-12,0.0
+Stanislaus,150.0,CAL FIRE Santa Clara Unit,2013-07-12,2013-07-13,1.0
+Riverside,27531.0,CAL FIRE Riverside Unit / San Bernardino National Forest,2013-07-15,2013-07-30,15.0
+Humboldt,0.0,Six Rivers National Forest,2013-08-03,2013-08-03,0.0
+San Bernardino,75.0,San Bernardino County Fire,2013-07-25,2013-07-26,1.0
+San Diego,25.0,CAL FIRE San Diego Unit,2013-07-28,2013-07-28,0.0
+Fresno,22992.0,Sierra National Forest,2013-07-22,2013-09-24,64.0
+Siskiyou,14754.0,Klamath National Forest,2013-07-31,2013-08-31,31.0
+Butte,92.0,CAL FIRE Butte Unit,2013-08-01,2013-08-04,3.0
+Riverside,150.0,CAL FIRE / Riverside County Fire,2013-07-16,2013-07-17,1.0
+Riverside,60.0,CAL FIRE/Riverside County  Fire,2013-08-04,2013-08-04,0.0
+Kern,612.0,Kern County Fire,2013-07-23,2013-07-25,2.0
+Mendocino,45.0,CAL FIRE Mendocino Unit,2013-07-23,2013-07-23,0.0
+Kern,712.0,"CAL FIRE / Kern County Fire / State Parks / US Forest Service, Cal Fire, United States Forest Service, Ventura County Fire, Kern County Sheriff Department, Calif State Parks, Calif Highway Patrol",2013-07-19,2013-07-22,3.0
+Tehama,195.0,CAL FIRE Tehama-Glenn Unit,2013-07-19,2013-07-19,0.0
+Sonoma,158.0,CAL FIRE Sonoma-Lake-Napa Unit,2013-07-26,2013-07-26,0.0
+"El Dorado, Sacramento",163.0,CAL FIRE / Sacramento Metropolitan Fire,2013-07-19,2013-07-19,0.0
+Riverside,40.0,CAL FIRE / Riverside County Fire,2013-07-19,2013-07-20,1.0
+Riverside,15.0,CAL FIRE / Riverside County Fire,2013-07-19,2013-07-19,0.0
+Calaveras,31.0,CAL FIRE Tuolumne-Calaveras Unit,2013-07-22,2013-07-23,1.0
+Tuolumne,1070.0,Stanislaus National Forest,2013-08-05,2013-08-14,9.0
+Riverside,1383.0,Cleveland National Forest / CAL FIRE Riverside Unit,2013-08-05,2013-08-09,4.0
+Riverside,60.0,San Bernardino National Forest,2013-08-06,2013-08-08,2.0
+Lake,38.0,CAL FIRE Sanoma-Lake-Napa Unit,2013-08-07,2013-08-07,0.0
+Riverside,20292.0,"CAL FIRE Riverside Unit / San Bernardino National Forest, Federal, State and Local Agencies from throughout the Western United States are assisting.",2013-08-07,2013-08-12,5.0
+Humboldt,12503.0,Six Rivers National Forest,2013-08-10,2013-08-12,2.0
+Siskiyou,50.0,CAL FIRE Siskiyou Unit,2013-08-15,2013-08-15,0.0
+El Dorado,116.0,CAL FIRE Amador-El Dorado Unit,2013-08-16,2013-08-16,0.0
+San Bernardino,243.0,Angeles National Forest,2013-08-08,2013-08-13,5.0
+Shasta,27.0,CAL FIRE Shasta-Trinity Unit,2013-08-14,2013-08-14,0.0
+Butte,2462.0,"CAL FIRE Butte Unit, United States Forest Service, Oroville Fire Department, El Medio Fire Department, Chico Fire Department, Butte County Sheriff, California Highway Patrol, California Office of Emergency Services, California Department of Corrections and Rehabilitation, Bureau of Land Management, South Feather Water and Power, Red Cross, North Valley Animal Rescue Group.",2013-08-16,2013-08-22,6.0
+Placer,27440.0,Tahoe National Forest,2013-08-10,2013-08-30,20.0
+Lassen,97.0,CAL FIRE Lassen-Modoc Unit,2013-08-09,2013-08-12,3.0
+Riverside,40.0,CAL FIRE/Riverside County Fire,2013-08-16,2013-08-16,0.0
+Lake,70.0,CAL FIRE Sonoma-Lake-Napa Unit,2013-08-16,2013-08-18,2.0
+Calaveras,46.0,"CAL FIRE Tuolumne-Calaveras Unit, Altaville/Melones Fire; Angels City Fire; Murphys Fire; West Point Fire; Central Fire; San Joaquin County; Stanislaus County; Stanislaus National Forest; Los Angeles County Fire.",2013-08-17,2013-08-19,2.0
+San Bernardino,110.0,San Bernardino National Forest,2013-08-17,2013-08-18,1.0
+Shasta,8073.0,"CAL FIRE Shasta-Trinity Unit, USFS, City of Redding, Anderson Fire Protection District, Burney Fire Protection District, Cottonwood Fire Protection District, Happy Valley Fire Protection District, Shasta County Sheriffs Dept., CHP, Redding Police Dept., Cal OES, PG&E",2013-09-09,2013-09-15,6.0
+Plumas,513.0,Plumas National Forest,2013-08-18,2013-08-25,7.0
+Kern,794.0,Sequoia National Forest,2013-08-18,2013-08-24,6.0
+Shasta,196.0,CAL FIRE Shasta Unit ,2013-08-19,2013-08-23,4.0
+San Bernardino,200.0,San Bernardino National Forest/CAL FIRE San Bernardino Unit,2013-09-24,2013-09-30,6.0
+Tehama,11429.0,"CAL FIRE Tehama-Glenn Unit, CDCR, USFS, California Fish & Wildlife, California National Guard, Tehama County Sheriff's Office, PG&E",2013-08-23,2013-08-29,6.0
+San Bernardino,413.0,San Bernardino National Forest,2013-08-20,2013-08-20,0.0
+Tulare,2060.0,Sequoia National Forest,2013-08-24,2013-09-24,31.0
+El Dorado,38.0,CAL FIRE Amador-El Dorado Unit,2013-08-24,2013-08-24,0.0
+San Bernardino,97.0,San Bernardino National Forest,2013-08-24,2013-08-30,6.0
+San Mateo,41.0,CAL FIRE San Mateo-Santa Cruz Unit,2013-09-07,2013-09-07,0.0
+Contra Costa,3111.0,"CAL FIRE Santa-Clara Unit, CAL FIRE, East Contra Costa Fire Protection District, Contra Costa Fire Protection District, San Ramon Valley Fire, East Bay Regional Parks, CALOES, CDCR, California State Parks, California Highway Patorl, CalTrans, Contra Costa County Sheriff's Department, Contra Costa Public Works, Clayton PD, PG&E, America Red Cross and the Salvation Army.",2013-09-08,2013-09-14,6.0
+Tulare,134.0,Sequoia National Forest,2013-09-08,2013-09-24,16.0
+San Bernardino,73.0,CAL FIRE San Bernardino Unit,2013-09-11,2013-09-12,1.0
+Los Angeles,268.0,Angeles National Forest/Los Angeles County Fire,2013-09-23,2013-09-28,5.0
+Modoc,97.0,Modoc National Forest ,2013-09-05,2013-09-24,19.0
+Nevada,52.0,CAL FIRE Nevada-Yuba-Placer Unit,2013-08-31,2013-08-31,0.0
+Butte,80.0,"CAL FIRE Butte Unit, CDCR, PG&E, El Medio Fire",2013-08-31,2013-09-01,1.0
+Modoc,68.0,Modoc National Forest,2013-09-07,2013-09-05,-2.0
+Tuolumne,257314.0,Stanislaus National Forest/Yosemite National Park,2013-08-17,2013-09-06,20.0
+San Diego,263.0,"CAL FIRE San Diego Unit / Cleveland National Forest, CAL FIRE, USFS, CHP, San Diego Co. Sheriff, County Animal Control, SDG&E, Red Cross, SDCO Fire Authority",2013-09-09,2013-09-12,3.0
+Lake,30.0,CAL FIRE Sonoma-Lake-Napa Unit,2013-09-15,2013-09-15,0.0
+San Luis Obispo,94.0,CAL FIRE San Luis Obispo Unit,2013-09-24,2013-09-24,0.0
+Mendocino,98.0,CAL FIRE Mendocino Unit,2013-09-28,2013-09-29,1.0
+Napa,376.0,"CAL FIRE Sonoma-Lake-Napa Unit, CAL FIRE, Bureau of Reclamation",2013-10-03,2013-10-04,1.0
+Sonoma,159.0,CAL FIRE Sonoma-Lake-Napa Unit,2013-10-04,2013-10-05,1.0
+San Diego,2236.0,Camp Pendleton Marine Corps Base,2013-10-05,2013-10-09,4.0
+Butte,305.0,CAL FIRE Butte Unit,2013-10-04,2013-10-05,1.0
+Orange,40.0,Orange County Fire Authority,2013-10-06,2013-10-09,3.0
+Yolo,163.0,CAL FIRE Sonoma-Lake-Napa Unit,2013-11-04,2013-11-04,0.0
+Shasta,33.0,CAL FIRE Shasta-Trinity Unit,2013-11-07,2013-11-07,0.0
+San Luis Obispo,51.0,"CAL FIRE San Luis Obispo Unit, United States Forest Service, Atascadero City Fire, Paso Robles Fire, San Luis Obispo City Fire, Templeton Fire, Morro Bay City Fire and Cayucos Fire Departments. As well as San Luis Obispo County Sheriff’s Department, and the California Highway Patrol.",2013-11-08,2013-11-09,1.0
+Lake,120.0,CAL FIRE Sonoma-Lake-Napa Unit,2013-11-08,2013-11-10,2.0
+Napa,190.0,"CAL FIRE Sonoma-Lake-Napa Unit, CAL FIRE, Napa County Fire, Rutherford VFD, Soda Canyon VFD, Napa County Sheriff’s Office, and California Dept. of Corrections and Rehabilitation",2013-11-21,2013-11-23,2.0
+Ventura,64.0,Ventura County Fire Department,2013-11-14,2013-11-15,1.0
+Mendocino,82.0,CAL FIRE Mendocino Unit,2013-11-22,2013-11-22,0.0
+Sonoma,3505.0,"CAL FIRE Sonoma-Lake-Napa Unit, CAL FIRE, Napa County Fire, Geyserville FPD, Healdsburg FD, Cloverdale FPD, Santa Rosa FD, Sonoma Valley FRA, Glen Ellen FPD, Schell-Vista FPD, Forestville FPD, Graton FPD, Gold Ridge FPD, Occidental CSD, Bennett Valley FPD, Sebastopol FD, Rancho Adobe FPD, CHP, Cal Trans, Sonoma County Sheriff’s, CAL OES, California Department of Correction and Rehabilitation, Sonoma County Fire Services, Bureau of Land Management, United States Forest Service.",2013-11-22,2013-11-27,5.0
+Lake,50.0,CAL FIRE Sonoma-Lake-Napa Unit,2013-11-23,2013-11-24,1.0
+Lake,23.0,CAL FIRE Sonoma-Lake-Napa Unit,2013-11-23,2013-11-24,1.0
+Santa Clara,40.0,CAL FIRE Santa Clara Unit,2013-12-31,2013-12-31,0.0
+Tehama,865.0,Lassen National Forest,2014-01-02,2014-01-10,8.0
+Los Angeles,1952.0,Angeles National Forest and LA County Fire Department,2014-01-16,2014-01-27,11.0
+Humboldt,333.0,CAL FIRE Humboldt Del-Norte Unit,2014-01-04,2014-01-08,4.0
+Fresno,106.0,CAL FIRE Fresno-Kings Unit,2014-01-25,2014-01-26,1.0
+San Diego,125.0,USFS - Cleveland National Forest,2014-03-08,2014-03-11,3.0
+Monterey,400.0,CAL FIRE San Benito-Monterey Unit,2014-03-19,2014-03-21,2.0
+Riverside,57.0,CAL FIRE / Riverside County Fire,2014-03-28,2014-03-29,1.0
+Inyo,113.0,"CAL FIRE San Bernardino Unit, Bishop Fire Dept, Inyo National Forest, Los Angeles Dept of Water and Power (LADWP), BLM - Desert District, CHP and Inyo Sheriff",2014-04-19,2014-04-21,2.0
+San Bernardino,2143.0,"CAL FIRE San Bernardino / USFS / Rancho Cucamonga Fire, CAL FIRE, US Forest Service and Rancho Cucamonga Fire",2014-04-30,2014-05-05,5.0
+San Diego,29.0,CAL FIRE San Diego Unit,2014-05-05,2014-05-06,1.0
+San Diego,1548.0,CAL FIRE San Diego Unit/San Diego City Fire/Rancho Santa Fe Fire District,2014-05-13,2014-05-17,4.0
+Monterey,75.0,CAL FIRE San Benito-Monterey Unit,2014-04-30,2014-05-01,1.0
+Santa Barbara,632.0,"Santa Barbara County Fire, San Diego City, USFS, OES, Red Cross, San Diego PD, San Diego SO, San Diego School PD, CHP, CCC.",2014-05-13,2014-05-19,6.0
+San Diego,5367.0,Marine Corps Base Camp Pendleton,2014-05-14,2014-05-19,5.0
+San Diego,1457.0,Marine Corps Base Camp Pendleton,2014-05-16,2014-05-20,4.0
+San Diego,380.0,CAL FIRE San Diego Unit,2014-05-14,2014-05-15,1.0
+Shasta,50.0,CAL FIRE Shasta-Trinity Unit,2014-05-14,2014-05-15,1.0
+San Diego,1995.0,San Marcos Fire / CAL FIRE San Diego Unit / Elfin Forest Fire Dept,2014-05-14,2014-05-22,8.0
+San Diego,600.0,Carlsbad Fire Department,2014-05-14,2014-05-17,3.0
+Lake,175.0,CAL FIRE Sonoma-Lake-Napa Unit,2014-05-25,2014-05-26,1.0
+Tuolumne,487.0,CAL FIRE Tuolumne-Calaveras Unit,2014-06-04,2014-06-05,1.0
+Tuolumne,269.0,CAL FIRE Tuolumne-Calaveras Unit,2014-06-05,2014-06-06,1.0
+Fresno,25.0,CAL FIRE Fresno-Kings Unit,2014-06-11,2014-06-09,-2.0
+Fresno,40.0,CAL FIRE Fresno-Kings Unit,2014-06-09,2014-06-11,2.0
+Solano,70.0,CAL FIRE Sonoma-Lake-Napa Unit,2014-06-12,2014-06-13,1.0
+Mariposa,130.0,CAL FIRE Madera-Mariposa-Merced Unit,2014-06-10,2014-06-13,3.0
+Kern,3895.0,Sequoia National Forest,2014-06-13,2014-06-20,7.0
+Tehama,225.0,CAL FIRE Tehama-Glenn Unit,2014-06-13,2014-06-13,0.0
+Calaveras,120.0,CAL FIRE Tuolumne Calaveras Unit,2014-06-20,2014-06-21,1.0
+Calaveras,85.0,"CAL FIRE Tuolumne Calaveras Unit, USFS, Central Fire, Mokelumne Hill Fire, San Andreas Fire, Angels Fire, Copperopolis Fire, Altaville/Melones Fire, PG&E, CHP, Calaveras County SO",2014-06-22,2014-06-24,2.0
+"Napa, Lake",4300.0,"CAL FIRE Sonoma-Lake-Napa Unit, Napa County Sheriff's, CHP, United States Forest Service, CAL OES, Napa County OES, Lake County OES, PG&E, Bureau of Land Management, California Department of Corrections and Rehabilitation, Napa County Fire",2014-07-01,2014-07-09,8.0
+El Dorado,30.0,CAL FIRE Amador-El Dorado Unit,2014-07-09,2014-07-09,0.0
+Shasta,12661.0,"CAL FIRE Shasta-Trinity Unit, Shasta County Fire, BLM, USFS, Shasta County Sheriff’s Office, CHP, Cal  OES, CDCR, CCC and Shasta County DPW.",2014-07-11,2014-07-26,15.0
+Yolo,6488.0,"CAL FIRE Sonoma-Lake-Napa Unit, Winters FPD, Yolo County Sheriff, Lake County Sheriff, Napa County Fire, local government fire agencies of Napa, Solano and Yolo counties, CAL OES, California Department of Corrections and Rehabilitation, CHP, Bureau of Land Management, Red Cross, PG&E, Yolo County Animal Services, Cal Trans, City of Woodland, City of Winters, and Yolo County OES.",2014-07-04,2014-07-12,8.0
+Modoc,1469.0,CAL FIRE Lassen-Modoc Unit / Modoc National Forest,2014-07-03,2014-07-07,4.0
+Modoc,1651.0,Modoc National Forest,2014-07-01,2014-07-03,2.0
+Trinity,15.0,Shasta - Trinity National Forest,2014-07-01,2014-07-03,2.0
+San Diego,217.0,CAL FIRE San Diego Unit,2014-07-03,2014-07-06,3.0
+Contra Costa,80.0,CAL FIRE Santa Clara Unit,2014-07-11,2014-07-12,1.0
+Shasta,75.0,CAL FIRE Shasta-Trinity Unit,2014-07-05,2014-07-08,3.0
+San Luis Obispo,47.0,CAL FIRE San Benito-Monterey Unit,2014-07-07,2014-07-08,1.0
+Nevada,38.0,CAL FIRE Nevada-Yuba-Placer,2014-07-07,2014-07-08,1.0
+Shasta,143.0,CAL FIRE Shasta-Trinity Unit,2014-07-09,2014-07-10,1.0
+Kern,1680.0,Sequoia National Forest,2014-07-11,2014-07-21,10.0
+Butte,72.0,CAL FIRE Butte Unit,2014-07-14,2014-07-16,2.0
+"Amador, El Dorado",4240.0,"CAL FIRE Amador-El Dorado Unit, CHP, El Dorado Co SO, Amador SO, Cal OES, CDCR, El Dorado Co Animal Control, USFS, BLM, El Dorado Co DOT, CCC, Red Cross, PG&E, Cal Trans",2014-07-25,2014-08-02,8.0
+Shasta,39736.0,CAL FIRE Lassen-Modoc Unit / USFS - Lassen National Forest,2014-07-30,2014-08-15,16.0
+Modoc,13153.0,"CAL FIRE Lassen-Modoc Unit, CAL FIRE, USFS, BLM, CAL EMA, Local Government, Modoc County Sheriff, Lassen  County Sheriff, Shasta County Sheriff, Sierra Pacific Industries, WM Beatty and Associates, and CDCR.",2014-07-30,2014-08-13,14.0
+Siskiyou,35302.0,CAL FIRE Siskiyou Unit / Oregon Dept. of Forestry / Oregon Office of The State Fire Marshal,2014-07-30,2014-08-18,19.0
+Shasta,32416.0,"CAL FIRE / USFS - Lassen National Forest, Shasta County Fire, Burney Fire District, BLM, Shasta County Sheriff's Office, CHP, CDCR, PG&E, Sierra Pacific Industries, W. Beatty Co. Georgia Forestry Commission, Louisiana Office of Forestry",2014-07-31,2014-08-25,25.0
+Shasta,6258.0,US Forest Service - Shasta Trinity National Forest,2014-07-30,2014-11-14,107.0
+Siskiyou,5503.0,CAL FIRE Siskiyou Unit / USFS-Klamath National Forest,2014-07-31,2014-08-18,18.0
+Shasta,25.0,CAL FIRE Shasta-Trinity Unit,2014-08-29,2014-08-29,0.0
+Madera,10.0,USFS - Sierra National Forest,2014-08-26,2014-12-12,108.0
+Madera,612.0,"CAL FIRE Madera-Mariposa-Merced Unit, Madera County Sheriff, Madera County Fire Department, CAL OES, Sierra National Forest, California Department of Corrections and Rehabilitation, CHP, Red Cross, CCC, Madera County OES, Hillview Water  Company, and Sierra Telephone.",2014-08-18,2014-08-25,7.0
+Modoc,101.0,US Forest Service - Modoc National Forest ,2014-08-12,2014-08-13,1.0
+Siskiyou,0.0,US Forest Service - Klamath National Forest,2014-08-11,2014-08-14,3.0
+San Diego,20.0,CAL FIRE San Diego Unit,2014-08-16,2014-08-17,1.0
+Los Angeles,190.0,US Forest Service - Angeles National Forest,2014-08-14,2014-12-12,120.0
+Los Angeles,274.0,US Forest Service - Angeles National Forest,2014-08-17,2014-12-12,117.0
+Nevada,84.0,US Forest Service - Tahoe National Forest,2014-08-18,2014-08-19,1.0
+Kern,4045.0,Kern County Fire / Sequoia National Forest ,2014-08-18,2014-08-27,9.0
+Trinity,580.0,"CAL FIRE Shasta-Trinity Unit, Shasta Co. FD, USFS, Weaverville FD, CHP, Trinity Co. Sheriff's Office, Cal OES, CDC, PG&E, Cal Trans, Junction City FPD, Post Mountain FPD, Douglas City FPD, Trinity Center FPD, Sierra Pacific Industries",2014-08-24,2014-08-28,4.0
+Shasta,1375.0,"CAL FIRE Shasta-Trinity Unit, Shasta County Fire Department, Shasta County Sherriff’s Office, Cal Trans, United States Forest Service, Redding Fire Department, CAL-OES, PG&E, California Department of Corrections and Rehabilitation",2014-09-10,2014-09-16,6.0
+Tuolumne,70.0,CAL FIRE Tuolumne Caleveras Unit,2014-09-04,2014-09-05,1.0
+Humboldt,210.0,Six Rivers National Forest,2014-09-12,2014-09-15,3.0
+Napa,27.0,CAL FIRE Sonoma-Lake-Napa Unit,2014-09-11,2014-09-15,4.0
+Mariposa,311.0,Yosemite National Park,2014-10-07,2014-10-12,5.0
+El Dorado,97717.0,"CAL FIRE / USFS - El Dorado National Forest, CHP, Red Cross, Cal OES, El Dorado Irrigation District, Sacramento Municipal Utility District, Sierra Pacific Industries, PG&E, Placer County Water Agency, Placer County Sheriffs, California Conservation Corps and El Dorado County Animal Services.",2014-09-13,2014-10-09,26.0
+Siskiyou,200.0,Shasta-Trinity National Forest,2015-02-24,2015-03-02,6.0
+Orange,968.0,US Forest Service - Cleveland National Forest,2014-09-12,2014-09-22,10.0
+Nevada,247.0,CAL FIRE Nevada-Yuba-Placer Unit,2014-09-13,2014-09-18,5.0
+Madera,320.0,CAL FIRE Madera-Mariposa-Merced Unit,2014-09-14,2014-09-22,8.0
+Siskiyou,516.0,"CAL FIRE Siskiyou Unit, CHP, CAL TRANS, Pacific Power and Light, Weed City PD, Yreka PD, Mt. Shasta PD, Siskiyou County Sheriff, California Department of Corrections and Rehabilitation, California Conservation Corps, and CAL OES, United Way, and the American Red Cross.",2014-09-15,2014-10-11,26.0
+San Bernardino,48.0,CAL FIRE San Bernardino Unit / Chino Valley Fire District,2014-10-16,2014-10-17,1.0
+El Dorado,94.0,US Forest Service - El Dorado National Forest,2014-09-14,2014-09-17,3.0
+El Dorado,20.0,US Forest Service - Lake Tahoe Basin Management Unit,2014-09-25,2014-09-25,0.0
+San Diego,80.0,CAL FIRE San Diego Unit / Chula Vista Fire Department,2015-06-26,2015-06-26,0.0
+Plumas,137.0,**This was NOT a CAL FIRE Incident. Click this link for more information from the US Forest Service  ,2015-04-13,2015-04-18,5.0
+Riverside,1049.0,"CAL FIRE/Riverside County Fire, City of Corona Fire, American Red Cross, CAL FIRE/Riverside, CAL FIRE/San Bernardino, CAL FIRE/San Diego, CalEMA, Chino Valley Independent Fire District, City of Corona FD, Orange County Fire Authority, Pechanga FD, Riverside City FD, Riverside County Fire Department, Riverside County Sheriff’s Office, CHP, Riverside Co. Animal Control.",2015-04-18,2015-04-24,6.0
+Merced,275.0,CAL FIRE Madera-Mariposa-Merced Unit,2015-05-11,2015-05-11,0.0
+Humboldt,20.0,CAL FIRE Humboldt-Del Norte Unit ,2015-06-10,2015-06-11,1.0
+Trinity,1542.0,USFS Shasta-Trinity National Forest ,2015-06-10,2015-06-29,19.0
+Kern,67.0,Kern County Fire,2015-06-15,2015-06-15,0.0
+Napa,38.0,"CAL FIRE Sonoma-Lake-Napa Unit, CAL FIRE, Napa County Fire Department, St Helena City Fire Department, Napa County Roads, and California Highway Patrol.",2015-06-16,2015-06-17,1.0
+Amador,60.0,CAL FIRE Amador-El Dorado Unit,2015-06-16,2015-06-17,1.0
+Tehama,55.0,CAL FIRE Tehama-Glenn Unit,2015-06-17,2015-06-17,0.0
+San Diego,171.0,CAL FIRE San Diego Unit,2015-06-17,2015-06-19,2.0
+San Bernardino,31359.0,CAL FIRE / San Bernardino National Forest / San Bernardino County Fire/ San Bernardino County Sheriffs,2015-06-17,2015-08-01,45.0
+Yuba,158.0,"CAL FIRE Nevada-Yuba-Placer Unit, CAL FIRE, Yuba County Sheriff's Department, Dobbins Fire, Loma Rica Fire, Browns Valley Fire, CHP, Bi-County Ambulance",2015-06-18,2015-06-22,4.0
+Madera,920.0,"CAL FIRE Madera-Mariposa-Merced Unit, CAL FIRE, USFS, Madera County Fire Department, Madera County Sheriff’s Department, PG&E, Red Cross, CAL OES, CHP and additional resources from the central valley.",2015-06-18,2015-06-25,7.0
+Madera,135.0,CAL FIRE Madera-Mariposa-Merced Unit,2015-06-21,2015-06-23,2.0
+Lassen,60.0,CAL FIRE Lassen-Modoc Unit,2015-06-19,2015-06-20,1.0
+,533.0,CAL FIRE Santa Clara Unit/Contra Costa County Fire ,2015-06-24,2015-06-25,1.0
+Alpine,0.0,US Forest Service - Humboldt - Toiyabe National Forest,2015-06-19,2015-06-22,3.0
+Los Angeles,415.0,Los Angeles County Fire ,2015-06-24,2015-06-26,2.0
+San Bernardino,100.0,San Bernardino National Forest,2015-06-25,2015-06-29,4.0
+Napa,19.0,CAL FIRE Sonoma-Lake-Napa Unit,2015-06-27,2015-06-28,1.0
+Mendocino,35.0,CAL FIRE Mendocino Unit,2015-06-28,2015-06-29,1.0
+Tehama,170.0,CAL FIRE Tehama-Glenn Unit,2015-07-04,2015-07-04,0.0
+Mendocino,23.0,CAL FIRE Mendocino Unit,2015-07-04,2015-07-05,1.0
+Solano,150.0,"CAL FIRE Sonoma-Lake-Napa, CAL FIRE, Vacaville Fire Protection District, Vacaville City, Dixon FD, Suisun FPD, UC Davis FD, CMF of Vacaville, Solano SO, CHP, Winters FPD, Travis AFB, Cordella FPD, Solano OES, Fairfield FD, Montezuma Fire District, Suisun City FD",2015-07-06,2015-07-08,2.0
+Solano,40.0,"CAL FIRE Sonoma-Lake-Napa Unit, CAL FIRE, Vallejo City Fire Department, Benicia Fire Department, Cordelia Fire Department",2015-07-10,2015-07-10,0.0
+Shasta,18.0,"CAL FIRE Shasta-Trinity Unit, CAL FIRE, Shasta County Fire Department, Redding Fire Department",2015-07-07,2015-07-08,1.0
+San Bernardino,54.0,CAL FIRE San Bernardino Unit/San Bernardino National Forest ,2015-07-12,2015-07-21,9.0
+San Luis Obispo,95.0,CAL FIRE San Luis Obispo Unit,2015-07-10,2015-07-15,5.0
+Riverside,21.0,"CAL FIRE Riverside County Fire, CAL FIRE/Riverside, CAL FIRE/San Bernardino, March ARB, Riverside County Fire Department",2015-07-12,2015-07-12,0.0
+Orange,214.0,Orange County Fire Authority,2015-07-13,2015-07-15,2.0
+Siskiyou,181.0,CAL FIRE Siskiyou Unit ,2015-07-13,2015-07-14,1.0
+San Diego,25.0,CAL FIRE San Diego Unit,2015-07-16,2015-07-17,1.0
+San Bernardino,4250.0,CAL FIRE San Bernardino Unit/ San Bernardino National Forest / San Bernardino County Fire ,2015-07-17,2015-07-21,4.0
+Los Angeles,200.0,USFS - Angeles National Forest ,2015-07-17,2015-08-04,18.0
+San Benito,25.0,CAL FIRE San Benito-Monterey Unit,2015-07-20,2015-07-20,0.0
+Tulare,430.0,CAL FIRE Tulare Unit,2015-07-21,2015-07-26,5.0
+Siskiyou,24.0,"CAL FIRE Siskiyou Unit, SISKIYOU COUNTY SHERIFF’S DEPARTMENT, CHP, DORRIS FIRE, BUTTE VALLEY FIRE, KLAMATH NATIONAL FOREST",2015-07-21,2015-07-22,1.0
+,8051.0,"CAL FIRE Sonoma-Lake-Napa Unit, CAL FIRE, Napa County Fire, Winters FPD, Vacaville FPD, Vacaville City Fire, City of Winters, Napa County Sheriff, Solano County Sheriff, Yolo County Sheriff, CHP, Red Cross, PG&E, Napa County Road Department, CDCR, CalOES, Salvation Army, CCC, BLM, CalTrans, Air Resources Board, Bureau of Reclamation, Yocha Dehe Wintun Nation, and CAL FIRE Incident Management Team 6",2015-07-22,2015-08-05,14.0
+Napa,65.0,"CAL FIRE Sonoma-Lake-Napa Unit, Napa County Fire, Napa County Office of Emergency Services, Napa County Sheriff’s  Office, CA Highway Patrol, CA Dept. of Corrections and Rehabilitation",2016-10-10,2016-10-12,2.0
+Placer,26.0,CAL FIRE Nevada Yuba Placer Unit,2015-07-22,2015-07-22,0.0
+El Dorado,75.0,USFS - El Dorado National Forest ,2015-07-23,2015-07-29,6.0
+Modoc,116.0,CAL FIRE Lassen-Modoc Unit,2015-07-23,2015-07-26,3.0
+Modoc,77.0,CAL FIRE Lassen-Modoc Unit,2015-07-23,2015-07-25,2.0
+San Diego,167.0,USFS - Cleveland National Forest,2015-07-24,2015-07-26,2.0
+San Diego,25.0,CAL FIRE San Diego Unit,2015-07-24,2015-07-25,1.0
+Nevada,2304.0,"CAL FIRE Nevada-Yuba-Placer Unit, Cal OES, California National Guard, CHP, Nevada County Sheriff, Placer County Sheriff, USFS, BLM, California Conservation Corps, SPI, and PG&E.",2015-07-25,2015-08-12,18.0
+Humboldt,158.0,"CAL FIRE Humboldt-Del Norte Unit, California Department of Corrections and Rehabilitation",2015-07-24,2015-08-01,8.0
+Madera,5702.0,US Forest Service - Sierra National Forest ,2015-07-25,2015-08-13,19.0
+Calaveras,114.0,CAL FIRE Tuolumne Calaveras Unit,2015-08-13,2015-08-18,5.0
+Stanislaus,40.0,CAL FIRE Santa Clara Unit,2015-07-28,2015-07-28,0.0
+Humboldt,16.0,CAL FIRE Humboldt-Del Norte Unit,2015-07-28,2015-07-31,3.0
+Tulare,6980.0,USFS - Sequoia National Forest,2015-07-19,2015-09-05,48.0
+Butte,400.0,"CAL FIRE Butte Unit, CAL FIRE, CHP, GCSO, PG&E, Red Cross, North Valley Animal Disaster Group, Butte County OEM.",2015-07-29,2015-08-03,5.0
+Lake,69438.0,"CAL FIRE Sonoma-Lake-Napa Unit, CAL FIRE, California Army National Guard, Kelseyville FPD, South Lake FPD, Northshore FPD, Lake County Office of Emergency Services, CHP, CDCR, BLM, USFS, Lake Evacuation and Animal Protection (LEAP), RED CROSS, Lake County Sheriff, Lake County fire agencies, Salvation Army, Yolo County Sheriff, Colusa County Sheriff, Napa County Sheriff, Pacific Gas and Electric, Nevada Division of Forestry, NVADG, Cal Trans, California Conservations Corps and Lake County EOC.",2015-07-29,2015-08-14,16.0
+Shasta,75.0,"CAL FIRE Shasta-Trinity Unit, CAL FIRE, Shasta County Fire Department, Millville Fire Protection District, PG&E, Shasta County Sheriff’s Department, California Department of Corrections and Rehabilitation, California Highway Patrol",2015-07-29,2015-07-31,2.0
+Shasta,212.0,CAL FIRE Shasta-Trinity Unit,2015-07-29,2015-08-01,3.0
+Tuolumne,204.0,"CAL FIRE Tuolumne-Calaveras Unit, US Forest Service, Tuolumne County Fire Department, Stanislaus Consolidated, Copperopolis Fire, Central Fire, San Andreas Fire, Georgetown, Diamond Springs, Santa Barbara County, Groveland Community Services District, Lathrop – Manteca, Los Angeles County, Orange County, Carson City, Storey County, Sparks Fire Department, East Fork Fire and Paramedic District, Central Line County, California Office of Emergency Services, California Department of Corrections, Hetch Hetchy Water and Power, PG&E, California Highway Patrol, Tuolumne County.",2015-07-29,2015-08-04,6.0
+Tuolumne,112.0,CAL FIRE Tuolumne-Calaveras Unit,2015-08-15,2015-08-16,1.0
+Contra Costa,195.0,CAL FIRE Santa Clara Unit,2015-07-30,2015-07-30,0.0
+Shasta,90.0,CAL FIRE Shasta-Trinity Unit,2015-07-30,2015-07-31,1.0
+Tulare,86.0,CAL FIRE Tulare Unit,2015-07-30,2015-08-05,6.0
+Mendocino,50.0,CAL FIRE Mendocino Unit,2015-07-30,2015-08-03,4.0
+Riverside,543.0,CAL FIRE/Riverside County Fire,2015-08-10,2015-08-15,5.0
+Modoc,4863.0,USFS Modoc National Forest,2015-07-30,2015-07-31,1.0
+Shasta,75.0,CAL FIRE Shasta-Trinity Unit,2015-08-02,2015-08-04,2.0
+Santa Barbara,52.0,Santa Barbara County Fire,2015-08-01,1969-12-31,-16649.0
+Yuba,30.0,CAL FIRE Nevada-Yuba-Placer Unit,2015-08-03,2015-08-05,2.0
+Shasta,59.0,CAL FIRE Shasta-Trinity Unit,2015-08-03,2015-08-04,1.0
+Lassen,10570.0,Bureau of Land Management,2015-08-03,2015-08-04,1.0
+San Diego,55.0,CAL FIRE San Diego Unit,2015-08-09,2015-08-10,1.0
+Tehama,110.0,CAL FIRE Tehama-Glenn Unit,2015-08-08,2015-08-09,1.0
+"Lake, Napa",25118.0,"CAL FIRE Sonoma-Lake-Napa Unit, Lake County Sheriff, Lake County Fire Agencies, California National Guard, CDCR, CHP, USFS, BLM, Kelseyville FPD, South Lake FPD, Northshore FPD, Lake County Office of Emergency Services, Lake Evacuation and Animal Protection (LEAP), RED CROSS, Salvation Army, Yolo County Sheriff, Napa County Sheriff, Colusa County Sheriff, Pacific Gas and Electric, and  Cal Trans.",2015-08-09,2015-08-25,16.0
+San Luis Obispo,2446.0,"CAL FIRE San Luis Obispo Unit/ Los Padres National Forest , San Luis Obispo County Sheriff, San Luis Obispo County OES, California Highway Patrol, CAL OES, California Department of Corrections and Rehabilitation, Bureau of Land Management, California Conservation Corps, and the American Red Cross, California National Guard",2015-08-16,2015-08-28,12.0
+Humboldt,146.0,"CAL FIRE Humboldt-Del Norte Unit, BLM, CDCR, CCC, Humboldt Co. Sheriff, Humboldt OES, Shelter Cove Fire, Briceland Fire",2015-08-18,2015-08-29,11.0
+Alameda,2700.0,CAL FIRE Santa Clara Unit,2015-08-19,2015-08-22,3.0
+Lake,22.0,CAL FIRE Sonoma Lake Napa,2015-08-24,2015-08-25,1.0
+Lake,215.0,"CAL FIRE Sonoma-Lake-Napa Unit, Kelseyville FD, South Lake FPD, Lake Co. Sheriff, PG&E, CDCR",2015-08-22,2015-08-27,5.0
+San Bernardino,55.0,USFS - San Bernardino National Forest,2015-08-23,2015-09-11,19.0
+Trinity,128.0,"CAL FIRE Shasta-Trinity Unit, Shasta County Fire Department, Weaverville Fire Department, Lewiston Volunteer Fire Department, Douglas City Volunteer Fire Department, United States Forest Service, Trinity County Sherriff’s Office, Bureau of Land Management, American Red Cross, California Department of Corrections and Rehabilitation, Cal OES, California Highway Patrol",2015-08-25,2015-08-29,4.0
+Lake,673.0,"CAL FIRE Sonoma-Lake-Napa Unit / Mendocino National Forest, CALFIRE, USFS, North Shore Fire District, Lake County Sheriff’s Office and CHP.",2015-09-02,2015-09-08,6.0
+Butte,72.0,"CAL FIRE Butte Unit, CHP, Plumas National Forest, Butte County Public Works and PG&E",2015-09-02,2015-09-03,1.0
+Lassen,30.0,CAL FIRE Lassen-Modoc Unit,2015-08-29,2015-08-30,1.0
+Tuolumne,108.0,"CAL FIRE Tuolumne-Calaveras Unit, California Department of Corrections, California Highway Patrol, Stanislaus National Forest, Tuolumne County Fire Department, Twain Harte C.S.D. Fire-Rescue, Tuolumne County Sheriff’s Department; Tuolumne County Road Department, American Red Cross, PG&E; AT&T; Comcast.",2015-09-08,2015-09-15,7.0
+Trinity,35.0,CAL FIRE Shasta-Trinity Unit,2015-09-08,2015-09-10,2.0
+Lassen,40.0,CAL FIRE Lassen - Modoc Unit,2015-09-09,2015-09-10,1.0
+Fresno,170.0,CAL FIRE Fresno Kings Unit,2015-09-09,2015-09-11,2.0
+,70868.0,"CAL FIRE Amador - El Dorado Unit, Amador County Sheriff, Calaveras County Sheriff, CAL OES, BLM, PG&E, CHP, Amador Fire Protection District, Calaveras PUD, CDCR, Sutter Creek Fire Department, CALTRANS, State Parks, California Conservation Corp.",2015-09-09,2015-10-15,36.0
+Butte,1042.0,"CAL FIRE Butte Unit, Butte County Sheriff’s Office, California State Parks, California Highway Patrol, United States Forest Service, California Office of Emergency Services, California Department of Corrections and Rehabilitation, California Conservation Corps, Pacific Gas and Electric, Butte Emergency Medical Services, Butte County Public Works and American Red Cross.",2015-09-11,2015-09-17,6.0
+Shasta,109.0,"CAL FIRE Shasta-Trinity Unit, Shasta County Fire Department, Happy Valley Fire Protection District, Shasta Fire Department, Redding Fire Department, Millville Fire Protection District, Anderson Fire Protection District, Mountain Gate Fire Department",2015-09-11,2015-09-13,2.0
+Butte,104.0,CAL FIRE Butte Unit ,2015-10-02,2015-10-02,0.0
+Fresno,151623.0,Sierra National Forest ,2015-07-31,2015-11-09,101.0
+Merced,30.0,CAL FIRE Madera-Mariposa-Merced Unit,2016-04-24,2016-04-24,0.0
+,1388.0,Ventura County Fire Department,2015-12-25,2015-12-29,4.0
+Ventura,50.0,Ventura County Fire Department,2015-11-07,2015-11-07,0.0
+San Benito,670.0,CAL FIRE San Benito - Monterey Unit,2015-10-12,2015-10-16,4.0
+Santa Barbara,21.0,Los Padres National Forest,2015-10-29,2015-11-09,11.0
+Nevada,30.0,CAL FIRE Nevada-Yuba-Placer Unit,2015-09-22,2015-09-21,-1.0
+Monterey,1086.0,"CAL FIRE San Benito-Monterey Unit, Monterey County Sheriff, USFS Los Padres, CHP, Red Cross, Monterey County Regional FPD, CAL Trans, Cachaqua FPD, OES, SPCA of Monterey County, Monterey County EOC, PG&E, Monterey County Public Works, California Department of Corrections and Rehabilitation.",2015-09-19,2015-09-27,8.0
+Monterey,95.0,CAL FIRE San Benito-Monterey Unit,2015-09-19,2015-09-21,2.0
+Los Angeles,0.0,Los Angeles County Fire,2016-04-19,2016-04-19,0.0
+Tuolumne,85.0,CAL FIRE Tuolumne-Calaveras Unit,2016-05-30,2016-06-01,2.0
+Monterey,3876.0,CAL FIRE San Benito-Monterey Unit,2016-05-22,2016-05-25,3.0
+Los Angeles,156.0,LA County Fire Department/Angeles National Forest,2016-05-23,2016-05-25,2.0
+Fresno,278.0,CAL FIRE Fresno-Kings Unit,2016-05-25,2016-05-25,0.0
+Stanislaus,120.0,CAL FIRE Santa Clara Unit,2016-06-07,2016-06-09,2.0
+Butte,91.0,CAL FIRE Butte Unit,2016-05-27,2016-05-27,0.0
+Butte,30.0,"CAL FIRE Butte Unit, CHP, STATE PARKS, BUTTE VALLEY VOLUNTEERS, NORTH METRO VOLUNTEERS, GOLDEN FEATHER VOLUNTEERS.",2016-05-29,2016-05-29,0.0
+San Luis Obispo,150.0,CAL FIRE San Luis Obispo Unit,2016-05-10,2016-05-10,0.0
+Monterey,25.0,CAL FIRE San Benito-Monterey Unit,2016-05-12,2016-05-12,0.0
+Fresno,132.0,CAL FIRE Fresno-Kings Unit,2016-05-15,2016-05-17,2.0
+Placer,169.0,CAL FIRE Nevada-Yuba-Placer Unit,2016-05-17,2016-05-19,2.0
+San Diego,70.0,CAL FIRE San Diego Unit,2016-05-31,2016-06-07,7.0
+Tulare,0.0,Bureau of Land Management,2016-06-01,2016-06-19,18.0
+Butte,112.0,CAL FIRE Butte Unit,2016-06-20,2016-06-20,0.0
+San Luis Obispo,86.0,CAL FIRE San Luis Obispo Unit,2016-06-27,2016-06-29,2.0
+Calaveras,33.0,CAL FIRE Tuolumne-Calaveras Unit,2016-06-27,2016-06-30,3.0
+Tehama,43.0,CAL FIRE Tehama-Glenn Unit,2016-06-21,2016-06-21,0.0
+Placer,88.0,CAL FIRE Nevada Yuba Placer Unit,2016-06-21,2016-06-21,0.0
+El Dorado,25.0,CAL FIRE Amador El-Dorado,2016-06-03,2016-06-04,1.0
+San Benito,30.0,CAL FIRE San Benito Monterey Unit,2016-06-03,2016-06-03,0.0
+Sacramento,32.0,CAL FIRE Amador El-Dorado,2016-06-03,2016-06-03,0.0
+Riverside,139.0,CAL FIRE Riverside County Fire,2016-06-04,2016-06-07,3.0
+Monterey,2520.0,Los Padres National Forest,2016-06-04,2016-06-20,16.0
+San Luis Obispo,0.0,Bureau of Land Management ,2016-06-04,2016-06-19,15.0
+Shasta,24.0,CAL FIRE Shasta Trinity Unit,2016-06-11,2016-06-12,1.0
+Amador,210.0,CAL FIRE Amador El-Dorado Unit,2016-06-17,2016-06-21,4.0
+San Diego,7609.0,"CAL FIRE San Diego Unit, SDG&E, San Diego County Fire, Border Patrol, Cal Trans, CHP, San Diego Sheriff, BLM, California Department of Corrections and Rehabilitation, Red Cross, 2-1-1, San Diego County OES",2016-06-19,2016-06-30,11.0
+Monterey,70.0,CAL FIRE San Benito-Monterey Unit,2016-06-18,2016-06-20,2.0
+Tehama,80.0,CAL FIRE Tehama Glenn Unit,2016-06-11,2016-06-11,0.0
+Kern,61.0,Kern County Fire Department,2016-06-11,2016-06-12,1.0
+San Benito,83.0,CAL FIRE San Benito Monterey Unit,2016-06-12,2016-06-12,0.0
+Siskiyou,2860.0,USFS Klamath National Forest ,2016-06-07,2016-11-08,154.0
+Santa Barbara,7474.0,U.S Los Padres National Forest ,2016-06-15,2016-07-12,27.0
+Yolo,277.0,CAL FIRE Sonoma-Lake-Napa Unit,2016-06-26,2016-06-27,1.0
+Butte,49.0,CAL FIRE Butte County Fire,2016-06-21,2016-06-21,0.0
+Kern,48019.0,Bureau of Land Management,2016-06-23,2016-07-11,18.0
+Monterey,52.0,CAL FIRE San Benito-Monterey Unit,2016-06-23,2016-06-24,1.0
+Merced,1246.0,CAL FIRE Madera-Mariposa-Merced Unit,2016-06-25,2016-06-26,1.0
+Orange,47.0,Orange County Fire Authority,2016-06-26,2016-06-29,3.0
+Alameda,211.0,CAL FIRE Santa Clara Unit,2016-06-25,2016-06-26,1.0
+Mono,650.0,Inyo National Forest,2016-06-25,2016-07-09,14.0
+Lake,215.0,CAL FIRE Sonoma-Lake-Napa Unit,2016-06-26,2016-06-28,2.0
+"El Dorado, Placer",5646.0,"CAL FIRE Nevada-Yuba-Placer Unit / El Dorado National Forest, CAL FIRE, US Forest Service, Placer County Sheriff’s Department, El Dorado County Sheriff’s Department, California Highway Patrol, California Office of Emergency Services, and local fire departments from across the region.",2016-06-28,2016-07-18,20.0
+Amador,372.0,CAL FIRE Amador- El Dorado Unit,2016-06-28,2016-06-29,1.0
+Fresno,188.0,CAL FIRE Fresno County Fire,2016-07-11,2016-07-13,2.0
+Los Angeles,1109.0,Los Angeles County Fire,2016-07-09,2016-07-16,7.0
+San Benito,95.0,CAL FIRE San Benito-Monterey Unit,2016-07-09,2016-07-10,1.0
+Kern,554.0,Kern County Fire,2016-07-08,2016-07-10,2.0
+Shasta,441.0,"CAL FIRE Shasta-Trinity Unit, Redding Fire Department, Shasta County Fire Department, Shasta County Public Works, Shasta County Sheriff's Department and CHP",2016-07-08,2016-07-12,4.0
+Tehama,464.0,"CAL FIRE Tehama-Glenn Unit, Mendocino National Forest",2016-06-30,2016-07-04,4.0
+Kern,1785.0,"Kern County Fire, Kern County Fire/OES, Kern County Sheriff, CHP, Bear Valley CSD, CalOES, CDCR, American Red Cross, Cal Edison, Tejon Ranch, CCC.",2016-07-01,2016-07-08,7.0
+Ventura,2304.0,Los Padres National Forest,2016-06-30,2016-06-30,0.0
+Tehama,88.0,CAL FIRE Tehama-Glen Unit,2016-07-01,2016-07-01,0.0
+Fresno,2944.0,"CAL FIRE Fresno Unit, Fresno County Sheriff’s Office, California Highway Patrol, PG&E, Cal Trans, California Department of Corrections and Rehabilitation, BLM.",2016-07-01,2016-07-05,4.0
+Inyo,30.0,CAL FIRE San Bernardino Unit,2016-07-01,2016-07-02,1.0
+Calaveras,310.0,CAL FIRE Tuolumne-Calaveras Unit,2016-07-02,2016-07-08,6.0
+Sacramento,87.0,CAL FIRE Amador-Eldorado Unit,2016-07-10,2016-07-11,1.0
+Fresno,145.0,CAL FIRE Fresno-Kings Unit,2016-07-04,2016-07-07,3.0
+Madera,103.0,CAL FIRE Madera-Mariposa-Merced Unit,2016-07-04,2016-07-06,2.0
+Ventura,45.0,Ventura County Fire,2016-07-01,2016-07-01,0.0
+Ventura,15.0,Ventura County Fire,2016-07-11,2016-07-12,1.0
+Calaveras,341.0,CAL FIRE Tuolumne Calaveras Unit,2016-07-12,2016-07-16,4.0
+Calaveras,35.0,CAL FIRE Tuolumne Calaveras Unit,2016-07-12,2016-07-13,1.0
+Yolo,84.0,CAL FIRE Sonoma-Lake-Napa Unit,2016-07-15,2016-07-15,0.0
+Kern,221.0,Kern County Fire / Sequoia National Forest ,2016-07-13,2016-07-14,1.0
+Ventura,78.0,Ventura County Fire Department,2016-07-13,2016-07-15,2.0
+Kern,138.0,Kern County Fire,2016-07-15,2016-07-16,1.0
+Fresno,123.0,CAL FIRE Fresno County Fire,2016-07-15,2016-07-16,1.0
+San Diego,100.0,CAL FIRE San Diego,2016-07-18,2016-07-20,2.0
+Lake,69.0,"CAL FIRE Sonoma-Lake-Napa Unit, CAL FIRE, North Shore Fire Protection District, Lake County Sheriff Department, and United States Forest Service",2016-07-19,2016-07-22,3.0
+Siskiyou,26.0,CAL FIRE Siskiyou Unit,2016-07-19,2016-07-20,1.0
+Fresno,2241.0,"CAL FIRE Fresno-Kings Unit, US Forest Service, Fresno County OES, Fresno County Sheriff, California Department of Corrections, California Conservation Corps, California Highway Patrol, PG&E, CalTrans",2016-07-30,2016-08-09,10.0
+Calaveras,57.0,CAL FIRE Tuolumne-Calaveras Unit,2016-07-21,2016-07-22,1.0
+Solano,57.0,CAL FIRE Sonoma-Lake-Napa Unit/Vacaville Fire Department,2016-07-22,2016-07-22,0.0
+San Diego,1245.0,Camp Pendleton Military Base,2016-07-21,2016-07-30,9.0
+Siskiyou,23.0,CAL FIRE Siskiyou Unit,2016-07-21,2016-07-22,1.0
+Monterey,100.0,CAL FIRE San Benito-Monterey Unit,2016-07-22,2016-07-23,1.0
+Monterey,132127.0,US Forest Service - Los Padres National Forest,2016-07-22,2016-10-13,83.0
+Orange,150.0,Cleveland National Forest,2016-08-31,2016-09-05,5.0
+San Bernardino,20.0,San Bernardino National Forest,2016-09-03,2016-09-04,1.0
+Butte,850.0,"CAL FIRE / Butte County Fire, Butte County Sherrif's Office, CHP, State Parks, CalTrans, NVADG, Butte County Public Works, Town of Paradise Public Works, Paradise P.D. Butte EMS, Butte County Search & Rescue, US Forest Service, BLM, and the California Conservation Corp",2016-09-05,2016-09-12,7.0
+Mendocino,50.0,CAL FIRE Mendocino Unit,2016-09-10,2016-09-15,5.0
+San Bernardino,50.0,San Bernardino County Fire ,2016-09-07,2016-09-09,2.0
+Nevada,38.0,Tahoe National Forest,2016-09-07,1969-12-31,-17052.0
+Shasta,75.0,CAL FIRE Shasta-Trinity Unit / Shasta Lake City Fire Department,2016-09-10,2016-09-12,2.0
+El Dorado,50.0,"CAL FIRE Amador-El Dorado Unit, El Dorado Hills Fire, El Dorado County Fire, El Dorado County Sheriffs, BLM, State Parks, USFS, Garden Valley, CHP, Cameron Park Fire Deparment",2016-07-22,2016-07-23,1.0
+San Diego,28.0,CAL FIRE San Diego Unit,2016-07-22,2016-07-24,2.0
+Contra Costa,40.0,CAL FIRE Santa Clara Unit,2016-07-24,2016-07-24,0.0
+Madera,38.0,CAL FIRE Madera-Mariposa-Merced Unit,2016-07-29,2016-07-31,2.0
+Tuolumne,32.0,CAL FIRE Tuolumne-Calaveras unit,2016-07-30,2016-08-01,2.0
+Santa Clara,114.0,CAL FIRE Santa Clara Unit,2016-07-30,2016-07-31,1.0
+San Diego,35.0,CAL FIRE San Diego Unit,2016-08-10,2016-08-11,1.0
+Tehama,80.0,CAL FIRE Tehama-Glenn Unit,2016-08-03,2016-08-04,1.0
+Butte,550.0,CAL FIRE Butte Unit,2016-08-02,2016-08-03,1.0
+Yolo,5731.0,"CAL FIRE Sonoma Lake Napa Unit, Winters FPD, CHP, Napa County Sheriff, Yolo County Sheriff, Solano County Sheriff, CAL TRANS, CAL OES, BLM, Yolo County OES, City of Winters, PG&E, City of Vacaville and California Conservation Corps.o County Sheriff, Cal Trans, BLM, Cal OES, Yolo County OES, City of Winters, PG&E, City of Vacaville",2016-08-02,2016-08-12,10.0
+Kern,100.0,Kern County Fire,2016-08-04,2016-08-07,3.0
+Madera,85.0,CAL FIRE Madera-Mariposa-Merced Unit,2016-08-04,2016-08-06,2.0
+Amador,26.0,CAL FIRE Amador - El Dorado Unit,2016-08-05,2016-08-06,1.0
+Santa Clara,25.0,CAL FIRE Santa Clara Unit,2016-08-12,2016-08-14,2.0
+San Bernardino,8110.0,"San Bernardino National Forest, California Highway Patrol, California Office of Emergency Services, San Bernardino County Office of Emergency Service, Bureau of Land Management, CALTRANS, San Bernardino County Animal Control, American Red Cross, Southern California Edison",2016-08-07,2016-08-16,9.0
+Lake,45.0,CAL FIRE Sonoma-Lake-Napa Unit,2016-08-09,2016-08-10,1.0
+Lake,36.0,CAL FIRE Sonoma-Lake-Napa Unit,2016-08-09,2016-08-10,1.0
+Fresno,7050.0,"CAL FIRE Fresno Kings Unit, Fresno County Sheriffs Office, Fresno County OES, Fresno County Roads, Bureau Of Land Management, California Department of Corrections, City of Coalinga, California Conservation Corps, California Highway Patrol, CalTrans, Red Cross  www",2016-08-09,2016-08-18,9.0
+San Bernardino,36274.0,"San Bernardino National Forest , BNSF Railway, Union Pacific Railway, Cal Trans, Southern California Edison, LA DWP, American Red Cross, San Bernardino Animal Control, California Department of Corrections and Rehabilitation and the California Highway Patrol",2016-08-16,2016-08-23,7.0
+Shasta,35.0,CAL FIRE Shasta-Trinity Unit,2016-08-09,2016-08-10,1.0
+Humboldt,21.0,CAL FIRE Humboldt-Del Norte,2016-08-12,2016-08-19,7.0
+San Luis Obispo,46344.0,"CAL FIRE San Luis Obispo Unit, California Highway Patrol, California State Parks, San Luis Obispo County Sheriff, Red Cross, California Department of Corrections and Rehabilitation, California Conservation Corps, PG&E, San Luis Obispo Air Quality Board, San Luis Obispo Public Works, Paso Robles Fire Department, Monterey Co. Water Resource Board, California Department of Fish and Wildlife, US Army Camp Roberts, CAL-OES, San Luis Obispo County OES, Monterey County Sheriff, Monterey County OES, Fort Hunter Liggett, and Los Padres National Forest.",2016-08-13,2016-09-06,24.0
+Lake,3929.0,"CALFIRE Sonoma-Lake-Napa Unit, CAL FIRE, Multiple local government fire departments, USFS, Department of Fish & Game, CA State Parks, Lake County Sheriffs, CHP, PG&E, CDCR and BLM.",2016-08-13,2016-08-26,13.0
+Kern,29322.0,Sequoia National Forest,2016-08-16,2016-10-01,46.0
+Humboldt,23.0,CAL FIRE Humboldt-Del Norte,2016-08-11,2016-08-16,5.0
+Sacramento,40.0,CAL FIRE Amador- El Dorado Unit / Sac Metro Fire,2016-09-11,2016-09-12,1.0
+Alpine,0.0,Stanislaus National Forest,2016-08-18,2016-08-30,12.0
+Fresno,158.0,CAL FIRE / Fresno County Fire,2016-09-03,2016-09-06,3.0
+Santa Clara,25.0,CAL FIRE Santa Clara Unit,2016-09-01,2016-09-02,1.0
+Yuba,400.0,CAL FIRE Nevada-Yuba-Placer Unit,2016-08-18,2016-08-18,0.0
+Mendocino,36.0,CAL FIRE Mendocino Unit,2016-08-30,2016-08-31,1.0
+Kern,304.0,USFS Sequoia National Forest,2016-08-28,2016-08-28,0.0
+Siskiyou,33867.0,USFS Klamath National Forest,2016-08-27,2016-08-28,1.0
+San Joaquin,147.0,CAL FIRE Santa Clara Unit,2016-08-20,2016-08-20,0.0
+Humboldt,599.0,"CAL Fire Humboldt-Del Norte Unit, CDCR, Yurok Tribe, BIA, USFS, CCC, NDF, and NDC.",2016-08-22,2016-09-04,13.0
+Lassen,2575.0,"CAL FIRE Lassen-Modoc Unit, USFS LNF, BLM, Susanville City, Susanville Police, Sierra Army Depot, Standish Litchfield Fire, Milford Fire, Janesville Fire, Lake Forest Fire, Hamilton Branch Fire, California Department of Corrections and Rehabilitation, California Highway Patrol, Red Cross, Lassen County OES, Lassen County Sheriff’s Office, Susan River FD, Susanville City Fire, Bureau of Land Management, CA Office of Emergency Service, California Conservation Corp, and WM Beaty",2016-09-11,2016-09-22,11.0
+Butte,88.0,CAL FIRE Butte Unit,2016-08-26,2016-08-30,4.0
+Calaveras,450.0,CAL FIRE Tuolumne-Calaveras Unit,2016-08-28,2016-08-31,3.0
+Tulare,395.0,US Forest Service - Sequoia National Forest,2016-08-22,2016-11-08,78.0
+Siskiyou,710.0,"CAL FIRE Siskiyou Unit, Siskiyou County Sheriff, CHP, CAL TRANS, Siskiyou County OES",2016-08-24,2016-08-30,6.0
+Modoc,380.0,CAL FIRE Lassen-Modoc Unit,2016-09-11,2016-09-14,3.0
+Kern,518.0,Kern County Fire Department,2016-08-26,2016-08-29,3.0
+Lake,20.0,CAL FIRE Sonoma-Lake-Napa Unit,2016-08-30,2016-08-31,1.0
+Siskiyou,32.0,CAL FIRE Siskiyou Unit,2016-09-12,2016-09-13,1.0
+Butte,30.0,CAL FIRE Butte Unit,2016-09-16,2016-09-19,3.0
+Tehama,360.0,CAL FIRE Tehama-Glenn Unit,2016-09-13,2016-09-13,0.0
+Del Norte,150.0,Stanislaus National Forest,2016-09-13,2016-09-17,4.0
+Nevada,47.0,CAL FIRE Nevada-Yuba-Placer Unit / Grass Valley Fire Department,2016-09-17,2016-09-20,3.0
+Inyo,5443.0,Inyo National Forest,2016-09-17,2016-09-18,1.0
+Modoc,2652.0,Modoc National Forest,2016-09-17,2016-10-13,26.0
+Santa Barbara,12518.0,Vandenberg Air Force Base,2016-09-17,2016-09-27,10.0
+Santa Barbara,215.0,Vandenberg Air Force Base,2016-09-22,2016-09-27,5.0
+Butte,130.0,CAL FIRE Butte Unit,2016-09-22,2016-09-23,1.0
+Sutter,300.0,Beale Air Force Base,2016-09-20,2016-09-20,0.0
+Amador,45.0,"CAL FIRE Amador-El Dorado Unit, Amador Fire Protection District, Jackson Fire, Ione Fire, Sutter Creek Fire, CHP, Amador County Sheriff, Caltrans",2016-09-23,2016-09-25,2.0
+Tuolumne,1080.0,"CAL FIRE Tuolumne-Calaveras Unit, Tuolumne County Sheriff’s Department, CHP, PG&E, OES, BLM, CAL FIRE, CDCR, U.S. Forest Service, City and County of San Francisco – Hetch Hetchy Water & Power. Nearly 100 different agencies from at least three different states have sent equipment and/or personnel to this fire.",2016-09-26,2016-10-04,8.0
+Fresno,70.0,CAL FIRE Fresno-Kings unit,2016-09-23,2016-09-24,1.0
+Shasta,100.0,CAL FIRE Shasta-Trinity Unit,2016-09-25,2016-09-25,0.0
+Sonoma,1547.0,"CAL FIRE Sonoma-Lake-Napa Unit, CAL PINE, Napa County Fire, Cloverdale FPD, Geyserville FPD, Healdsburg FD, Windsor FPD, Sonoma and Lake County Sheriff's Office, CA Highway Patrol, Red Cross, CA Dept. of Corrections and Rehabilitation, North Bay Incident Management Team, Sonoma County Animal Services",2016-09-25,2016-09-29,4.0
+Plumas,248.0,US Forest Service - Plumas NF,2016-09-26,2016-10-06,10.0
+Santa Clara,4474.0,"CAL FIRE Santa Clara Unit, California Highway Patrol, Santa Clara County Sheriff’s Office, Santa Cruz County Sheriff’s Office, California Department of Corrections and Rehabilitation, San Jose Water Company, Santa Clara Valley Water District, Pacific Gas and Electric and Santa Clara County Office of Emergency Services, California Conservation Corps, Red Cross, Santa Clara County Fire Safe Council, Santa Clara County Parks, Santa Clara County Open Space District, and Mid-Peninsula Open Space District, Santa Clara County Roads and Airports, Santa Cruz Public Works, Pacific Gas and Electric, and Cal OES.",2016-09-26,2017-09-19,358.0
+Fresno,2100.0,USFS Sierra National Forest,2016-10-11,2016-10-20,9.0
+El Dorado,176.0,"CAL FIRE Amador- El Dorado Unit / USFS El Dorado National Forest / Lake Valley Fire, CAL FIRE, USFS, Lake Valley, Meeks Bay Fire, South Lake Tahoe Fire, El Dorado Sheriffs, SLT PD, CHP, State Parks, CALTrans, Fallen Leaf Lake Fire, North Tahoe Fire, Liberty Utilities",2016-10-14,2016-10-17,3.0
+San Diego,28.0,CAL FIRE San Diego Unit,2016-11-13,2016-11-14,1.0
+Los Angeles,4824.0,Angeles National Forest ,2016-11-14,2016-11-14,0.0
+Tulare,10.0,Sequoia National Forest,2016-10-20,2016-12-19,60.0
+Tulare,4347.0,Sequoia National Forest,2016-10-29,2016-12-19,51.0
+Fresno,30.0,CAL FIRE / Fresno County Fire,2018-04-12,2019-01-03,266.0
+Butte,0.0,"Unified Command, Butte County Sheriff, Butte County CALFIRE, Oroville Police Department, CHP, Butte County OES, California State Parks, Caltrans, Oroville Fire Department, Butte County Public Works, PG&E, CAL FIRE, Army Corps of Engineers, Federal Energy Regulatory Commission, Oroville Hospital, Red Cross, California Conservation Corps, California National Guard, Bureau of Indian Affairs, CAL OES, Gridley-Biggs Police, and California Department of Fish and Wildlife.",2017-02-07,2018-01-09,336.0
+Shasta,45.0,CAL FIRE Shasta-Trintiy Unit,2017-04-03,2018-01-09,281.0
+Modoc,380.0,CAL FIRE Lassen-Modoc Unit,2017-04-03,2018-01-09,281.0
+Riverside,15.0,CAL FIRE Riverside Unit,2017-04-13,2018-01-09,271.0
+Fresno,5738.0,CAL FIRE Fresno Kings Unit,2017-04-20,2018-01-09,264.0
+Monterey,10.0,CAL FIRE San Benito-Monterey Unit ,2017-04-24,2018-01-09,260.0
+Fresno,976.0,Fresno County Fire ,2017-04-28,2018-01-09,256.0
+Fresno,126.0,CAL FIRE Fresno-Kings Unit,2017-04-29,2018-01-09,255.0
+San Bernardino,150.0,USFS - San Bernardino National Forest,2017-04-30,2018-01-09,254.0
+Riverside,1350.0,CAL FIRE/Riverside County Fire,2017-04-30,2018-01-09,254.0
+Riverside,12.0,CAL FIRE/Riverside County Fire,2017-04-30,2018-01-09,254.0
+Kern,19.0,Kern County Fire,2017-05-01,2018-01-09,253.0
+San Luis Obispo,130.0,CAL FIRE San Luis Obispo Unit,2017-05-02,2018-01-09,252.0
+San Luis Obispo,12.0,CAL FIRE San Luis Obispo Unit,2017-05-07,2018-01-09,247.0
+Fresno,400.0,CAL FIRE/Fresno County Fire,2017-05-10,2018-01-09,244.0
+Kern,31.0,Kern County Fire,2017-05-12,2018-01-09,242.0
+Merced,1800.0,CAL FIRE Madera-Mariposa-Merced Unit,2017-05-12,2018-01-09,242.0
+Monterey,20.0,CAL FIRE San Benito-Monterey Unit,2017-05-14,2018-01-09,240.0
+Riverside,17.0,CAL FIRE/Riverside County Fire,2017-05-14,2018-01-09,240.0
+Kern,41.0,Kern County Fire,2017-05-14,2018-01-09,240.0
+San Luis Obispo,225.0,CAL FIRE San Luis Obispo Unit,2017-05-15,2018-01-09,239.0
+Kern,288.0,Kern County Fire,2017-05-15,2018-01-09,239.0
+Monterey,18.0,CAL FIRE San Benito - Monterey Unit,2017-05-16,2018-01-09,238.0
+Monterey,17.0,CAL FIRE San Benito Monterey Unit,2017-05-17,2018-01-09,237.0
+Madera,150.0,Madera County Fire Department,2017-05-17,2018-01-09,237.0
+San Luis Obispo,225.0,CAL FIRE San Luis Obispo Unit,2017-05-18,2018-01-09,236.0
+Fresno,10343.0,"CAL FIRE/Fresno County Fire, Fresno County Sheriff’s Office, Fresno County OES, PG&E, BLM, Red Cross, California Highway Patrol",2017-05-18,2018-01-09,236.0
+Kings,20.0,CAL FIRE/Fresno County Fire,2017-05-18,2018-01-09,236.0
+Riverside,14.0,CAL FIRE/Riverside County Fire,2017-05-18,2018-01-09,236.0
+Fresno,70.0,CAL FIRE Fresno-Kings Unit,2017-05-19,2018-01-09,235.0
+Merced,12.0,CAL FIRE Madera-Mariposa-Merced Unit,1969-12-31,2018-01-09,17541.0
+San Luis Obispo,0.0,Department of Defense - Camp Roberts,2017-05-19,2018-01-09,235.0
+San Diego,486.0,Camp Pendleton Marine Base,2017-05-19,2018-01-09,235.0
+San Diego,2056.0,CAL FIRE San Diego Unit,2017-05-20,2018-01-09,234.0
+San Luis Obispo,17.0,CAL FIRE San Luis Obispo Unit,2017-05-20,2018-01-09,234.0
+Kern,506.0,Kern County Fire,2017-05-20,2018-01-09,234.0
+Riverside,10.0,CAL FIRE/Riverside County Fire,2017-05-23,2018-01-09,231.0
+Santa Barbara,190.0,Santa Barbara County,2017-05-20,2018-01-09,234.0
+San Diego,25.0,CAL FIRE San Diego Unit,2017-05-24,2018-01-09,230.0
+San Benito,21.0,CAL FIRE San Benito-Monterey Unit,2017-05-22,2018-01-09,232.0
+Riverside,35.0,CAL FIRE/ Riverside County Fire,2017-05-21,2018-01-09,233.0
+San Diego,1000.0,Camp Pendleton Marine Base,2017-05-25,2018-01-09,229.0
+Riverside,120.0,CAL FIRE/Riverside County Fire,2017-05-25,2018-01-09,229.0
+Kern,10.0,Kern County Fire Department,2017-05-28,2018-01-09,226.0
+Fresno,16.0,CAL FIRE Fresno-Kings Unit,2017-05-28,2018-01-09,226.0
+Riverside,48.0,CAL FIRE Riverside Unit,2017-05-28,2018-01-09,226.0
+Calaveras,15.0,CAL FIRE Tuolumne-Calaveras Unit,2017-05-28,2018-01-09,226.0
+Fresno,18.0,CAL FIRE Fresno-Kings Unit,2017-05-28,2018-01-09,226.0
+San Bernardino,16.0,CAL FIRE San Bernardino Unit,2017-05-29,2018-01-09,225.0
+Tulare,79.0,CAL FIRE Tulare Unit,2017-05-31,2018-01-09,223.0
+Yuba,10.0,CAL FIRE Nevada-Yuba-Placer Unit,2017-05-29,2018-01-09,225.0
+Sacramento,68.0,CAL FIRE Amador-El Dorado Unit,2017-06-01,2018-01-09,222.0
+Riverside,26.0,CAL FIRE/Riverside County Fire,2017-06-01,2018-01-09,222.0
+Kern,16.0,Kern County Fire Department,2017-06-02,2018-01-09,221.0
+Modoc,42.0,CAL FIRE Lassen-Modoc Unit,2017-06-03,2018-01-09,220.0
+Riverside,27.0,CAL FIRE / Riverside County Fire,2017-06-03,2018-01-09,220.0
+Los Angeles,25.0,Los Angeles County Fire Department,2017-06-03,2018-01-09,220.0
+Kern,33.0,"Kern County Fire Department, CAL FIRE and Bureau of Land Management",2017-06-04,2018-01-09,219.0
+Tehama,78.0,CAL FIRE Tehama-Glenn Unit,2017-06-04,2018-01-09,219.0
+Lassen,67.0,CAL FIRE Lassen-Modoc Unit,2017-06-04,2018-01-09,219.0
+Riverside,10.0,CAL FIRE/Riverside County Fire,2017-06-04,2018-01-09,219.0
+Contra Costa,20.0,CAL FIRE Santa Clara Unit,2017-06-05,2018-01-09,218.0
+Kern,10.0,Kern County Fire,2017-06-05,2018-01-09,218.0
+Butte,91.0,CAL FIRE/Butte County Fire,2017-06-06,2018-01-09,217.0
+Siskiyou,46.0,CAL FIRE Siskiyou Unit,2017-06-06,2018-01-09,217.0
+Tulare,339.0,"CAL FIRE Tulare Unit, CHP, Tulare Co. Fire Dept., Tulare Co. Sheriff’s Dept., CalOES, CDCR, BLM, NPS, American Red Cross",2017-06-07,2018-01-09,216.0
+Madera,157.0,CAL FIRE Madera-Mariposa-Merced Unit,2017-06-07,2018-01-09,216.0
+Kern,206.0,Kern County Fire Department,2017-06-10,2018-01-09,213.0
+,0.0,Bureau of Land Management,2017-06-09,2018-01-09,214.0
+Kern,35.0,Kern County Fire Department,2017-06-09,2018-01-09,214.0
+Monterey,14.0,CAL FIRE San Benito-Monterey Unit,2017-06-09,2018-01-09,214.0
+Madera,1431.0,"CAL FIRE Madera-Mariposa-Merced Unit, PG&E, USFS, CHP, Madera Sheriff's Office, Fresno County Fire, Madera County Fire",2017-06-10,2018-01-09,213.0
+Fresno,186.0,CAL FIRE Fresno Unit / Fresno County Fire,2017-06-11,2018-01-09,212.0
+Napa,22.0,Sonoma-Lake Napa Unit,2017-06-13,2018-01-09,210.0
+Monterey,32.0,CAL FIRE San Benito-Monterey Unit,2017-06-11,2018-01-09,212.0
+Fresno,450.0,CAL FIRE/Fresno County Fire,2017-06-11,2018-01-09,212.0
+Fresno,76.0,CALFIRE/Fresno County Fire,2017-06-11,2018-01-09,212.0
+Tuolumne,38.0,CAL FIRE Tuolumne-Calaveras Unit,2017-06-11,2018-01-09,212.0
+Riverside,33.0,CAL FIRE / Riverside County Fire,2017-06-13,2018-01-09,210.0
+San Diego,50.0,MCI Camp Pendleton,2017-06-13,2018-01-09,210.0
+Tulare,135.0,"CAL FIRE Tulare Unit, Tulare Co. FD, Tulare Co. Sheriff’s Department",2017-06-13,2018-01-09,210.0
+Riverside,20.0,CAL FIRE / Riverside County Fire,2017-06-13,2018-01-09,210.0
+San Luis Obispo,150.0,CAL FIRE San Luis Obispo Unit,2017-06-14,2018-01-09,209.0
+Mariposa,63.0,CAL FIRE Madera-Mariposa-Merced Unit,2017-06-15,2018-01-09,208.0
+Riverside,105.0,CAL FIRE / Riverside County Fire,2017-06-15,2018-01-09,208.0
+Riverside,28.0,CAL FIRE/Riverside County Fire,2017-06-15,2018-01-09,208.0
+Butte,134.0,CAL FIRE / Butte County Fire,2017-06-16,2018-01-09,207.0
+Riverside,10.0,CAL FIRE/Riverside County Fire,2017-06-16,2018-01-09,207.0
+Monterey,32.0,CAL FIRE San Benito-Monterey Unit,2017-06-16,2018-01-09,207.0
+Los Angeles,800.0,Unified Command LA County Fire and USFS,2017-06-17,2018-01-09,206.0
+Tehama,60.0,CAL FIRE Tehama-Glenn Unit,2017-06-18,2018-01-09,205.0
+Riverside,10.0,CAL FIRE / Riverside County Fire,2017-06-18,2018-01-09,205.0
+Riverside,153.0,CAL FIRE / Riverside County Fire,2017-06-18,2018-01-09,205.0
+Madera,25.0,Madera County Fire,2017-06-18,2018-01-09,205.0
+Kern,1522.0,Sequoia National Forest,2017-06-18,2018-01-09,205.0
+Riverside,26.0,CAL FIRE / Riverside County Fire,2017-06-18,2018-01-09,205.0
+Siskiyou,56.0,CAL FIRE Siskiyou Unit,2017-06-18,2018-01-09,205.0
+Solano,39.0,Vallejo City Fire Department,2017-06-22,2018-01-09,201.0
+San Bernardino,1503.0,San Bernardino National Forest,2017-06-19,2018-01-09,204.0
+Sierra,168.0,USFS - Humboldt-Toiyabe National Forest,2017-06-19,2018-01-09,204.0
+Stanislaus,65.0,CAL FIRE Tuolumne-Calaveras Unit,2017-06-21,2018-01-09,202.0
+Santa Clara,54.0,CAL FIRE Santa Clara Unit,2017-06-21,2018-01-09,202.0
+Butte,21.0,CAL FIRE/Butte County Fire,2017-06-22,2018-01-09,201.0
+Butte,111.0,CAL FIRE / Butte County Fire,2017-06-22,2018-01-09,201.0
+Fresno,357.0,CAL FIRE / Fresno County Fire,2017-06-23,2018-01-09,200.0
+Tehama,42.0,CAL FIRE Tehama-Glenn Unit,2017-06-24,2018-01-09,199.0
+Tulare,0.0,Tulare County,2017-06-23,2018-01-09,200.0
+Los Angeles,760.0,LA County Fire Department,2017-06-25,2018-01-09,198.0
+San Diego,36.0,CAL FIRE San Diego Unit / Cleveland National Forest,2017-06-25,2018-01-09,198.0
+Riverside,6309.0,CAL FIRE/Riverside County Fire,2017-06-26,2018-01-09,197.0
+Siskiyou,19.0,CAL FIRE Siskiyou Unit,2017-06-26,2018-01-09,197.0
+San Luis Obispo,1598.0,CAL FIRE San Luis Obispo Unit,2017-06-26,2018-01-09,197.0
+Sacramento,35.0,CAL FIRE Amador-El Dorado Unit,2017-06-27,2018-01-09,196.0
+Marin,38.0,Marin County Fire Department,2017-06-27,2018-01-09,196.0
+San Diego,25.0,CAL FIRE San Diego Unit,2017-06-27,2018-01-09,196.0
+San Bernardino,670.0,USFS - San Bernardino National Forest ,2017-06-27,2018-01-09,196.0
+Del Norte,28.0,CAL FIRE Humboldt-Del Norte Unit,2017-06-26,2018-01-09,197.0
+Santa Clara,85.0,CAL FIRE Santa Clara Unit,2017-06-29,2018-01-09,194.0
+Monterey,15.0,CAL FIRE San Benito-Monterey,2017-06-28,2018-01-09,195.0
+Modoc,562.0,Modoc National Forest,2017-06-28,2018-01-09,195.0
+Mariposa,630.0,"CAL FIRE Madera-Mariposa-Merced Unit, Mariposa County Fire, Mariposa County Sheriff, CHP, PG&E, CAL FIRE, CCC",2017-06-28,2018-01-09,195.0
+San Diego,0.0,Camp Pendleton Marine Corps Base,2017-06-28,2018-01-09,195.0
+Kern,1200.0,Kern County Fire,2017-06-30,2018-01-09,193.0
+Monterey,42.0,CAL FIRE San Benito-Monterey Unit,2017-06-29,2018-01-09,194.0
+Los Angeles,55.0,Los Angeles County Fire Department,2017-06-29,2018-01-09,194.0
+Los Angeles,41.0,Los Angeles County Fire Department,2017-06-29,2018-01-09,194.0
+Shasta,128.0,CAL FIRE Shasta-Trinity Unit,2017-07-01,2018-01-09,192.0
+Nevada,10.0,CAL FIRE Nevada-Yuba-Placer Unit,2017-07-02,2018-01-09,191.0
+Riverside,11.0,CAL FIRE Riverside Unit,2017-07-02,2018-01-09,191.0
+Butte,14.0,CAL FIRE Butte Unit,2017-07-02,2018-01-09,191.0
+Mariposa,225.0,"CAL FIRE Madera-Mariposa-Merced Unit, Mariposa County Sheriff Office, Mariposa County Fire, PG&E, Caltrans, Mariposa County Public Works, CHP, Red Cross, CAL FIRE.",2017-07-02,2018-01-09,191.0
+Fresno,1538.0,CAL FIRE / Fresno County Fire,2017-07-02,2018-01-09,191.0
+Riverside,30.0,CAL FIRE / Riverside County Fire,2017-07-03,2018-01-09,190.0
+Riverside,10.0,CAL FIRE/Riverside County Fire Department ,2017-07-03,2018-01-09,190.0
+Riverside,50.0,CAL FIRE/Riverside County Fire Department,2017-07-03,2018-01-09,190.0
+San Benito,34.0,CAL FIRE San Benito-Monterey Unit,2017-07-04,2018-01-09,189.0
+San Bernardino,13.0,CAL FIRE San Bernardino Unit / San Bernardino National Forest,2017-07-04,2018-01-09,189.0
+Fresno,57.0,CAL FIRE / Fresno County Fire,2017-07-04,2018-01-09,189.0
+Riverside,35.0,CAL FIRE / Riverside County Fire,2017-07-04,2018-01-09,189.0
+Butte,18.0,CAL FIRE / Butte County Fire,2017-07-04,2018-01-09,189.0
+Ventura,50.0,Ventura County Fire Department,2017-07-04,2018-01-09,189.0
+Siskiyou,0.0,Klamath National Forest,2017-07-04,2018-01-09,189.0
+Riverside,205.0,CAL FIRE / Riverside County Fire,2017-07-04,2018-01-09,189.0
+Tulare,21.0,CAL FIRE Tulare Unit,2017-07-05,2018-01-09,188.0
+Siskiyou,469.0,CAL FIRE Siskiyou Unit,2017-07-05,2018-01-09,188.0
+El Dorado,74.0,"CAL FIRE Amador-El Dorado Unit, USFS, Garden Valley Fire, Sacramento Metro Fire, El Dorado County Fire, El Dorado Hills Fire, Georgetown Fire, EDSO, BLM",2017-07-08,2018-01-09,185.0
+Stanislaus,62.0,CAL FIRE Tuolumne-Calaveras Unit,2017-07-08,2018-01-09,185.0
+Fresno,91.0,CAL FIRE/Fresno County Fire,2017-07-05,2018-01-09,188.0
+Calaveras,22.0,CAL FIRE Tuolumne-Calaveras Unit,2017-07-05,2018-01-09,188.0
+Yolo,2269.0,"CAL FIRE Sonoma-Lake-Napa Unit , Yolo County Sheriff, CDCR, CHP, Caltrans, PG&E, North Bay Incident Management Team, Winters Fire Department, and Fire Agencies from Yolo, Solano, and Sacramento Counties.",2017-07-06,2018-01-09,187.0
+Kern,1626.0,Kern County Fire,2017-07-06,2018-01-09,187.0
+San Luis Obispo,28687.0,"Unified Command: CAL FIRE San Luis Obispo Unit / Santa Barbara County / Los Padres National Forest, California Highway Patrol, San Luis Obispo County Sheriff, Santa Barbara County Sheriff, Red Cross, CAL-OES, California Department of Corrections and Rehabilitation, California Conservation Corps, and PG&E",2017-07-06,2018-01-09,187.0
+Lassen,0.0,Lassen National Forest,2017-07-06,2018-01-09,187.0
+Kern,2940.0,Kern County Fire Department,2017-07-07,2018-01-09,186.0
+Siskiyou,0.0,CAL FIRE Siskiyou Unit / Klamath National Forest,2017-06-25,2018-01-09,198.0
+Madera,90.0, CAL FIRE Madera-Mariposa-Merced Unit,2017-07-07,2018-01-09,186.0
+Riverside,33.0,CAL FIRE / Riverside County Fire,2017-07-07,2018-01-09,186.0
+Butte,6033.0,"CAL FIRE Butte County Fire, California Highway Patrol - Chico, Butte County Sheriff’s Office, California Department of Corrections and Rehabilitation, California State Parks, Cal OES, California Conservation Corps, Cal OES - Law, North Valley Animal Disaster Group, Butte County EOC, American Red Cross, Butte County Animal Control, Pacific Gas and Electric, Oroville Police Department, Oroville Fire Department, California Department of Transportation - Oroville, Salvation Army, California Department of Water Resources.",2017-07-07,2018-01-09,186.0
+San Bernardino,74.0,Unified Command -  CAL FIRE San Bernardino Unit / Redlands Fire Department,2017-07-07,2018-01-09,186.0
+San Luis Obispo,58.0,CAL FIRE San Luis Obispo Unit,2017-07-07,2018-01-09,186.0
+Mariposa,36.0,CAL FIRE Madera-Mariposa-Merced Unit,2017-07-07,2018-01-09,186.0
+Contra Costa,231.0,CAL FIRE Santa Clara Unit,2017-07-08,2018-01-09,185.0
+Shasta,10.0,CAL FIRE Shasta-Trinity Unit,2017-07-15,2018-01-09,178.0
+Santa Barbara,18430.0,Los Padres National Forest,2017-07-08,2018-01-09,185.0
+Modoc,410.0,Modoc National Forest,2017-07-13,2018-01-09,180.0
+Siskiyou,27276.0,Six Rivers National Forest,2017-07-26,2018-01-09,167.0
+San Luis Obispo,340.0,CAL FIRE San Luis Obispo Unit,2017-07-09,2018-01-09,184.0
+Contra Costa,370.0,CAL FIRE Santa Clara Unit,2017-07-08,2018-01-09,185.0
+Yuba,50.0,CAL FIRE Nevada-Yuba-Placer Unit,2017-07-08,2018-01-09,185.0
+El Dorado,13.0,CAL FIRE Amador-El Dorado Unit,2017-07-12,2018-01-09,181.0
+"Monterey, San Luis Obispo",1816.0,CAL FIRE San Benito-Monterey Unit,2017-07-08,2018-01-09,185.0
+Tehama,29.0,CAL FIRE Tehema-Glenn Unit,2017-07-08,2018-01-09,185.0
+Kings,48889.0,"CAL FIRE Fresno-Kings Unit, Fresno County Sheriff’s Office, Kings County Sheriff's Department, Monterey County Sheriff's Office, California Department of Corrections and Rehabilitation, Kings County Fire Department, Pacific Gas and Electric, Bureau of Land Management, California Conservation Corps and Cal OES.",2017-07-09,2018-01-09,184.0
+Butte,166.0,CAL FIRE / Butte County Fire,2017-07-10,2018-01-09,183.0
+Sierra,747.0,Humboldt-Toiyabe National Forest,2017-07-10,2018-01-09,183.0
+Santa Clara,70.0,CAL FIRE Santa Clara Unit,2017-07-10,2018-01-09,183.0
+Butte,10.0,CAL FIRE Butte Unit ,2017-07-12,2018-01-09,181.0
+Santa Barbara,50.0,Santa Barbara County Fire,2017-07-17,2018-01-09,176.0
+San Bernardino,460.0,"Unified Command: CAL FIRE San Bernardino-Inyo-Mono Unit, USFS - San Bernardino National Forest and City of Highland",2017-07-14,2018-04-12,272.0
+San Diego,400.0,"Unified Command: CAL FIRE San Diego Unit, Alpine Fire Protection District and  Lakeside Fire Protection District",2017-07-11,2018-01-09,182.0
+Lassen,83733.0,Bureau of Land Management,2017-07-11,2018-01-09,182.0
+Santa Clara,101.0,San Jose Fire Department,2017-07-11,2018-01-09,182.0
+Calaveras,59.0,CAL FIRE Tuolumne-Calaveras Unit,2017-07-12,2018-01-09,181.0
+Riverside,32.0,CALFIRE / Riverside County Fire,2017-07-13,2018-01-09,180.0
+San Bernardino,46.0,San Bernardino National Forest,2017-07-12,2018-01-09,181.0
+Marin,35.0,Marin County Fire,2017-07-12,2018-01-09,181.0
+Riverside,10.0,CAL FIRE / Riverside County Fire,2017-07-13,2018-01-09,180.0
+Monterey,40.0,Monterey County Regional Fire District,2017-07-16,2018-01-09,177.0
+Mendocino,900.0,"CAL FIRE Mendocino Unit, Mendocino Sheriff's Office, OES, PG&E, CHP, CAL TRANS, and Mendocino County Fire Services",2017-07-16,2018-01-09,177.0
+Mariposa,81826.0,"CAL FIRE Madera-Mariposa-Merced Unit, Mariposa County Sheriff’s Office, Mariposa County Fire, CAL OES, CHP, Mariposa Public Works, CALTRANS, Mariposa Public Utility District, BLM, Merced County Fairgrounds, Mariposa County Fairgrounds, California Dept. of Corrections and Rehabilitation, American Red Cross, Mariposa OES, Mariposa County Human Services and Public Health, North Fork Tribal Chair, CDCR CYA Camp, City of San Francisco, TDS Telecom, AT&T, Verizon, Sierra Pacific Industries, PG&E, Tuolumne County Sheriff, Wildland Defense Systems, Sierra Telephone, California State Parks, Salvation Army, United States Forest Service, Federal Team 5, Red Zone Disaster Intelligence, City of Merced, U.S. Senator Feinstein’s Office, California National Guard, John C. Fremont Healthcare District, National Park Service, Sonoma County, Madera Sheriff and Mariposa Health Air Quality, Merced County, California Conservation Corps",2017-07-16,2018-01-09,177.0
+Mendocino,20.0,CAL FIRE Mendocino Unit,2017-07-17,2018-01-09,176.0
+Fresno,1649.0,"CAL FIRE / Fresno County Fire, Fresno County Sheriff’s Office, Monterey County Sheriff’s Office, California Department of Corrections and Rehabilitation, Pacific Gas and Electric, Bureau of Land Management, California Conservation Corps and Cal OES.",2017-07-17,2018-01-09,176.0
+Colusa,70.0,CAL FIRE Sonoma-Lake-Napa Unit,2017-07-17,2018-01-09,176.0
+Calaveras,117.0,CAL FIRE Tuolumne-Calaveras Unit,2017-07-17,2018-01-09,176.0
+Modoc,15.0,CAL FIRE Lassen-Modoc Unit,2017-07-17,2018-01-09,176.0
+Lake,40.0,CAL FIRE Sonoma-Lake-Napa Unit,2017-07-17,2018-01-09,176.0
+Tulare,59.0,CAL FIRE Tulare Unit,2017-07-17,2018-01-09,176.0
+Kings,2312.0,Kings County,2017-08-24,2018-01-09,138.0
+Humboldt,19.0,Six Rivers National Forest,2017-08-01,2018-01-09,161.0
+Kern,1083.0,Kern County Fire ,2017-07-18,2018-01-09,175.0
+Shasta,180.0,"CAL FIRE Shasta-Trintiy Unit, Shasta County Sheriff Department, California Highway Patrol, Redding City Fire, Redding Police Department, Shasta County Public Works, PG&E, Shasta Trinity National Forest, Shasta County Fire Department.",2017-07-18,2018-01-09,175.0
+Riverside,72.0,CAL FIRE/Riverside County Fire,2017-07-18,2018-01-09,175.0
+Tulare,58.0,CAL FIRE Tulare Unit,2017-07-18,2018-01-09,175.0
+Glenn,0.0,City of Orland Fire Department,2017-07-19,2018-01-09,174.0
+Tulare,2289.0,CAL FIRE Tulare Unit,2017-07-30,2018-01-09,163.0
+Siskiyou,0.0,Klamath National Forest,2017-07-25,2018-01-09,168.0
+Tuolumne,124.0,CAL FIRE Tuolumne-Calaveras Unit ,2017-07-30,2018-01-09,163.0
+Los Angeles,135.0,Los Angles County Fire Department,2017-07-28,2018-01-09,165.0
+Riverside,63.0,Riverside County Fire Department,2017-07-28,2018-01-09,165.0
+Stanislaus,19.0,CAL FIRE Tuolumne-Calaveras Unit,2017-07-18,2018-01-09,175.0
+Butte,103.0,Unified Command: CAL FIRE/Butte County and Chico Fire Department,2017-07-19,2018-04-12,267.0
+Plumas,4310.0,U.S. Forest Service - Plumas National Forest,2017-07-29,2018-01-09,164.0
+Tuolumne,690.0,CAL FIRE Tuolumne-Calaveras Unit,2017-07-29,2018-01-09,164.0
+San Luis Obispo,47.0,CAL FIRE San Luis Obispo Unit,2017-07-20,2018-01-09,173.0
+Nevada,10.0,CAL FIRE Nevada-Yuba-Placer Unit,2017-07-21,2018-01-09,172.0
+El Dorado,140.0,"CAL FIRE Amador - El Dorado Unit, El Dorado County Fire, Amador Fire Protection District",2017-07-26,2018-01-09,167.0
+Tulare,416.0,CAL FIRE Tulare Unit,2017-07-20,2018-01-09,173.0
+Sacramento,1286.0,CAL FIRE Amador-El Dorado Unit,2017-07-26,2018-01-09,167.0
+Santa Clara,51.0,CAL FIRE Santa Clara Unit,2017-07-26,2018-01-09,167.0
+Del Norte,319.0,USFS - Six Rivers National Forest,2017-07-19,2018-01-09,174.0
+San Bernardino,85.0,USFS - San Bernardino National Forest,2017-07-22,2018-01-09,171.0
+San Diego,255.0,Unified Command: CAL FIRE San Diego County Fire Authority and Cleveland National Forest - USFS,2017-07-22,2018-04-12,264.0
+San Bernardino,20.0,San Bernardino National Forest - USFS ,2017-07-22,2018-01-09,171.0
+El Dorado,13.0,CAL FIRE Amador-El Dorado Unit,2017-07-25,2018-01-09,168.0
+San Luis Obispo,150.0,CAL FIRE San Luis Obispo unit,2017-07-24,2018-01-09,169.0
+Yuba,39.0,CAL FIRE Nevada-Yuba-Placer Unit,2017-07-24,2018-01-09,169.0
+Santa Clara,78.0,CAL FIRE Santa Clara Unit,2017-07-23,2018-01-09,170.0
+San Bernardino,170.0,Unified Command: CAL FIRE San Bernardino-Inyo-Mono Unit / San Bernardino County Fire,2017-07-23,2018-01-09,170.0
+Tehama,57.0,CAL FIRE Tehama-Glenn Unit,2017-07-28,2018-01-09,165.0
+Nevada,15.0,CAL FIRE Nevada - Yuba - Placer Unit,2017-07-27,2018-01-09,166.0
+Tuolumne,20.0,CAL FIRE Tuolumne-Calaveras Unit,2017-08-01,2018-01-09,161.0
+Shasta,17.0,CAL FIRE Shasta Trinity Unit,2017-07-29,2018-01-09,164.0
+Siskiyou,155.0,CAL FIRE Siskiyou Unit,2017-07-29,2018-01-09,164.0
+El Dorado,236.0,CAL FIRE Amador-El Dorado Unit,2017-07-30,2018-01-09,163.0
+Kern,1350.0,Sequoia National Forest,2017-07-30,2018-01-09,163.0
+Sonoma,11.0,CAL FIRE Sonoma-Lake-Napa Unit,2017-07-31,2018-01-09,162.0
+San Bernardino,100.0,San Bernardino National Forest,2017-07-31,2018-01-09,162.0
+Riverside,200.0,CAL FIRE / Riverside County Fire,2017-07-31,2018-01-09,162.0
+Trinity,32.0,Shasta-Trinity National Forest,2017-08-02,2018-01-09,160.0
+San Luis Obispo,70.0,CAL FIRE San Luis Obispo Unit,2017-08-02,2018-01-09,160.0
+San Luis Obispo,460.0,CAL FIRE San Luis Obispo Unit / Los Padres National Forest,2017-08-02,2018-01-09,160.0
+Modoc,0.0,Modoc National Forest,2017-07-23,2018-01-09,170.0
+Humboldt,85.0,CAL FIRE Humboldt-Del Norte Unit,2017-08-03,2018-01-09,159.0
+San Bernardino,325.0,CAL FIRE San Bernardino Unit / San Bernardino National Forest / City of Yucaipa ,2017-08-03,2018-01-09,159.0
+Los Angeles,10.0,Angeles National Forest,2017-08-03,2018-01-09,159.0
+Humboldt,30.0,CAL FIRE Humboldt-Del Norte Unit,2017-08-03,2018-01-09,159.0
+Lake,62.0,CAL FIRE Sonoma-Lake-Napa Unit,2017-08-08,2018-01-09,154.0
+Riverside,122.0,CAL FIRE/Riverside County Fire,2017-08-04,2018-01-09,158.0
+Kern,50.0,Kern County Fire Department / Sequoia National Forest,2017-08-05,2018-01-09,157.0
+Plumas,1020.0,Tahoe National Forest,2017-08-06,2018-01-09,156.0
+Lassen,530.0,Bureau of Land Management Northern California District,2017-08-06,2018-01-09,156.0
+Lassen,859.0,Plumas National Forest,2017-08-06,2018-01-09,156.0
+Riverside,92.0,CAL FIRE/Riverside County Fire/San Bernardino National Forest ,2017-08-07,2018-01-09,155.0
+Monterey,82.0,CAL FIRE San Benito-Monterey,2017-08-07,2018-01-09,155.0
+Trinity,4736.0,Six Rivers National Forest,2017-08-07,2018-01-09,155.0
+Kern,338.0,CAL FIRE/Kern County Fire,2017-08-10,2018-01-09,152.0
+Santa Clara,100.0,CAL FIRE Santa Clara Unit,2017-08-11,2018-01-09,151.0
+Tehama,15.0,CAL FIRE Tehama-Glenn Unit,2017-08-10,2018-01-09,152.0
+Napa,114.0,CAL FIRE Sonoma-Lake-Napa Unit ,2017-08-11,2018-01-09,151.0
+Riverside,19.0,CAL FIRE/Riverside County Fire,2017-08-13,2018-01-09,149.0
+San Luis Obispo,775.0,CAL FIRE San Luis Obispo/Department of Defense-Camp Roberts ,2017-08-11,2018-01-09,151.0
+Siskiyou,41.0,Rogue-River-Siskiyou National Forest,2017-08-13,2018-01-09,149.0
+Riverside,1044.0,CAL FIRE/Riverside County Fire,2017-08-13,2018-01-09,149.0
+Mariposa,125.0,CAL FIRE Madera-Mariposa-Merced Unit ,2017-08-13,2018-01-09,149.0
+Mariposa,8094.0,Yosemite National Forest,2017-08-01,2018-01-09,161.0
+Mariposa,7000.0,Yosemite National Park ,2017-08-14,2018-01-09,148.0
+Riverside,545.0,CAL FIRE Riverside Unit,2017-08-14,2018-01-09,148.0
+Shasta,17.0,"CAL FIRE Shasta-Trinity Unit, Shasta County Fire Department, California Highway Patrol, Fall River Fire Protection District, McArthur Volunteer Fire Department, Fall River Mills Fire Department, Burney Fire Protection District",2017-08-17,2018-01-09,145.0
+Riverside,168.0,CAL FIRE Riverside Unit,2017-08-19,2018-01-09,143.0
+Yuba,867.0,Unified Command: CAL FIRE Nevada-Yuba-Placer Unit/Beale Air Force Base,2017-08-20,2018-01-09,142.0
+,191125.0,Rogue River-Siskiyou National Forest,2017-07-12,2018-01-09,181.0
+Plumas,186.0,Plumas National Forest,2017-08-20,2018-01-09,142.0
+Siskiyou,78698.0,Klamath National Forest,2017-08-15,2018-01-09,147.0
+Tulare,2295.0,Inyo National Forest,2017-08-02,2018-01-09,160.0
+San Diego,200.0,CAL FIRE San Diego Unit,2017-08-21,2018-01-09,141.0
+Siskiyou,3142.0,Six Rivers National Forest,2017-08-07,2018-01-09,155.0
+Modoc,7697.0,Modoc National Forest,2017-08-03,2018-01-09,159.0
+Alameda,200.0,California National Guard,2017-08-22,2018-01-09,140.0
+Fresno,31.0,CAL FIRE / Fresno County Fire,2017-08-23,2018-01-09,139.0
+San Diego,62.0,CAL FIRE San Diego Unit,2017-08-26,2018-01-09,136.0
+Lassen,157.0,CAL FIRE Lassen-Modoc Unit,2017-08-26,2018-01-09,136.0
+Tehama,40.0,CAL FIRE Tehama-Glenn Unit,2017-08-26,2018-01-09,136.0
+Fresno,111.0,CAL FIRE / Fresno County Fire,2017-08-26,2018-01-09,136.0
+Alameda,44.0,CAL FIRE Santa Clara Unit,2017-08-27,2018-01-09,135.0
+Sonoma,18.0,CAL FIRE Sonoma-Lake-Napa Unit,2017-08-27,2018-01-09,135.0
+Riverside,46.0,CAL FIRE / USFS - Cleveland National Forest,2017-08-27,2018-01-09,135.0
+Fresno,69.0,CAL FIRE / Fresno County Fire,2017-08-27,2018-01-09,135.0
+Humboldt,40.0,Shasta Trinity National Forest,2017-08-28,2018-01-09,134.0
+Amador,10.0,CAL FIRE Amador-El Dorado Unit,2017-08-28,2018-01-09,134.0
+Tulare,36556.0,"CAL FIRE Tulare Unit / USFS - Sequoia National Forest, Tulare County Sheriff, California Highway Patrol, Caltrans, Tulare County EOC, PG&E, SoCal Edison",2017-08-29,2018-01-09,133.0
+Siskiyou,54.0,Shasta-Trinity National Forest,2017-08-28,2018-01-09,134.0
+Butte,4016.0,"CAL FIRE / Butte County Fire, Butte County Sheriff’s Office, Butte County Fire Department, Butte County, Cal OES, Bureau of Indian Affairs, California Department of Corrections and Rehabilitation, Red Cross, California Highway Patrol, US Forest Service, California Department of Parks and Recreation, PG & E, California Conservation Corps, North Valley Animal Disaster Group, Butte Medics, California Department of Transportation, South Feather Water and Power, Yuba County Sheriff, Yuba County OES and Sierra Pacific Industries.",2017-08-29,2018-08-30,366.0
+Madera,12407.0,USFS - Sierra National Forest,2017-08-29,2018-01-09,133.0
+Lassen,6042.0,Bureau of Land Mangement ,2017-08-29,2018-01-09,133.0
+Siskiyou,55.0,CAL FIRE Siskiyou Unit,2017-08-29,2018-01-09,133.0
+Mono,8925.0,Bureau of Land Management - Owens Valley District ,2017-08-29,2018-01-09,133.0
+Modoc,28.0,CAL FIRE Lassen-Modoc Unit,2017-08-30,2018-01-09,132.0
+Nevada,392.0,"CAL FIRE Nevada-Yuba-Placer Unit, Nevada Co Consolidated, NCSO, Nevada Co OES, CHP, Grass Valley Fire, North San Juan, Nevada City Fire, Campton, State Parks, CDCR, Penn Valley, Nevada Co OES, PG&E, Cal Trans, and Yuba Co S.O.",2017-08-30,2018-01-09,132.0
+Modoc,27.0,CAL FIRE Lassen-Modoc Unit,2017-08-30,2018-01-09,132.0
+Fresno,102.0,CAL FIRE Fresno-Kings Unit,2017-08-30,2018-01-09,132.0
+Humboldt,34.0,CAL FIRE/Humboldt-Del Norte Unit,2017-08-31,2018-01-09,131.0
+Trinity,21846.0,Shasta-Trinity National Forest,2017-08-30,2018-01-09,132.0
+Riverside,85.0,CAL FIRE/Riverside County Fire Department,2017-08-31,2018-01-09,131.0
+Los Angeles,30.0,Los Angeles County Fire,2017-08-31,2018-03-22,203.0
+San Diego,130.0,CAL FIRE San Diego Unit,2017-09-01,2018-01-09,130.0
+Stanislaus,5247.0,Stanislaus National Forest,2017-07-31,2018-01-09,162.0
+Riverside,34.0,CAL FIRE / Riverside County Fire,2017-09-10,2018-01-09,121.0
+Stanislaus,1749.0,Stanislaus National Forest ,2017-09-03,2018-01-09,128.0
+Shasta,25.0,CAL FIRE Shasta-Trinity Unit,2017-09-01,2018-01-09,130.0
+Kern,1319.0,Sequoia National Forest,2017-09-01,2018-01-09,130.0
+Los Angeles,7194.0,"LA City, Burbank Fire Department",2017-09-01,2018-01-09,130.0
+Madera,1035.0,"CAL FIRE Madera-Mariposa-Merced Unit / Sierra National Forest, CAL FIRE, USFS Sierra National Forest, Madera County Sheriff, CDCR, Madera County Fire, CAL OES, North Fork Rancheria of Mono Indians of California, CHP, and PG&E.",2017-09-03,2018-01-09,128.0
+Fresno,100.0,CAL FIRE Fresno-Kings Unit,2017-09-03,2018-01-09,128.0
+Riverside,3874.0,"CAL FIRE Riverside Unit, CAL FIRE/Riverside, California Highway Patrol (CHP), City of Hemet FD, Idyllwild Fire Protection District, Orange County Fire Authority Copter, Riverside City FD, Riverside County Fire Department, San Bernardino County Fire Department, Southern California Edison, USFS – San Bernardino, Union Pacific Railroad",2017-09-02,2018-01-09,129.0
+San Luis Obispo,120.0,CAL FIRE San Luis Obispo Unit,2017-09-03,2018-01-09,128.0
+Lake,21.0,CAL FIRE Sonoma-Lake-Napa Unit,2017-09-05,2018-01-09,126.0
+Plumas,79.0,Plumas National Forest,2017-09-03,2018-01-09,128.0
+Santa Clara,100.0,CAL FIRE Santa Clara Unit/Gilroy Fire Dept,2017-09-03,2018-01-09,128.0
+Mariposa,680.0,CAL FIRE Madera-Mariposa-Merced Unit,2017-09-03,2018-01-09,128.0
+Lassen,18618.0,BLM Northern California District ,2017-08-30,2018-01-09,132.0
+San Luis Obispo,25.0,CAL FIRE San Luis Obispo Unit,2017-09-23,2018-01-09,108.0
+Siskiyou,54.0,Shasta-Trinity National Forest ,2017-08-28,2018-01-09,134.0
+Trinity,32.0,Shasta-Trinity National Forest,2017-08-02,2018-01-09,160.0
+Tuolumne,39.0,CAL FIRE Tuolumne-Calaveras Unit,2017-09-19,2018-03-26,188.0
+San Diego,25.0,CAL FIRE / San Diego County Fire Authority ,2017-09-07,2018-01-09,124.0
+Mariposa,0.0,Yosemite National Park,2017-09-07,2018-01-09,124.0
+San Luis Obispo,74.0,CAL FIRE San Luis Obispo Unit,2017-09-26,2018-01-09,105.0
+Monterey,43.0,CAL FIRE San Benito-Monterey Unit,2017-09-11,2018-01-09,120.0
+Plumas,2575.0,Plumas National Forest ,2017-09-05,2018-01-09,126.0
+Fresno,10.0,CAL FIRE / Fresno County Fire,2017-09-11,2018-01-09,120.0
+Lake,200.0,Mendocino National Forest,2017-09-12,2018-01-09,119.0
+Butte,143.0,CAL FIRE / Butte County Fire,2017-09-28,2018-01-09,103.0
+Siskiyou,39715.0,Rogue River-Siskiyou National Forest,2017-08-14,2018-01-09,148.0
+San Mateo,50.0,"CAL FIRE San Mateo-Santa Cruz Unit , Woodside Fire Protection District, Kings Mountain Volunteer Fire Company, San Mateo County Sheriff’s Office, Mid-Peninsula Open Space District, CAL Water, and San Mateo County Parks.",2017-09-11,2018-01-09,120.0
+Shasta,995.0,"CAL FIRE Shasta-Trinity Unit, Shasta County Fire Department, Shasta-Trinity National Forest, Pacific Gas and Electric, Shasta County Sheriff’s Office, Burney Fire Protection District",2017-09-12,2018-01-09,119.0
+Del Norte,40.0,Six Rivers National Forest,2017-09-12,2018-01-09,119.0
+Butte,12.0,CAL FIRE/Butte County Fire,2017-09-12,2018-01-09,119.0
+Lake,58.0,USFS - Mendocino National Forest,2017-09-12,2018-01-09,119.0
+Trinity,13417.0,Shasta Trinity National Forest,2017-09-12,2018-01-09,119.0
+El Dorado,136.0,"CAL FIRE Amador-El Dorado Unit, CAL FIRE, El Dorado Hills Fire, Garden Valley Fire, Georgetown Fire, Rescue Fire",2017-09-17,2018-01-09,114.0
+Madera,429.0,CAL FIRE Madera-Mariposa-Merced Unit,2017-09-18,2018-01-09,113.0
+Mendocino,146.0,"CAL FIRE Mendocino Unit, Hopland Fire, Ukiah Fire, Redwood Valley Fire",2017-09-19,2018-01-09,112.0
+Alameda,155.0,Unified Command: Alameda County Fireand CAL FIRE Santa Clara Unit,2017-09-19,2018-04-05,198.0
+Fresno,237.0,CAL FIRE Fresno-Kings Unit,2017-09-19,2018-01-09,112.0
+Madera,48.0,CAL FIRE Madera-Mariposa-Merced Unit,2017-09-20,2018-01-09,111.0
+San Luis Obispo,245.0,"CAL FIRE San Luis Obispo Unit, Santa Barbara County Fire, Ventura County Fire, Cambria Fire Department",2017-09-20,2018-01-09,111.0
+Mariposa,10.0,CAL FIRE Madera-Mariposa-Merced Unit,2017-09-20,2018-01-09,111.0
+Butte,28.0,CAL FIRE / Butte County Fire,2017-09-25,2018-01-09,106.0
+Solano,55.0,CAL FIRE Sonoma-Lake-Napa Unit,2017-09-23,2018-01-09,108.0
+Yuba,26.0,Wheatland Fire Protection District ,2017-09-26,2018-01-09,105.0
+Alameda,22.0,Oakland City Fire Department,2017-09-26,2018-01-09,105.0
+San Luis Obispo,105.0,CAL FIRE San Luis Obispo Unit,2017-09-26,2018-01-09,105.0
+Orange,2662.0,CAL FIRE Riverside / USFS / Orange County Fire Authority / Anaheim Fire / Corona Fire Department,2017-09-25,2018-03-28,184.0
+Tulare,18900.0,USFS - Sequoia National Forest,2017-09-27,2018-01-09,104.0
+Santa Barbara,444.0,Santa Barbara County Fire,2017-09-29,2018-01-09,102.0
+Kern,40.0,Kern County Fire,2017-09-29,2018-01-09,102.0
+Riverside,35.0,CAL FIRE / Riverside County Fire,2017-09-29,2018-01-09,102.0
+Solano,100.0,CAL FIRE Sonoma-Lake-Napa Unit,2017-10-02,2018-01-09,99.0
+Mariposa,17.0,CAL FIRE Madera-Mariposa-Merced Unit,2017-10-03,2018-01-09,98.0
+Tehama,20.0,CAL FIRE Tehama-Glenn Unit ,2017-10-03,2018-01-09,98.0
+Lake,87.0,"CAL FIRE Sonoma-Lake-Napa Unit, Northshore FD, Williams FD, BLM, USFS, South Lake FPD, Indian Valley FD and CA Dept. of Corrections and Rehabilitation",2017-10-06,2018-01-09,95.0
+Shasta,40.0,CAL FIRE Shasta-Trintiy Unit,2017-10-08,2018-01-09,93.0
+Sonoma,20.0,CAL FIRE Sonoma-Lake-Napa Unit,2017-10-07,2018-01-09,94.0
+Tehama,10.0,CAL FIRE Tehama-Glenn Unit,2017-10-08,2018-01-09,93.0
+Humboldt,20.0,CAL FIRE Humboldt-Del Norte Unit,2017-10-08,2018-01-09,93.0
+Butte,8417.0,CAL FIRE Butte Unit,2017-10-08,2018-02-09,124.0
+"Napa, Solano",51624.0,"CAL FIRE Sonoma-Lake-Napa Unit, CHP, Napa County	OES, Sonoma	County OES, Solano County OES, California State Parks, PG&E	and	CDCR.",2017-10-08,2018-02-09,124.0
+"Napa, Sonoma",36807.0,CAL FIRE Sonoma-Lake-Napa Unit,2017-10-08,2018-02-09,124.0
+"Napa, Sonoma",56556.0,CAL FIRE Sonoma-Lake-Napa Unit,2017-10-08,2018-02-09,124.0
+Napa,0.0,"CAL FIRE Sonoma-Lake-Napa Unit, Cooperating Agencies: Napa County OES, CHP, CDCR, Sonoma County OES, PG&E, California State Parks, and Solano County OES.",2017-10-08,2018-01-09,93.0
+Butte,6151.0,"CAL FIRE/Butte County Fire, Nevada County Sheriff’s Office, Butte County Sheriff’s Office, Yuba County Sheriff’s Office, Cal OES, Red Cross, California Highway Patrol, California Department of Corrections and Rehabilitation, PG & E, California Department of Transportation and Nevada Irrigation District.",2017-10-09,2018-02-09,123.0
+Yuba,9989.0,"CAL FIRE Nevada-Yuba-Placer Unit, Nevada County Sheriff’s Office, Butte County Sheriff’s Office, Yuba County Sheriff’s Office, Cal OES, Red Cross, California Highway Patrol, United States Forest Service, California Department of Corrections and Rehabilitation, PG & E, California Department of Transportation, Nevada Irrigation District, California Conservation Corps.",2017-10-08,2018-02-09,124.0
+Nevada,76.0,CAL FIRE Nevada-Yuba-Placer Unit,2017-10-09,2018-02-09,123.0
+Mendocino,36523.0,"CAL FIRE Mendocinio Unit, Mendocino County, CALTRANS, California Dept. of Corrections and Rehabilitation, American Red Cross, PG&E, National Weather Service, and California Conservations Corps.",2017-10-08,2018-02-09,124.0
+Calaveras,130.0,CAL FIRE Tuolumne-Calaveras Unit,2017-10-09,2018-01-09,92.0
+Sonoma,1660.0,CAL FIRE Sonoma-Lake-Napa Unit,2017-10-09,2018-01-09,92.0
+San Luis Obispo,45.0,Los Padres National Forest,2017-10-09,2018-01-09,92.0
+Kern,50.0,Kern County Fire ,2017-10-26,2018-01-09,75.0
+Lake,2207.0,"CAL FIRE Sonoma-Lake-Napa Unit, Mendocino County; Lake County; Lake County Sheriff’s Office; CAL OES; California Highway Patrol; CALTRANS; California Dept. of Corrections and Rehabilitation; American Red Cross; PG&E; United States Forest Service; California National Guard; National Weather Service; California Conservation Corps, BLM, and Bureau of Indian Affairs",2017-10-08,2018-02-09,124.0
+Nevada,821.0,"CAL FIRE Nevada-Yuba-Placer Unit, Nevada County Sheriff’s Office, Butte County Sheriff’s Office, Yuba County Sheriff’s Office, Cal OES, Red Cross, California Highway Patrol, California Department of Corrections and Rehabilitation, PG & E, California Department of Transportation and Nevada Irrigation District.",2017-10-09,2018-02-09,123.0
+Butte,150.0,CAL FIRE/Butte County Fire,2017-10-09,2018-01-09,92.0
+Orange,9217.0,"Unified Command: CAL FIRE, Orange County, Anaheim City and Orange City, California Highway Patrol, Orange County Sheriff, Anaheim PD, Tustin PD, Orange PD, Irvine PD, Orange County Parks, California State Parks, Cal Trans, Orange County Animal Control, CCC, So Cal Gas, Irvine Ranch Water District, Transportation Corridor Agencies",2017-10-09,2018-04-05,178.0
+Riverside,866.0,Cleveland National Forest,2017-10-26,2018-01-09,75.0
+Tehama,194.0,CAL FIRE Tehama-Glenn Unit,2017-10-26,2018-01-09,75.0
+Fresno,58.0,CAL FIRE Fresno-Kings Unit,2017-10-11,2018-01-09,90.0
+Sonoma,17357.0,CAL FIRE Sonoma-Lake-Napa Unit,2017-10-09,2018-02-09,123.0
+Santa Cruz,391.0,"CAL FIRE San Mateo-Santa Cruz Unit , Santa Cruz County Sheriff, Santa Cruz County OES, Santa Cruz County FD, Santa Cruz City FD, American Red Cross of the Central Coast, California Highway Patrol, Aptos/La Selva FPD, Boulder Creek FPD, Branciforte FPD, Central FPD, Scotts Valley FPD, Zayante FPD, Watsonville City FD, San Mateo County OES, San Mateo County FD, Santa Clara County FD, North Bay Incident Management Team, Moffett Field FD, CAL FIRE Santa Clara, CAL FIRE San Benito-Monterey, CAL FIRE Amador-El Dorado, CAL FIRE San Luis Obispo, CAL FIRE Lassen-Modoc, and CAL FIRE Tuolumne-Calaveras.",2017-10-16,2018-01-09,85.0
+Los Angeles,50.0,Angeles National Forest,2017-10-17,2018-01-09,84.0
+Trinity,148.0,Six Rivers National Forest,2017-10-14,2018-01-09,87.0
+Kern,183.0,Kern County Fire Department,2017-10-12,2018-01-09,89.0
+San Diego,25.0,CAL FIRE San Diego Unit,2017-10-15,2018-01-09,86.0
+Nevada,19.0,CAL FIRE Nevada-Yuba-Placer Unit,2017-10-10,2018-01-09,91.0
+El Dorado,29.0,USFS - El Dorado National Forest,2017-10-10,2018-01-09,91.0
+Riverside,23.0,CAL FIRE/ Riverside County Fire,2017-10-10,2018-01-09,91.0
+San Bernardino,34.0,Unified Command: CAL FIRE / San Bernardino County Fire,2017-12-05,2018-01-09,35.0
+San Bernardino,260.0,San Bernardino County Fire,2017-12-05,2018-01-09,35.0
+Riverside,50.0,CAL FIRE/Riverside County Fire,2017-10-23,2018-01-09,78.0
+San Bernardino,40.0,San Bernardino County Fire and Rancho Cucamonga Fire District,2017-10-24,2018-01-09,77.0
+Kern,184.0,Kern County Fire,2017-10-15,2018-04-03,170.0
+San Luis Obispo,73.0,CAL FIRE San Luis Obispo Unit,2017-10-13,2018-01-09,88.0
+El Dorado,426.0,USFS - El Dorado National Forest,2017-10-13,2018-01-09,88.0
+Lake,100.0,CAL FIRE Sonoma Lake Napa Unit,2017-10-14,2018-01-09,87.0
+Sonoma,100.0,CAL FIRE Sonoma-Lake-Napa Unit,2017-10-14,2018-04-05,173.0
+Sonoma,0.0,CAL FIRE Sonoma-Lake-Napa Unit,2017-10-09,2018-01-09,92.0
+Monterey,31.0,CAL FIRE San Benito-Monterey Unit,2017-10-15,2018-01-09,86.0
+Alameda,116.0,CAL FIRE Santa Clara Unit,2017-10-17,2018-01-09,84.0
+San Diego,1088.0,DOD - Camp Pendleton,2017-10-17,2018-01-09,84.0
+Stanislaus,13.0,CAL FIRE Tuolumne-Calaveras Unit,2017-10-18,2018-01-09,83.0
+Los Angeles,6049.0,"Unified Command: CAL FIRE, Los Angeles County Fire, Ventura County Fire, Los Angeles County Sheriff's Office, and Ventura County Sheriff's Office, CAL FIRE, California Highway Patrol, City of Santa Clarita, Southern California Edison, California Resources Corporation, California Conservation Corps, SoCal Gas, Simi Valley PD, and LA County Public Works.",2017-12-05,2018-01-18,44.0
+Los Angeles,15619.0,"Angeles National Forest, CAL FIRE, Los Angeles School Police, Los Angeles, County Sheriff, Los Angeles Police Department, Cal OES, Glendale Fire Department, California Department of Corrections, City of Los Angeles, Burbank Fire, California Conversation Corps, California Highway Patrol, Los Angeles Department of Transportation, Cal Trans, Los Angeles County Public Health, Los Angeles County Public Works, Southern California Edison, Southern California Gas, Los Angeles City Park Rangers, Los Angeles Department of Water, Power, and Security, Mountains Recreation Conservation Authority, Los Angeles County Animal Control, Los Angeles City Animal Services, Metro Bus, Red Cross, CARE, Los Angeles Department on Disability.",2017-12-05,2018-08-06,244.0
+"Santa Barbara, Ventura",281893.0,"US Forest Service - Los Padres National Forest , CAL FIRE, Ventura County Fire, Ventura County Sheriff, Santa Barbara County Fire, Santa Barbara County Sheriff, City of Ventura Fire Department, City of Ventura Police Department, USFS/Los Padres National Forest, CAL OES, Red Cross, Southern California Edison, CHP, California Dept. of Corrections and Rehabilitation, SoCaGas, Crimson Pipeline, Wildfire Defense Systems, CA Resources Group, Santa Paula Police, Santa Paula Fire, Ventura County OES, Santa Barbara OEM",2017-12-04,2018-01-12,39.0
+Riverside,40.0,CAL FIRE/Riverside County Fire and Riverside City Fire Department ,2017-12-04,2018-01-09,36.0
+Tehama,43.0,CAL FIRE Tehama-Glenn Unit ,2017-11-02,2018-01-09,68.0
+Mono,370.0,Humboldt - Toiyabe National Forest,2017-11-13,2018-01-09,57.0
+San Diego,81.0,Camp Pendleton - Cleveland National Forest,2017-10-13,2018-01-09,88.0
+Riverside,40.0,CAL FIRE / Riverside County Fire,2017-11-14,2018-01-09,56.0
+Ventura,86.0,Ventura County Fire,2017-10-24,2018-01-09,77.0
+San Luis Obispo,21.0,CAL FIRE San Luis Obispo Unit,2017-10-20,2018-01-09,81.0
+San Benito,47.0,CAL FIRE San Benito-Monterey Unit,2017-11-25,2018-01-09,45.0
+San Diego,100.0,CAL FIRE San Diego Unit,2017-10-21,2018-01-09,80.0
+San Bernardino,99.0,CAL FIRE San Bernardino Unit,2017-11-29,2018-01-09,41.0
+San Diego,4100.0,CAL FIRE San Diego Unit,2017-12-07,2018-01-09,33.0
+Riverside,300.0,Murrieta Fire,2017-12-07,2018-01-09,33.0
+Riverside,19.0,CAL FIRE/Riverside County Fire Department,2017-12-13,2018-01-09,27.0
+Los Angeles,422.0,Los Angeles City Fire,2017-12-06,2018-01-23,48.0
+Santa Barbara,14.0,Santa Barbara County Fire,2017-12-16,2018-01-09,24.0
+Santa Barbara,14.0,Santa Barbara County Fire,2017-12-14,2018-01-09,26.0
+Riverside,45.0,City of Riverside Fire Department,2017-12-21,2018-01-09,19.0
+El Dorado,80.0,Bureau of Indian Affairs,2017-12-28,2018-01-09,12.0
+Monterey,50.0,Fort Hunter Liggett Military Base,2018-02-07,2019-01-03,330.0
+Inyo,2070.0,"Unified Command: CAL FIRE San Bernardino Unit and Inyo County Sheriff's Office, CAL FIRE, Inyo County Sheriff's Office, BLM, Inyo USFS, CAL OES, CHP, CDCR, CAL TRANS, Mono County Sheriff, Paradise Fire Dept., DWP, Mammoth Fire, Bishop Fire, Big Pine Fire, Independence Fire, Lone Pine Fire, Long Valley Fire, Wheeler Crest Fire, Red Cross and Southern California Edison.",2018-02-18,2019-01-03,319.0
+Alameda,12.0,CAL FIRE Santa Clara Unit,2018-05-14,2019-01-04,235.0
+Riverside,1261.0,CAL FIRE / Riverside County Fire,2018-05-17,2019-01-04,232.0
+Riverside,15.0,CAL FIRE/Riverside County Fire Department,2018-04-15,2019-01-03,263.0
+Santa Barbara,258.0,Channel Islands National Park,2018-03-27,2019-01-03,282.0
+Shasta,11.0,CAL FIRE Shasta Trinity Unit,2018-03-27,2019-01-03,282.0
+Riverside,21.0,CAL FIRE / Riverside County Fire,2018-04-09,2019-01-03,269.0
+San Diego,12.0,CAL FIRE San Diego Unit,2018-05-10,2019-01-04,239.0
+Siskiyou,127.0,CAL FIRE Siskiyou Unit,2018-05-09,2019-01-04,240.0
+Riverside,18.0,CAL FIRE/Riverside County Fire Department,2018-04-22,2019-01-03,256.0
+Plumas,20.0,USFS - Plumas National Forest,2018-04-26,2019-01-04,253.0
+Santa Barbara,60.0,Santa Barbara County Fire,2018-05-17,2019-01-04,232.0
+San Diego,18.0,Unified Command: CAL FIRE and Camp Pendleton Fire,2018-05-09,2019-01-04,240.0
+San Diego,300.0,Department of Defense - Camp Pendleton ,2018-05-04,2019-01-04,245.0
+Merced,1756.0,CAL FIRE Madera-Mariposa-Merced Unit ,2018-05-02,2019-01-04,247.0
+Riverside,70.0,CAL FIRE/ Riverside County Fire,2018-05-04,2019-01-04,245.0
+Riverside,15.0,CAL FIRE/ Riverside County Fire,2018-05-04,2019-01-04,245.0
+Inyo,1265.0,"Unified Command: CAL FIRE San Bernardino Unit, Cal Trans, and Inyo County Sheriff's Office, United State Forest Service, Beareau of Land Management, California Highway Patrol, CAL TRANS, Inyo Sheriff, Los Angeles Dept. of Water and Power, Lone Pine Vounteer FD",2018-04-19,2019-01-03,259.0
+Humboldt,0.0,USFS - Shasta-Trinity National Forest,2018-04-24,2019-01-03,254.0
+Riverside,73.0,CAL FIRE / Riverside County Fire,2018-04-28,2019-01-04,251.0
+Tulare,26.0,CAL FIRE Tulare Unit,2018-05-18,2019-01-04,231.0
+Tehama,103.0,CAL FIRE Tehama-Glenn Unit,2018-05-18,2019-01-04,231.0
+Siskiyou,27.0,CAL FIRE Siskiyou Unit,2018-05-19,2019-01-04,230.0
+Merced,88.0,CAL FIRE Mariposa-Madera-Merced Unit,2018-05-20,2019-01-04,229.0
+Napa,12.0,CAL FIRE Sonoma-Lake-Napa Unit,2018-05-21,2019-01-04,228.0
+San Diego,59.0,CAL FIRE San Diego Unit,2018-05-22,2019-01-04,227.0
+Madera,56.0,"CAL FIRE Madera-Mariposa-Merced Unit, Sierra National Forest",2018-05-23,2019-01-04,226.0
+San Luis Obispo,100.0,CAL FIRE San Luis Obispo Unit,2018-05-24,2019-01-04,225.0
+Fresno,108.0,CAL FIRE Fresno-Kings Unit,2018-05-26,2019-01-04,223.0
+Santa Clara,16.0,CAL FIRE Santa Clara Unit,2018-05-27,2019-01-04,222.0
+Riverside,10.0,CAL FIRE / Riverside County Fire,2018-05-28,2019-01-04,221.0
+Glenn,75.0,CAL FIRE Tehama-Glenn Unit,2018-05-28,2019-01-04,221.0
+Stanislaus,63.0,CAL FIRE Santa Clara Unit,2018-05-29,2019-01-04,220.0
+San Luis Obispo,25.0,CAL FIRE San Luis Obispo Unit,2018-05-29,2019-01-04,220.0
+Alameda,484.0,CAL FIRE Santa Clara Unit,2018-05-30,2019-01-04,219.0
+Yolo,14.0,CAL FIRE Sonoma-Lake-Napa Unit ,2018-06-01,2019-01-04,217.0
+Glenn,127.0,Mendocino National Forest ,2018-06-01,2019-01-04,217.0
+Tehama,23.0,CAL FIRE Tehama-Glenn Unit,2018-06-01,2019-01-04,217.0
+Contra Costa,23.0,CAL FIRE Santa Clara Unit,2018-06-02,2019-01-04,216.0
+Orange,175.0,Orange County Fire,2018-06-02,2019-01-04,216.0
+Riverside,10.0,CAL FIRE/Riverside County Fire,2018-06-02,2019-01-04,216.0
+Fresno,13.0,CAL FIRE Fresno-Kings Unit,2018-06-02,2019-01-04,216.0
+Tehama,10.0,CAL Fire Tehama Glenn Unit,2018-06-03,2019-01-04,215.0
+Riverside,11.0,CAL FIRE/ Riverside County Fire,2018-06-03,2019-01-04,215.0
+Riverside,17.0,CAL FIRE/ Riverside County Fire,2018-06-03,2019-01-04,215.0
+San Benito,35.0,CAL FIRE San Benito-Monterey Unit,2018-06-03,2019-01-04,215.0
+San Luis Obispo,12.0,CAL FIRE San Luis Obispo Unit,2018-06-03,2019-01-04,215.0
+Siskiyou,37.0,CAL FIRE Siskiyou Unit,2018-06-03,2019-01-04,215.0
+San Diego,38.0,San Diego City Fire Dept.,2018-06-03,2019-01-04,215.0
+San Diego,10.0,San Miguel FPD,2018-06-03,2019-01-04,215.0
+Los Angeles,1352.0,Unified Command: US Forest Service and Los Angeles County FD,2018-06-04,2019-01-04,214.0
+Siskiyou,12.0,CAL FIRE Siskiyou Unit,2018-06-04,2019-01-04,214.0
+San Benito,1314.0,CAL FIRE San Benito-Monterey,2018-06-04,2019-01-04,214.0
+San Benito,513.0,CAL FIRE San Benito-Monterey,2018-06-04,2019-01-04,214.0
+Madera,300.0,CAL FIRE Madera-Mariposa-Merced ,2018-06-04,2019-01-04,214.0
+San Benito,64.0,CAL FIRE San Benito-Monterey,2018-06-04,2019-01-04,214.0
+Sonoma,10.0,Schell-Vista Fire Protection District ,2018-06-05,2019-01-04,213.0
+San Diego,12.0,CAL FIRE San Diego Unit,2018-06-05,2019-01-04,213.0
+San Diego,265.0,CAL FIRE San Diego Unit,2018-06-06,2019-01-04,212.0
+San Joaquin,62.0,CAL FIRE Amador - El Dorado Unit,2018-06-11,2019-01-04,207.0
+Merced,200.0,CAL FIRE Madera-Mariposa-Merced ,2018-06-07,2019-01-04,211.0
+Tehama,2956.0,CAL FIRE Tehama-Glenn Unit,2018-06-09,2019-01-04,209.0
+Glenn,2290.0,CAL FIRE Tehama-Glenn Unit,2018-06-09,2019-01-04,209.0
+Marin,12.0,San Rafael Fire ,2018-06-09,2019-01-04,209.0
+Los Angeles,175.0,Los Angeles County,2018-06-09,2019-01-04,209.0
+Monterey,96.0,Fort Hunter Liggett,2018-06-09,2019-01-04,209.0
+San Benito,215.0,CAL FIRE San Benito-Monterey Unit,2018-06-12,2019-01-04,206.0
+San Luis Obispo,60.0,CAL FIRE San Luis Obispo Unit,2018-06-13,2019-01-04,205.0
+Orange,155.0,Orange County Fire,2018-06-11,2019-01-04,207.0
+Riverside,154.0,CAL FIRE / Riverside County Fire,2018-06-12,2019-01-04,206.0
+Los Angeles,20.0,Los Angeles City Fire Department,2018-06-12,2019-01-04,206.0
+Tehama,70.0,CAL FIRE Tehama-Glenn Unit,2018-06-13,2019-01-04,205.0
+Riverside,20.0,CAL FIRE / Riverside County Fire,2018-06-14,2019-01-04,204.0
+Butte,20.0,CAL FIRE Butte Unit,2018-06-14,2019-01-04,204.0
+San Luis Obispo,60.0,CAL FIRE San Luis Obispo Unit,2018-06-14,2019-01-04,204.0
+Lassen,646.0,Northern California District Bureau of Land Management ,2018-06-14,2019-01-04,204.0
+Merced,4564.0,CAL FIRE Madera-Mariposa-Merced ,2018-06-15,2019-01-04,203.0
+Madera,60.0,CAL FIRE Madera-Mariposa-Merced ,2018-06-15,2019-01-04,203.0
+Mariposa,53.0,CAL FIRE Madera-Mariposa-Merced ,2018-06-15,2019-01-04,203.0
+Butte,40.0,CAL FIRE Butte Unit/Butte County Fire Department,2018-06-16,2019-01-04,202.0
+Lake,32.0,CAL FIRE Sonoma-Lake-Napa Unit,2018-06-16,2019-01-04,202.0
+Contra Costa,25.0,CAL FIRE Santa Clara Unit,2018-06-16,2019-01-04,202.0
+Amador,17.0,CAL FIRE Amador-El Dorado Unit,2018-06-17,2019-01-04,201.0
+,1202.0,Bureau of Land Management Carson City District Office,2018-06-17,2019-01-04,201.0
+Alameda,20.0,CAL FIRE Santa Clara Unit,2018-06-17,2019-01-04,201.0
+Merced,185.0,CAL FIRE Madera-Mariposa-Merced ,2018-06-17,2019-01-04,201.0
+Mariposa,115.0,CAL FIRE Madera-Mariposa-Merced Unit,2018-06-18,2019-01-04,200.0
+Contra Costa,40.0,Unified Command: CAL FIRE Santa Clara Unit and San Ramon Valley Fire Department,2018-06-19,2019-01-04,199.0
+Monterey,10.0,CAL FIRE San Benito-Monterey Unit,2018-06-19,2019-01-04,199.0
+San Luis Obispo,1500.0,Camp Roberts,2018-06-20,2019-01-04,198.0
+San Luis Obispo,10.0,CAL FIRE San Luis Obispo Unit,2018-06-21,2019-01-04,197.0
+Shasta,328.0,CAL FIRE Shasta-Trinity Unit,2018-06-23,2019-01-04,195.0
+Tehama,3716.0,"CAL FIRE Tehama-Glenn Unit, Tehama County Fire Department, Tehama County Sheriff Department, CCC, CDCR.",2018-06-23,2019-01-04,195.0
+Tehama,170.0,Tehama County Fire Department,2018-06-23,2019-01-04,195.0
+Tehama,268.0,"CAL FIRE Tehama-Glenn Unit, Unified Command with CAL FIRE and Red Bluff City Fire Department, Tehama County Fire, Tehama County Sheriffs, California Highway Patrol, Red Bluff Police Department, USFS, Willows Fire Department, Artois Fire Department, Orland Fire Protection District, Corning Fire Department, Hamilton Fire Department",2018-06-23,2019-01-04,195.0
+Lake,15185.0,"CAL FIRE Sonoma-Lake-Napa Unit, Lake County OES, California Department of Corrections and Rehabilitation, California Conservation Corps, Bureau of Land Management, California Highway Patrol and PG&E.",2018-06-23,2019-01-04,195.0
+Los Angeles,62.0,Los Padres National Forest,2018-06-23,2019-01-04,195.0
+Colusa,75.0,CAL FIRE Sonoma-Lake-Napa Unit,2018-07-04,2019-01-04,184.0
+Kern,95.0,CAL FIRE Kern County Fire,2018-06-29,2019-01-04,189.0
+Shasta,1678.0,"Unified Command: CAL FIRE and City of Redding Fire Department, Shasta County Fire Department, Redding Fire Department, Happy Valley Fire Department, Shasta Lake Fire Protection District, Cottonwood Fire Department, Cal OES, Bureau of Land Management",2018-06-24,2019-01-04,194.0
+Tuolumne,163.0,CAL FIRE Tuolumne-Calaveras Unit,2018-06-24,2019-01-04,194.0
+Calaveras,80.0,CAL FIRE Tuolumne-Calaveras Unit,2018-06-24,2019-01-04,194.0
+Merced,68.0,CAL FIRE Madera-Mariposa-Merced Unit,2018-06-24,2019-01-04,194.0
+Mendocino,90.0,CAL FIRE Mendocino Unit,2018-07-05,2019-01-04,183.0
+San Joaquin,12300.0,CAL FIRE Tuolumne-Calaveras Unit,2018-06-29,2019-01-04,189.0
+Butte,10.0,CAL FIRE Butte Unit/Butte County Fire Department,2018-06-29,2019-01-04,189.0
+Trinity,300.0,"CAL FIRE Shasta Trinity Unit, Shasta County Fire Department, California Conservation Corps, Cal OES",2018-06-28,2019-01-04,190.0
+Monterey,375.0,CAL FIRE San Benito-Monterey Unit,2018-06-26,2019-06-21,360.0
+Madera,4064.0,Sierra National Forest,2018-06-11,2019-01-04,207.0
+Fresno,76.0,CAL FIRE Fresno-Kings Unit,2018-06-27,2019-01-04,191.0
+Butte,347.0,CAL FIRE Butte Unit - Butte County Fire Department,2018-06-26,2019-01-04,192.0
+San Luis Obispo,260.0,CAL FIRE San Luis Obispo Unit,2018-06-26,2019-01-04,192.0
+Lassen,441.0,CAL FIRE Lassen Modoc Unit,2018-06-27,2019-01-04,191.0
+Siskiyou,63.0,Klamath National Forest,2018-06-27,2019-01-04,191.0
+Butte,191.0,CAL FIRE Butte Unit/Butte County Fire Department,2018-07-04,2019-01-04,184.0
+Sacramento,30.0,Unified Command: CAL FIRE Amador-El Dorado Unit and Sacramento Metro Fire,2018-06-29,2019-01-04,189.0
+Contra Costa,268.0,Unified Command: CAL FIRE and Contra Costa County Fire Department,2018-06-29,2019-01-04,189.0
+Santa Clara,70.0,CAL FIRE Santa Clara Unit,2018-06-29,2019-01-04,189.0
+San Bernardino,33.0,San Bernardino National Forest,2018-06-30,2019-01-04,188.0
+"Napa, Yolo",90288.0,"CAL FIRE Sonoma-Lake-Napa Unit, California Department of Corrections and Rehabilitation, Cal OES, California Highway Patrol, California Conservation Corps, Yolo County OES, Yolo County Sheriff, Solano County Sheriff, Napa County Sheriff, PG&E, Bureau of Indian Affairs, Yocha Dehe Wintun Nation, Bureau of Land Management, United States Forest Service, California Air National Guard and California National Guard.",2018-06-30,2019-01-04,188.0
+Riverside,63.0,CAL FIRE / Riverside County Fire,2018-07-04,2019-01-04,184.0
+Tehama,33.0,CAL FIRE Tehama-Glenn Unit,2018-07-14,2019-01-04,174.0
+Madera,12.0,CAL FIRE Madera-Mariposa-Merced ,2018-07-10,2019-01-04,178.0
+Siskiyou,215.0,Klamath National Forest,2018-07-01,2019-01-04,187.0
+San Diego,504.0,"Unified Command: CAL FIRE San Diego, Alpine Fire District and Cleveland National Forest",2018-07-06,2019-01-04,182.0
+Contra Costa,45.0,Moraga-Olinda Fire District ,2018-07-02,2019-01-04,186.0
+San Diego,10.0,CAL FIRE San Diego Unit / San Diego County Fire Authority,2018-07-06,2019-01-04,182.0
+El Dorado,316.0,CAL FIRE Amador-El Dorado Unit,2018-07-04,2019-01-04,184.0
+Siskiyou,38008.0,"CAL FIRE Siskiyou Unit, Siskiyou County Sheriff’s Department, California Department of Corrections and Rehabilitation, Siskiyou County Office of Emergency Services, Bureau of Land Management, California Conservation Corps.",2018-07-05,2019-01-04,183.0
+Amador,825.0,"CAL FIRE Amador - El Dorado Unit, Amador County FD, Amador County Sheriff, Sac Metro FD, Diamond Springs FD, CHP, USFS, ENF, Shingle Springs Miwok Tribe FD, Garden Valley Fire Protection District, PG&E, Sacramento Regional Incident Management Team",2018-07-06,2019-01-04,182.0
+San Bernardino,1350.0,"San Bernardino National Forest , BLM, NPS, California Highway Patrol, California Office of Emergency Services, San Bernardino County Office of Emergency Service, CALFIRE, CALTRANS, San Bernardino County Animal Control, American Red Cross, So California Edison",2018-07-06,2019-01-04,182.0
+Modoc,2100.0,BLM Northern District (NOD) ,2018-07-13,2019-01-04,175.0
+Santa Barbara,113.0,Santa Barbara County Fire,2018-07-06,2019-01-04,182.0
+Santa Clara,116.0,CAL FIRE Santa Clara Unit,2018-07-06,2019-01-04,182.0
+Butte,962.0,Chico City Fire,2018-07-12,2019-01-04,176.0
+San Bernardino,12.0,CAL FIRE San Bernardino Unit,2018-07-13,2019-01-04,175.0
+Mariposa,96901.0,USFS Sierra National Forest ,2018-07-13,2019-01-04,175.0
+Kern,62.0,Kern County Fire Department,2018-07-08,2019-01-04,180.0
+Butte,11.0,CAL FIRE Butte Unit,2018-07-10,2019-01-04,178.0
+Santa Clara,70.0,Unitied Command: CAL FIRE & San Jose City Fire Department,2018-07-10,2019-01-04,178.0
+Santa Clara,51.0,CAL FIRE Santa Clara Unit,2018-07-10,2019-01-04,178.0
+Modoc,52.0,US Forest Service - Modoc National Forest,2018-07-14,2019-01-04,174.0
+San Benito,278.0,CAL FIRE San Benito-Monterey,2018-07-11,2019-01-04,177.0
+Inyo,2883.0,Inyo National Forest Service ,2018-07-08,2019-01-04,180.0
+Shasta,31.0,CAL FIRE Shasta-Trinity Unit,2018-07-08,2019-01-04,180.0
+Contra Costa,56.0,CAL FIRE Santa Clara Unit,2018-07-08,2019-01-04,180.0
+Alameda,640.0,CAL FIRE Santa Clara Unit,2018-07-08,2019-01-04,180.0
+,280.0,East Fork Fire and Paramedic District / Bureau of Land Management,2018-07-09,2019-01-04,179.0
+San Bernardino,100.0,San Bernardino National Forest ,2018-07-06,2019-01-04,182.0
+Madera,11.0,CAL FIRE Madera-Mariposa-Merced ,2018-07-09,2019-01-04,179.0
+Lake,80.0,CAL FIRE Sonoma-Lake-Napa Unit,2018-07-09,2019-01-04,179.0
+Tehama,856.0,CAL FIRE Tehama-Glenn Unit,2018-07-09,2019-01-04,179.0
+San Benito,116.0,CAL FIRE San Benito-Monterey,2018-07-12,2019-01-04,176.0
+Lassen,14.0,CAL FIRE Lassen-Modoc Unit,2018-07-14,2019-01-04,174.0
+Siskiyou,224.0,CAL FIRE Siskiyou Unit,2018-07-15,2019-01-04,173.0
+Lassen,56.0,CAL FIRE Lassen-Modoc Unit,2018-07-15,2019-01-04,173.0
+Humboldt,16.0,CAL FIRE Humboldt-Del Norte Unit,2018-07-15,2019-01-04,173.0
+Lassen,32.0,CAL FIRE Lassen-Modoc Unit,2018-07-15,2019-01-04,173.0
+Lassen,89.0,CAL FIRE Lassen-Modoc Unit,2018-07-15,2019-01-04,173.0
+Tehama,50.0,CAL FIRE Tehama-Glenn Unit,2018-07-15,2019-01-04,173.0
+Humboldt,3674.0,Hoopa Valley Tribe ,2018-08-16,2019-01-04,141.0
+San Luis Obispo,14.0,CAL FIRE San Luis Obispo Unit,2018-07-17,2019-01-04,171.0
+San Diego,28.0,CAL FIRE San Diego County Fire Authority,2018-07-17,2019-01-04,171.0
+Siskiyou,10.0,CAL FIRE Siskiyou Unit,2018-07-17,2019-01-04,171.0
+Santa Barbara,77.0,Santa Barbara County Fire,2018-07-18,2019-01-04,170.0
+Yolo,822.0,CAL FIRE Sonoma-Lake-Napa Unit,2018-07-18,2019-01-04,170.0
+Butte,43.0,CAL FIRE Butte Unit,2018-07-19,2019-01-04,169.0
+Mariposa,40.0,CAL FIRE Madera-Mariposa-Merced Unit,2018-07-19,2019-01-04,169.0
+San Diego,13.0,"CAL FIRE San Diego Unit, SDSO",2018-07-20,2019-01-04,168.0
+Riverside,282.0,Unified Command: CAL FIRE/Riverside County Fire Department and Corona City Fire ,2018-07-19,2019-01-04,169.0
+Shasta,63.0,"CAL FIRE Shasta-Trinity Unit, Shasta County Fire Department, Shasta Fire Department, Millville Fire Protection District, Mountain Gate Fire Protection District, Bureau of Land Management (BLM), California Department of Corrections and Rehabilitation (CDCR)",2018-07-20,2019-01-04,168.0
+Santa Barbara,110.0,Santa Barbara County Fire,2018-07-20,2019-01-04,168.0
+Lake,50.0,CAL FIRE Lake-Napa Unit,2018-07-21,2019-01-04,167.0
+San Luis Obispo,30.0,CAL FIRE San Luis Obispo Unit,2018-07-21,2019-01-04,167.0
+San Luis Obispo,37.0,CAL FIRE San Luis Obispo Unit,2018-07-21,2019-01-04,167.0
+Santa Clara,320.0,"Unified Command: CAL FIRE Santa Clara Unit and Milpitas Fire Department, CHP, Fremont FD, Milpitas PD, San Francisco Public Utilities, Santa Clara County (OES, Parks, Sheriff), South Bay Incident Management Team (Mountain View FD, San Jose FD, Santa Clara Co FD), Spring Valley Fire Department",2018-07-22,2019-01-04,166.0
+Mendocino,67.0,CAL FIRE Mendocino Unit,2018-07-21,2019-01-04,167.0
+Tulare,34.0,Sequoia Kings National Park,2018-07-19,2019-01-04,169.0
+"Shasta, Trinity",229651.0,"Unified Command: CAL FIRE Shasta-Trinity Unit, US Forest Service and NPS Whiskeytown National Recreation Area, PG&E, CHP, CAL OES, Bureau of Land Management, CCC, CDCR",2018-07-23,2018-08-30,38.0
+Los Angeles,128.0,Los Angeles County Fire Department ,2018-07-23,2019-01-04,165.0
+Riverside,40.0,CAL FIRE Riverside County Fire,2018-07-23,2019-01-04,165.0
+Lake,36.0,CAL FIRE Sonoma-Lake-Napa Unit,2018-09-02,2019-01-04,124.0
+Shasta,51.0,"CAL FIRE Shasta-Trinity Unit, Shasta County Fire Department, California Highway Patrol, Shasta County Sherriff’s Office, Cal OES",2018-07-24,2019-01-04,164.0
+Lassen,167.0,"CAL FIRE Lassen-Modoc Unit / Lassen National Forest, US Forest Service, BLM, Susan River FD, Susanville City FD, Janesville FD, Lake Forest FD, Sierra Army Depot, CCC, Milford FD, Lassen County Sheriff.",2018-07-24,2019-01-04,164.0
+Santa Clara,20.0,CAL FIRE Santa Clara Unit,2018-07-25,2019-01-04,163.0
+Contra Costa,247.0,"Unified Command: CAL FIRE Santa Clara Unit & East Contra Costa Fire, East Contra Costa Fire Protection District, Contra Costa County Fire Protection District, East Bay Regional Parks, Moraga Orinda Fire Protection District, San Ramon Valley Fire Protection District, Contra Costa County Sheriffs Office, California Highway Patrol, Contra Costa County Animal Services, Alameda County Fire Department and Marin County Fire Department.",2018-07-25,2019-01-04,163.0
+San Benito,39.0,CAL FIRE San Benito-Monterey Unit,2018-07-25,2019-01-04,163.0
+Alameda,34.0,CAL FIRE Santa Clara Unit,2018-07-25,2019-01-04,163.0
+Mendocino,106.0,CAL FIRE Mendocino Unit,2018-08-01,2019-01-04,156.0
+San Diego,365.0,Unified Command: CAL FIRE San Diego County Fire Authority and San Diego County Fire ,2018-07-27,2019-01-04,161.0
+Riverside,205.0,Bureau of Indian Affairs - CAL FIRE / Riverside County Fire,2018-07-26,2019-01-04,162.0
+Calaveras,136.0,CAL FIRE Tuolumne-Calaveras Unit,2018-08-05,2019-01-04,152.0
+Mariposa,22.0,CAL FIRE Madera-Mariposa-Merced ,2018-08-04,2019-01-04,153.0
+Alameda,30.0,CAL FIRE Santa Clara Unit,2018-08-04,2019-01-04,153.0
+Kern,2950.0,Kern County Fire Department,2018-08-03,2019-01-04,154.0
+"Colusa, Glenn, Lake, Mendocino",410203.0,"USFS Mendocino National Forest , Potter Valley Fire, Redwood Valley Fire, Ukiah Fire, California Office of Emergency Services, California Department of Corrections and Rehabilitation, Lake County Sheriff’s Office, Mendocino County Sheriff’s Office, Colusa County Sheriff’s Office, Glenn County Sheriff’s Office, California Highway Patrol, Pilsbury FPD, Australia and New Zealand Fire, Bureau of Land Management, Bureau of Indian Affairs, Department of Defense, US Fish and Wildlife, National Park Service, Hopland Fire, Lakeport Fire, PG&E, AT&T, California Conservation Corps, North Shore Fire, American Red Cross, Kelseyville Fire, California State Parks, Cal Water, Lake County Farm Bureau, Nevada Division of Forestry, Nevada Department of Corrections and additional agencies from throughout California and other States",2018-07-27,2019-01-04,161.0
+Tulare,100.0,CAL FIRE Tulare Unit,2018-07-27,2019-01-04,161.0
+"Colusa, Lake, Mendocino",48920.0,"Unified command: CAL FIRE Mendocino Unit and USFS Mendocino National Forest , Potter Valley Fire, Redwood Valley Fire, Ukiah Fire, California Office of Emergency Services, California Department of Corrections and Rehabilitation, California SR Patrol, Lake County Sheriff’s Office, Mendocino County Sheriff’s Office, Colusa County Sheriff’s Office, Glenn County Sheriff’s Office, California Highway Patrol, Australia and New Zealand Fire, Bureau of Land Management, Hopland Fire, Lakeport Fire, PG&E, AT&T, California Conservation Corps, and additional agencies from throughout California and other States.",2018-07-27,2019-01-04,161.0
+Kern,993.0,Kern County Fire Department,2018-07-27,2019-01-04,161.0
+Lassen,18703.0,Unified Command: CAL FIRE and USFS Lassen National Forest,2018-07-27,2019-01-04,161.0
+,38134.0,USFS Rogue River-Siskiyou National Forest,2018-07-15,2019-01-04,173.0
+Tuolumne,36450.0,Stanislaus National Forest,2018-08-01,2019-01-04,156.0
+Inyo,338.0,Inyo National Forest,2018-07-31,2019-01-04,157.0
+Riverside,30.0,CAL FIRE Riverside Coounty,2018-07-28,2019-01-04,160.0
+San Diego,207.0,"CAL FIRE San Diego Fire Authority, MULTIPLE AGENCIES FROM NORTH ZONE, SDSO, CLEVELAND NATIONAL FOREST",2018-07-28,2019-01-04,160.0
+Sutter,1200.0,Sutter County Fire Protection District,2018-07-31,2019-01-04,157.0
+Napa,135.0,"CAL FIRE Sonoma-Lake-Napa Unit, Vacaville District, Vacaville City, Dixon Fire, Fairfield Fire, Winters Fire, Suisun City Fire, Napa County Fire, CDCR.",2018-07-28,2019-01-04,160.0
+Mendocino,972.0,USFS Mendocino National Forest,2018-07-31,2019-01-04,157.0
+Shasta,35.0,CAL FIRE Shasta-Trinity Unit,2018-07-29,2019-01-04,159.0
+San Luis Obispo,51.0,CAL FIRE San Luis Obispo Unit,2018-09-16,2019-01-04,110.0
+San Diego,14.0,CAL FIRE San Diego Unit,2018-08-06,2019-01-04,151.0
+El Dorado,67.0,"CAL FIRE Amador - El Dorado Unit, El Dorado County Sheriff’s Office, El Dorado County Fire, US Forest Service, Diamond Springs Fire, CHP, PG&E, Santa Barbara County Fire, El Dorado County Animal Control.",2018-08-01,2019-01-04,156.0
+El Dorado,66.0,"CAL FIRE Amador - El Dorado Unit, ESDO, CHP, Cosumnes FD, Sac Metro, Folsom FD, Sac City FD, Santa Barbara FD, Garden Valley FD, Georgetown FD, El Dorado County FD, Wilton FD, Rescue FD, El Dorado Hills FD, Diamond Springs FD, AFPD, USFS, PG&E",2018-08-01,2019-01-04,156.0
+Placer,700.0,CAL FIRE Nevada-Yuba-Placer Unit,2018-08-01,2019-01-04,156.0
+Monterey,2225.0,CAL FIRE San Benito-Monterey Unit,2018-08-06,2019-01-04,151.0
+Orange,23136.0,Cleveland National Forest,2018-08-06,2019-01-04,151.0
+Riverside,35.0,CAL FIRE/Riverside County Fire Department,2018-08-06,2019-01-04,151.0
+Calaveras,290.0,CAL FIRE Tuolumne-Calaveras Unit,2018-08-06,2019-01-04,151.0
+Plumas,117.0,USFS Plumas National Forest ,2018-08-07,2019-01-04,150.0
+Kings,2995.0,Kings County Fire Department,2018-08-06,2019-01-04,151.0
+Marin,45.0,Marin County Fire,1969-12-31,2019-01-04,17901.0
+Kern,114.0,Kern County Fire ,2018-08-16,2019-01-04,141.0
+Shasta,46150.0,USFS Shasta-Trinity National Forest,2018-08-09,2019-01-04,148.0
+Riverside,23.0,CAL FIRE / Riverside County Fire,2018-08-22,2019-01-04,135.0
+San Diego,250.0,CAL FIRE San Diego Unit,2018-08-09,2019-01-04,148.0
+Shasta,1900.0,CAL FIRE Shasta-Trinity Unit,2018-08-09,2019-01-04,148.0
+Napa,10.0,CAL FIRE Sonoma-Lake Napa Unit,2018-08-09,2019-01-04,148.0
+Contra Costa,30.0,Contra Costa County Fire,2018-08-17,2019-01-04,140.0
+Napa,2490.0,"CAL FIRE Sonoma-Lake-Napa Unit, CAL FIRE, Napa County Fire, Napa County Sheriff, California Department of Corrections, California Highway Patrol, Caltrans, OES, BLM and numerous fire agency’s from around the north region.",2018-09-08,2019-01-04,118.0
+Solano,2162.0,"Unified Command: CAL FIRE Sonoma-Lake-Napa Unit, Solano County Fire",2018-08-10,2019-01-04,147.0
+Kern,34.0,Kern County Fire ,2018-08-17,2019-01-04,140.0
+Nevada,16.0,CAL FIRE Nevada-Yuba-Placer Unit,2018-08-12,2019-01-04,145.0
+San Diego,100.0, San Diego Fire-Rescue Department,2018-08-13,2019-01-04,144.0
+Monterey,650.0,CAL FIRE San Benito-Monterey Unit,2018-08-11,2019-01-04,146.0
+Tulare,668.0,CAL FIRE Tulare Unit,2018-08-15,2019-01-04,142.0
+Modoc,39387.0,Modoc National Forest,2018-08-15,2019-01-04,142.0
+Alameda,48.0,CAL FIRE Santa Clara Unit,2018-08-26,2019-01-04,131.0
+Kern,367.0,USFS Sequoia National Forest,2018-08-18,2019-01-04,139.0
+Shasta,155.0,CAL FIRE Shasta-Trinity Unit,2018-08-19,2019-01-04,138.0
+Santa Barbara,1014.0,USFS Los Padres National Forest,2018-08-19,2019-01-04,138.0
+Riverside,10.0,CAL FIRE/Riverside County Fire Department,2018-08-19,2019-01-04,138.0
+Madera,289.0,CAL FIRE Madera-Mariposa-Merced Unit,2018-08-23,2019-01-04,134.0
+Riverside,32.0,CAL FIRE / Riverside County Fire,2018-08-25,2019-01-04,132.0
+Madera,88.0,USFS Sierra National Forest ,2018-08-27,2019-01-04,130.0
+Lake,103.0,CAL FIRE Sonoma-Lake-Napa Unit,2018-08-26,2019-01-04,131.0
+Riverside,36.0,CAL FIRE / Riverside County Fire,2018-08-27,2019-01-04,130.0
+Los Angeles,166.0,Angeles National Forest,2018-09-09,2019-01-04,117.0
+Lake,60.0,CAL FIRE Sonoma-Lake-Napa Unit,2018-08-30,2019-01-04,127.0
+Santa Barbara,172.0,Los Padres National Forest,2018-09-01,2019-01-04,125.0
+Modoc,15.0,Modoc National Forest,2018-09-02,2019-01-04,124.0
+San Bernardino,125.0,San Bernardino National Forest/San Bernardino County Fire,2018-08-31,2019-01-04,126.0
+"Shasta, Trinity",63311.0,USFS Shasta-Trinity National Forest,2018-09-05,2019-01-04,121.0
+Lake,24.0,CAL FIRE Sonoma-Lake-Napa Unit,2018-09-03,2019-01-04,123.0
+Placer,1120.0,Tahoe National Forest,2018-09-03,2019-01-04,123.0
+El Dorado,150.0,"CAL FIRE Amador-El Dorado Unit, El Dorado County Sheriffs Office, CHP, State Parks, USFS, Georgetown FD, El Dorado FD, Garden Valley FD, Mosquito FD, Diamond Springs FD, Rescue FD, Pioneer FD",2018-09-04,2019-01-04,122.0
+Shasta,13.0,Shasta Lake Fire Protection District,2018-09-04,2019-01-04,122.0
+Tuolumne,573.0,CAL FIRE Tuolumne-Calaveras Unit,2018-09-08,2019-01-04,118.0
+Trinity,1751.0,Shasta-Trinity National Forest,2018-09-04,2019-01-04,122.0
+Mono,6974.0,Humboldt-Toiyabe National Forest,2018-09-04,2019-01-04,122.0
+Monterey,400.0,CAL FIRE San Benito-Monterey Unit,2018-09-13,2019-01-04,113.0
+Marin,152.0,Marin County Fire,2018-09-10,2019-01-04,116.0
+Kern,200.0,Kern County Fire,2018-09-12,2019-01-04,114.0
+Riverside,25.0,Soboba Fire Department,2018-09-14,2019-01-04,112.0
+El Dorado,12.0,"CAL FIRE Amador, El Dorado Unit",2018-09-20,2019-01-04,106.0
+Los Angeles,3380.0,US Forest Service - Angeles National Forest,2018-09-22,2019-01-04,104.0
+Madera,360.0,CAL FIRE Madera Mariposa Merced Unit,2018-09-22,2019-01-04,104.0
+Lassen,53.0,CAL FIRE Lassen-Modoc Unit,2018-09-22,2019-01-04,104.0
+Tehama,261.0,Lassen National Forest,2018-09-28,2019-01-04,98.0
+Shasta,76.0,CAL FIRE Shasta-Trinity Unit,2018-09-28,2019-01-04,98.0
+Santa Clara,30.0,CAL FIRE Santa Clara Unit,2018-09-23,2019-01-04,103.0
+Butte,33.0,"CAL FIRE Butte Unit, Butte Creek Canyon Volunteers, Durham Volunteers, Kelly Ridge Volunteers, PG&E, CHP, Butte County Pulbic Works, BCSO.",2018-09-24,2019-01-04,102.0
+San Luis Obispo,80.0,CAL FIRE San Luis Obispo Unit,2018-09-29,2019-01-04,97.0
+San Bernardino,53.0,San Bernardino National Forest,2018-09-26,2019-01-04,100.0
+Monterey,150.0,Fort Hunter Liggett Military Reservation,2018-10-02,2019-01-04,94.0
+Fresno,32.0,Sierra National Forest,2018-10-02,2019-01-04,94.0
+Tehama,3889.0,CAL FIRE Tehama-Glenn Unit,2018-10-07,2019-01-04,89.0
+Santa Clara,63.0,CAL FIRE Santa Clara Unit/San Jose City Fire & South Santa Clara County FPD,2018-10-07,2019-01-04,89.0
+Siskiyou,15.0,CAL FIRE Siskiyou Unit,2018-10-10,2019-01-04,86.0
+Solano,160.0,Solano County Fire Protection District,2018-10-12,2019-01-04,84.0
+Monterey,167.0,CAL FIRE San Benito - Monterey Unit,2018-10-13,2019-01-04,83.0
+Shasta,12.0,CAL FIRE Shasta - Trinity Unit,2018-10-14,2019-01-04,82.0
+Shasta,38.0,Redding City Fire,2018-10-14,2019-01-04,82.0
+Butte,10.0,CAL FIRE Butte Unit,2018-10-15,2019-01-04,81.0
+San Luis Obispo,58.0,CAL FIRE San Luis Obispo Unit,2018-10-19,2019-01-04,77.0
+Tulare,120.0,CAL FIRE Tulare Unit,2018-10-24,2019-01-04,72.0
+Butte,550.0,CAL FIRE Butte Unit/Butte County Fire Department,2018-10-30,2019-01-04,66.0
+Santa Cruz,17.0,"CAL FIRE San Mateo - Santa Cruz Unit, California Department of Parks and Recreation, Santa Cruz County Sherrif’s Office, Santa Cruz Fire Department, Central Santa Cruz Fire District, Aptos-La Selva Fire District, Felton Fire District, Zayante Fire District, Branzaforte Fire District, Scotts Valley Fire District, Santa Cruz County Fire Department, California Highway Patrol, California Department of Corrections and Rehabilitation.",2018-11-03,2019-01-04,62.0
+Mendocino,35.0,CAL FIRE Mendocino Unit,2018-11-08,2019-01-04,57.0
+Butte,153336.0,"Unified Command: CAL FIRE, Butte County Sheriff Department, Paradise Police Department, USFS, California Department of Transportation, California Department of Corrections and Rehabilitation, California Highway Patrol, California Office of Emergency Services, National Weather Service, California Conservation Corps, Butte County, City of Chico",2018-11-08,2018-11-25,17.0
+Tehama,60.0,CAL FIRE Tehama - Glenn Unit,2018-11-05,2019-01-04,60.0
+Lassen,88.0,CAL FIRE Lassen - Modoc Unit,2018-11-08,2019-01-04,57.0
+Solano,1500.0,Suisun City Fire Protection District,2018-11-08,2019-01-04,57.0
+Ventura,4531.0,"Unified Command: CAL FIRE, Ventura County Fire, Ventura Sheriff Dept, LA County Fire, LA City Fire, LA Sherriff Dept, LA Police Dept, California Highway Patrol, Cal Trans, Southern California Edison, Southern California Gas Company, Camrosa Water District",2018-11-08,2019-01-04,57.0
+"Los Angeles, Ventura",96949.0,"Ventura County Fire Dept. and Los Angeles County Fire Dept., Southern California Edison, Southern California Gas Company, California Department of Corrections and Rehabilitation (CDCR), California Conservation Corps (CCC), California Department of Fish & Game, California Highway Patrol, Public Health Department, California State Parks, Caltrans, Ventura County Animal Control, LA County Animal Control, Office of Emergency Management, American Red Cross, Los Angeles Police Department, Los Angeles City Fire Department",2018-11-08,2019-01-04,57.0
+Humboldt,30.0,CAL FIRE Humbolt-Del Norte Unit,2019-01-01,2019-01-15,14.0
+Butte,0.0,CAL FIRE Butte Unit,2018-11-29,2019-01-04,36.0
+Contra Costa,20.0,CAL FIRE Santa Clara Unit,2018-11-15,2019-01-04,50.0
+Humboldt,10.0,CAL FIRE Humboldt - Del Norte Unit,2018-11-12,2019-01-04,53.0
+San Bernardino,147.0,Rialto Fire Department,2018-11-13,2019-01-04,52.0
+Alameda,20.0,CAL FIRE Santa Clara Unit,2018-11-14,2019-01-04,51.0
+Ventura,150.0,Ventura County Fire Department,2018-11-15,2019-01-04,50.0
+Ventura,186.0,Ventura County Fire Department,2018-11-12,2019-01-04,53.0
+Santa Cruz,10.0,CAL FIRE San Mateo-Santa Cruz Unit,2018-11-16,2019-01-04,49.0
+Yuba,80.0,,2019-06-25,2019-06-25,0.0
+Kings,161.0,Fresno-Kings County,2019-04-28,2019-06-24,57.0
+Butte,10.0,CAL FIRE / Butte County Fire,2019-04-30,2019-05-08,8.0
+Kern,115.0,Kern County Fire Department,2019-04-30,2019-05-08,8.0
+Butte,50.0,"CAL FIRE Butte Unit, California Conservation Corps",2019-05-01,2019-05-08,7.0
+Kern,172.0,Kern County Fire,2019-05-03,2019-05-08,5.0
+Kern,2500.0,Kern County Fire and the US Fish and Wildlife Service,2019-05-07,2019-05-09,2.0
+Placer,65.0,US Forest Service - Tahoe National Forest,2019-05-10,2019-05-24,14.0
+San Diego,22.0,CAL FIRE/San Diego County Fire,2019-05-13,2019-05-19,6.0
+Riverside,130.0,CAL FIRE/Riverside County Fire Department,2019-05-18,2019-05-24,6.0
+Tehama,63.0,CAL FIRE Tehama-Glenn Unit,2019-05-20,2019-05-24,4.0
+Riverside,26.0,CAL FIRE / Riverside County Fire,2019-05-20,2019-05-24,4.0
+San Luis Obispo,835.0,CAL FIRE San Luis Obispo Unit,2019-05-29,2019-06-03,5.0
+Fresno,121.0,CAL FIRE / Fresno County Fire,2019-05-29,2019-06-05,7.0
+Riverside,45.0,CAL FIRE/ Riverside County Fire,2019-05-30,2019-06-03,4.0
+Santa Clara,144.0,CAL FIRE Santa Clara Unit,2019-05-30,2019-06-11,12.0
+Riverside,55.0,Bureau of Indian Affairs,2019-05-29,2019-06-24,26.0
+Tulare,155.0,CAL FIRE Tulare Unit,2019-06-01,2019-06-11,10.0
+Tulare,257.0,CAL FIRE Tulare Unit,2019-06-02,2019-06-11,9.0
+Tulare,33.0,CAL FIRE Tulare Unit,2019-06-03,2019-06-04,1.0
+Tulare,25.0,CAL FIRE Tulare Unit,2019-06-03,2019-06-11,8.0
+San Luis Obispo,1127.0,CAL FIRE San Luis Obispo Unit,2019-06-05,2019-06-11,6.0
+Contra Costa,23.0,CAL FIRE Santa Clara Unit,2019-06-06,2019-06-11,5.0
+Solano,24.0,City of Fairfield,2019-06-07,2019-06-17,10.0
+Placer,27.0,CAL FIRE Nevada-Yuba-Placer Unit ,2019-06-07,2019-06-11,4.0
+Stanislaus,600.0,CAL FIRE Santa Clara Unit,2019-06-07,2019-06-11,4.0
+Yuba,70.0,City of Marysville,2019-06-08,2019-06-17,9.0
+Yolo,2512.0,"CAL FIRE Sonoma-Lake-Napa Unit, CAL FIRE, Cal OES, Yolo County Sheriff, CHP, NBIMT and multiple local government  fire agencies.",2019-06-08,2019-06-17,9.0
+Napa,50.0,CAL FIRE Sonoma-Lake-Napa Unit,2019-06-08,2019-06-17,9.0
+Sutter,1350.0,Sutter County Fire Department,2019-06-08,2019-06-17,9.0
+San Luis Obispo,1764.0,CAL FIRE San Luis Obispo County ,2019-06-12,2019-06-24,12.0
+Santa Clara,210.0,CAL FIRE Santa Clara Unit,2019-06-09,2019-06-11,2.0
+Santa Clara,35.0,CAL FIRE Santa Clara Unit,2019-06-10,2019-06-17,7.0
+Monterey,43.0,CAL FIRE San Benito - Monterey Unit,2019-06-12,2019-06-17,5.0
+Tulare,47.0,CAL FIRE Tulare Unit ,2019-06-10,2019-06-11,1.0
+San Luis Obispo,120.0,CAL FIRE San Luis Obispo Unit,2019-06-10,2019-06-11,1.0
+San Diego,15.0,CAL FIRE / San Diego County Fire,2019-06-10,2019-06-24,14.0
+Butte,17.0,CAL FIRE Chico Butte Unit,2019-06-15,2019-06-24,9.0
+Siskiyou,17.0,CAL FIRE Siskiyou,2019-06-14,2019-06-17,3.0
+Siskiyou,10.0,CAL FIRE Siskiyou Unit,2019-06-16,2019-06-21,5.0
+San Diego,120.0,"Camp Pendleton, Camp Pendleton Fire, US Forest Service, North County Fire, Oceanside Fire",2019-06-20,2019-06-21,1.0
+Siskiyou,207.0,USFS Klamath National Forest,2019-06-17,2019-06-24,7.0
+Riverside,525.0,CAL FIRE/Riverside County Fire Department,2019-06-21,2019-06-24,3.0
+Alameda,30.0,Alameda County Fire,2019-06-21,2019-06-24,3.0
+Tehama,46.0,CAL FIRE Tehama - Glenn Unit,2019-06-22,2019-06-24,2.0
+Yuba,80.0,CAL FIRE Nevada-Yuba-Placer Unit,2019-06-24,2019-06-24,0.0
+Stanislaus,2422.0,,2019-06-26,2019-06-27,1.0
+Monterey,2546.0,,2019-06-26,2019-06-26,0.0
+Shasta,90.0,,2019-06-26,2019-06-26,0.0
+Santa Clara,17.0,CAL FIRE Santa Clara Unit,2019-06-26,2019-06-27,1.0
+Placer,148.0,,2019-06-26,2019-06-27,1.0
+Riverside,20.0,,2019-06-27,2019-06-27,0.0
+Nevada,2.0,,2019-06-28,2019-06-28,0.0
+San Diego,28.0,,2019-06-29,2019-06-30,1.0
+Riverside,214.0,"Bureau of Land Management , CAL FIRE / Riverside County Fire",2019-06-29,2019-06-30,1.0
+Merced,210.0,,2019-06-29,2019-07-02,3.0
+Butte,12.0,,2019-06-29,2019-06-29,0.0
+Santa Clara,74.0,,2019-07-02,2019-07-02,0.0
+San Joaquin,283.0,,2019-07-03,2019-07-05,2.0
+Alameda,25.0,,2019-07-05,2019-07-05,0.0
+Contra Costa,24.0,,2019-07-05,2019-07-05,0.0
+Shasta,30.0,,2019-07-05,2019-07-06,1.0
+Lassen,263.0,Susanville Bureau of Land Management,2019-07-05,2019-07-06,1.0
+Yuba,38.0,,2019-07-06,,
+Mariposa,244.0,,2019-07-08,,
+San Luis Obispo,974.0,,2019-07-08,2019-07-09,1.0
+Monterey,190.0,,2019-07-09,2019-07-10,1.0
+Riverside,20.0,CAL FIRE Riverside County Fire Department ,2019-07-11,2019-07-11,0.0
+San Diego,100.0,,2019-07-12,2019-07-15,3.0
+Riverside,80.0,,2019-07-12,2019-07-17,5.0
+Alameda,22.0,Alameda County ,2019-07-12,2019-07-12,0.0
+Shasta,30.0,,2019-07-12,,
+Riverside,96.0,,2019-07-13,2019-07-13,0.0
+State of Nevada,1165.0,Truckee Meadows Fire Protection District,2019-07-13,2019-07-16,3.0
+Lassen,193.0,BLM Northern CA District,2019-07-14,2019-07-16,2.0
+Ventura,131.0,Ventura County Fire Department ,2019-07-14,2019-07-15,1.0
+Stanislaus,202.0,,2019-07-15,2019-07-16,1.0
+Santa Clara,47.0,,2019-07-15,2019-07-15,0.0
+Madera,213.0,,2019-07-15,2019-07-16,1.0
+Riverside,81.0,CAL FIRE / Riverside County Fire,2019-07-16,2019-07-17,1.0
+San Joaquin,90.0,,2019-07-16,,
+Modoc,128.0,Modoc National Forest,2019-07-17,2019-07-20,3.0
+San Diego,25.0,,2019-07-17,2019-07-18,1.0
+Stanislaus,35.0,,2019-07-18,2019-07-18,0.0
+Calaveras,27.0,,2019-07-18,2019-07-20,2.0
+Mariposa,149.0,,2019-07-21,,
+Kern,208.0,,2019-07-21,,
+Napa,64.0,Napa County Sheriff Department,2019-07-22,,
+San Bernardino,81.0,,2019-07-22,,
+Butte,10.0,,2019-07-23,,
+Solano,183.0,,2019-07-24,,
+Santa Clara,80.0,,2019-07-24,,
+San Luis Obispo,95.0,,2019-07-24,,
+Siskiyou,83.0,Klamath National Forest,2019-07-27,,
+Siskiyou,35.0,Klamath National Forest,2019-07-27,,
+Mendocino,130.0,,2019-07-27,,
+San Bernardino,156.0,,2019-07-28,,
+Modoc,14217.0,Modoc National Forest,2019-07-28,2019-08-11,14.0
+San Diego,150.0,,2019-07-28,,
+Santa Barbara,100.0,Los Padres National Forest,2019-07-28,2019-08-05,8.0
+Monterey,316.0,,2019-07-29,,
+Monterey,280.0,Los Padres National Forest,2019-07-30,2019-08-12,13.0
+El Dorado,13.0,,2019-07-30,2019-07-31,1.0
+Kern,448.0,Kern County Fire Department ,2019-07-31,,
+San Diego,448.0,City of San Diego Fire-Rescue,2019-08-01,2019-08-03,2.0
+Sacramento,84.0,,2019-08-02,2019-08-02,0.0
+Sacramento,50.0,,2019-08-02,2019-08-02,0.0
+Modoc,103.0,,2019-08-02,2019-08-02,0.0
+Contra Costa,757.0,,2019-08-03,2019-08-06,3.0
+Los Angeles,156.0,Angeles National Forest,2019-08-03,2019-08-05,2.0
+San Bernardino,26.0,,2019-08-03,2019-08-04,1.0
+Shasta,30.0,,2019-08-04,,
+Kern,29.0,Kern County Fire Department ,2019-08-05,2019-08-06,1.0
+Riverside,94.0,Riverside County Fire Department ,2019-08-05,2019-08-06,1.0
+Contra Costa,58.0,East Contra Costa Fire Protection District,2019-08-07,,
+Lassen,130.0,BLM Northern California District,2019-08-07,,
+Lassen,107.0,Lassen National Forest,2019-08-07,,
+Lake,20.0,,2019-08-08,2019-08-11,3.0
+Tuolumne,21.0,,2019-08-08,2019-08-08,0.0
+Lassen,1020.0,"USFS Lassen National Forest, BLM Northern California District - Susanville",2019-08-08,2019-08-11,3.0
+Alameda,240.0,Alameda County Fire,2019-08-09,,
+State of Oregon,1301.0,Southwest Oregon District - Oregon Department of Forestry,2019-08-09,2019-08-18,9.0
+Yolo,33.0,,2019-08-10,2019-08-10,0.0
+Riverside,20.0,CAL FIRE / Riverside County Fire,2019-08-12,2019-08-12,0.0
+Shasta,46.0,CAL FIRE Shasta-Trinity Unit,2019-08-12,2019-08-13,1.0
+Mendocino,225.0,"Hopland Fire, Mendocino County Sheriffs Department (Evacuation Information)",2019-08-12,2019-08-17,5.0
+Los Angeles,105.0,Los Angeles County Fire Department ,2019-08-13,,
+Solano,81.0,,2019-08-13,2019-08-13,0.0
+El Dorado,16.0,,2019-08-14,2019-08-14,0.0
+Colusa,20.0,,2019-08-14,2019-08-14,0.0
+Santa Clara,60.0,,2019-08-15,,
+Shasta,156.0,,2019-08-15,2019-08-17,2.0
+Mariposa,423.0,,2019-08-15,,
+San Diego,80.0,,2019-08-15,2019-08-16,1.0
+El Dorado,35.0,,2019-08-15,2019-08-16,1.0
+Mexico,1507.0,,2019-08-16,2019-08-17,1.0
+Mariposa,1300.0,,2019-08-16,,
+Alameda,139.0,,2019-08-21,2019-08-21,0.0
+Shasta,600.0,Shasta County Sheriff's Office,2019-08-22,2019-08-26,4.0
+Riverside,34.0,,2019-08-22,2019-08-23,1.0
+Lassen,131.0,Bureau of Land Management,2019-08-24,2019-08-27,3.0
+Lassen,2438.0,Bureau of Land Management,2019-08-24,2019-08-27,3.0
+Riverside,80.0,,2019-08-25,2019-08-25,0.0
+Santa Clara,35.0,,2019-08-25,,
+"Mexico, San Diego",25.0,,2019-08-25,2019-08-28,3.0
+Riverside,12.0,,2019-08-27,2019-08-27,0.0
+Lassen,3380.0,Bureau of Land Management ,2019-08-28,2019-09-04,7.0
+Alameda,19.0,,2019-08-31,2019-08-31,0.0
+Tulare,756.0,,2019-08-31,,
+Monterey,66.0,,2019-09-01,2019-09-02,1.0
+Ventura,279.0,Los Padres National Forest,2019-09-01,2019-09-05,4.0
+Alameda,11.0,,2019-09-02,2019-09-02,0.0
+San Benito,167.0,,2019-09-02,2019-09-03,1.0
+San Bernardino,15.0,,2019-09-02,2019-09-06,4.0
+El Dorado,85.0,El Dorado County Sheriff's Office,2019-09-03,2019-09-06,3.0
+Santa Cruz,10.0,,2019-09-03,2019-09-06,3.0
+Plumas,54612.0,USFS - Plumas National Forest,2019-09-04,,
+Riverside,1926.0,"CAL FIRE / Riverside County Fire, City of Murrieta ",2019-09-04,2019-09-14,10.0
+Lake,28.0,,2019-09-04,2019-09-05,1.0
+San Benito,17.0,,2019-09-04,2019-09-04,0.0
+Tehama,8838.0,Tehama County Sheriff's Office,2019-09-05,2019-09-13,8.0
+San Joaquin,44.0,,2019-09-05,2019-09-05,0.0
+Trinity,244.0,Mendocino National Forest,2019-09-05,2019-09-18,13.0
+Tehama,5332.0,Shasta-Trinity National Forest ,2019-09-05,2019-12-02,88.0
+Mono,4840.0,Inyo National Forest,2019-09-06,,
+Modoc,5737.0,USFS - Modoc National Forest,2019-09-06,2019-09-13,7.0
+Inyo,1975.0,Inyo National Forest ,2019-09-06,2019-11-21,76.0
+Tulare,381.0,Sequoia National Forest,2019-09-06,,
+Inyo,10296.0,"Inyo National Forest , Inyo County Sheriff's Office",2019-09-06,2019-11-21,76.0
+Butte,58.0,,2019-09-06,2019-09-12,6.0
+Lassen,260.0,Bureau of Land Management - Northern CA District,2019-09-06,2019-09-11,5.0
+Siskiyou,1872.0,Klamath National Forest,2019-09-07,,
+Siskiyou,227.0,Klamath National Forest,2019-09-07,2019-09-26,19.0
+Trinity,280.0,Shasta-Trinity National Forest,2019-09-07,2019-09-12,5.0
+Lake,53.0,CAL FIRE Sonoma Lake Napa Unit,2019-09-07,2019-09-08,1.0
+Butte,496.0,CAL FIRE Butte County Fire ,2019-09-07,2019-09-13,6.0
+Siskiyou,15.0,CAL FIRE Siskiyou unit,2019-09-07,2019-09-10,3.0
+Riverside,250.0,Riverside City Fire Department,2019-09-07,2019-09-08,1.0
+Santa Barbara,200.0,Santa Barbara County Fire ,2019-09-09,2019-09-14,5.0
+Riverside,10.0,,2019-09-10,2019-09-10,0.0
+Stanislaus,190.0,,2019-09-11,,
+Riverside,34.0,,2019-09-12,,
+Stanislaus,11.0,,2019-09-13,2019-09-13,0.0
+Riverside,520.0,"CAL FIRE RRU (Riverside County Fire), Murrieta Fire Protection District, Riverside City FD, Riverside County Sheriff’s Office",2019-09-14,,
+Siskiyou,91.0,Klamath National Forest,2019-09-15,,
+Riverside,167.0,San Bernardino National Forest,2019-09-15,2019-09-22,7.0
+Placer,604.0,"Sacramento Metro Fire Department, Roseville City Fire Department, Placer County Fire, South Placer Fire, Penryn Fire",2019-09-20,,
+Santa Clara,128.0,,2019-09-21,2019-09-24,3.0
+San Luis Obispo,220.0,Los Padres National Forest,2019-09-21,2019-09-27,6.0
+Riverside,98.0,CAL FIRE / Riverside County Fire,2019-09-21,2019-09-22,1.0
+Calaveras,67.0,,2019-09-22,,
+Tuolumne,83.0,,2019-09-23,2019-09-24,1.0
+Shasta,16.0,,2019-09-24,2019-09-24,0.0
+San Diego,200.0,,2019-09-24,,
+Amador,10.0,,2019-09-25,2019-09-25,0.0
+San Diego,52.0,Lakeside Fire Protection District ,2019-09-25,2019-09-25,0.0
+Solano,30.0,City of Vallejo Fire Department,2019-09-26,,
+Butte,300.0,,2019-09-28,2019-09-28,0.0
+El Dorado,22.0,Amador Eldorado Unit,2019-09-29,2019-09-29,0.0
+Riverside,19.0,,2019-09-30,2019-09-30,0.0
+Fresno,25.0,,2019-09-30,,
+San Luis Obispo,52.0,Los Padres National Forest ,2019-10-01,,
+Stanislaus,18.0,,2019-10-03,2019-10-04,1.0
+Glenn,63.0,,2019-10-04,2019-10-03,-1.0
+Mendocino,10.0,,2019-10-04,,
+Mariposa,5563.0,Mariposa County Sheriff’s Office -- California Highway Patrol -- CALTRANS -- California Department of Corrections and Rehabilitation -- U.S. Forest Service -- Bureau of Land Management -- American Red Cross,2019-10-06,,
+Napa,526.0,,2019-10-06,2019-10-07,1.0
+Santa Clara,29.0,,2019-10-07,2019-10-07,0.0
+Tehama,11.0,,2019-10-07,2019-10-07,0.0
+Alameda,12.0,,2019-10-08,2019-10-08,0.0
+"Monterey, San Luis Obispo",289.0,,2019-10-09,2019-10-11,2.0
+Tehama,68.0,,2019-10-09,2019-10-09,0.0
+Tehama,10.0,,2019-10-09,2019-10-08,-1.0
+Contra Costa,40.0,,2019-10-10,2019-10-10,0.0
+Riverside,9.0,CAL FIRE / Riverside County Fire,2019-10-10,2019-10-10,0.0
+Riverside,350.0,CAL FIRE / Riverside County Fire ,2019-10-10,2019-10-13,3.0
+Riverside,1011.0,"CAL FIRE/Riverside County Fire Department, City of Calimesa , City of Yucaipa",2019-10-10,,
+Shasta,42.0,,2019-10-10,2019-10-10,0.0
+Riverside,75.0,CAL FIRE/Riverside County Fire Department,2019-10-10,2019-10-12,2.0
+Ventura,91.0,Angeles National Forest,2019-10-10,,
+Los Angeles,8799.0,"Los Angeles City Fire Department,  Cal Fire, LA Emergency Management Department (EMD), LA Department of Recreation and Parks (RAP), LA Department of Water and Power (DWP), SoCal Gas, California Highway Patrol (CHP), LA County Public Health Department, LA City Department of Animal Regulation, American Red Cross, LA Public Works, Southern California Edison, LA County Public Works Flood Control, Los Angeles Department of Transportation and MySafe:LA, Los Angeles County Fire Department , Angeles National Forest",2019-10-10,2019-10-31,21.0
+San Luis Obispo,30.0,,2019-10-11,2019-10-11,0.0
+El Dorado,3435.0,USFS El Dorado National Forest,2019-10-11,,
+Ventura,200.0,,2019-10-11,2019-10-12,1.0
+Lassen,55.0,,2019-10-13,2019-10-16,3.0
+Riverside,75.0,Bureau of Indian Affairs,2019-10-14,2019-10-16,2.0
+Contra Costa,15.0,,2019-10-15,,
+San Diego,10.0,San Diego City Fire Department ,2019-10-15,2019-10-16,1.0
+Santa Barbara,420.0,Santa Barbara County Fire,2019-10-17,2019-10-21,4.0
+Lake,25.0,,2019-10-17,,
+Fresno,137.0,,2019-10-18,2019-10-19,1.0
+San Bernardino,11.0,,2019-10-21,2019-10-22,1.0
+Los Angeles,42.0,Los Angeles Fire Department ,2019-10-21,2019-10-31,10.0
+San Diego,,"CAL FIRE San Diego, Camp Pendleton Marine Base",2019-10-22,,
+Sonoma,77758.0,"Cooperating Agencies: Cooperating Agencies: Geyserville Fire Protection District, Numerous Sonoma County Fire Agencies, CDCR, Cal OES, CHP, CCC, Sonoma County Sheriff’s Department, BIA, BLM, California National Guard.",2019-10-23,2019-11-06,14.0
+San Bernardino,145.0,"San Bernardino National Forest, San Bernardino County Fire",2019-10-24,,
+Marin,67.0,Marin County Fire,2019-10-24,,
+Butte,80.0,CALFIRE/Butte County Fire ,2019-10-24,2019-10-24,0.0
+Los Angeles,4615.0,Los Angeles County Fire Department ,2019-10-24,,
+San Mateo,62.0,CAL FIRE San Mateo- Santa Cruz Unit,2019-10-24,2019-10-27,3.0
+Alameda,35.0,CAL FIRE Santa Clara Unit,2019-10-24,2019-10-27,3.0
+San Diego,97.0,,2019-10-25,2019-10-28,3.0
+San Diego,37.0,,2019-10-25,2019-10-27,2.0
+Tehama,605.0,,2019-10-27,2019-10-28,1.0
+Contra Costa,200.0,,2019-10-27,2019-10-28,1.0
+Contra Costa,150.0,"Santa Clara Unit, Contra Costa Fire",2019-10-27,2019-10-28,1.0
+Solano,140.0,Vallejo City Fire,2019-10-27,2019-10-28,1.0
+Mendocino,703.0,CAL FIRE Mendocino Unit,2019-10-27,2019-11-03,7.0
+Contra Costa,50.0,,2019-10-27,2019-10-28,1.0
+Los Angeles,745.0, Los Angeles Fire Department,2019-10-28,2019-11-05,8.0
+Ventura,1806.0,"Ventura County Emergency, Ventura County Fire Department",2019-10-30,2019-11-02,3.0
+Riverside,494.0,CAL FIRE: Riverside County Fire Department ,2019-10-30,2019-11-02,3.0
+Riverside,328.0, CAL FIRE Riverside County Fire Department,2019-10-31,2019-11-03,3.0
+San Diego,50.0,,2019-10-31,,
+San Bernardino,200.0,"San Bernardino County Fire Department , San Bernardino National Forest Service ",2019-10-31,2019-11-05,5.0
+Ventura,9999.0,"Venture County Fire Department, Cooperating Agencies: Ventura County OES, Ventura County Animal Services, CHP, California Department of Corrections and Rehabilitation, Cal Resources Corporation, So Cal Gas, United Water, So Cal Edison, California Conservation Corps ",2019-10-31,2019-11-06,6.0
+Riverside,19.0,CAL FIRE Riverside County Fire Department ,2019-11-01,2019-11-01,0.0
+Tehama,2534.0,"Cooperating Agencies: California Department of Corrections, Tehama County Sheriffs Department, Bureau of Land Management, Tehama County Fire Dept. El Camino Co. 9, Mendocino National Forest, CHP, California Office of Emergency Services, Tehama County Public Works",2019-11-03,2019-11-14,11.0
+Lake,75.0,,2019-11-05,2019-11-06,1.0
+Placer,355.0,,2019-11-25,,
+Yolo,,,2019-11-25,,
+Santa Barbara,3126.0,"Santa Barbara County Fire Department, CAL FIRE San Luis Obispo Unit",2019-11-25,2019-12-14,19.0
+Humboldt,15.0,,2020-02-15,,
+Sierra,102.0,,2020-02-17,2020-02-20,3.0
+Tehama,75.0,,2020-02-23,2020-02-24,1.0
+Lassen,57.0,Bureau of Land Management,2020-02-23,2020-02-23,0.0
+"Glenn, Mendocino",211.0,Mendocino National Forest ,2020-02-25,2020-03-03,7.0
+Glenn,154.0,,2020-03-02,2020-03-05,3.0
+Riverside,180.0,CAL FIRE/ Riverside County Fire Department,2020-03-03,,
+Yuba,,Tahoe National Forest ,2020-03-03,,
+Riverside,20.0,,2020-03-06,,
+Imperial,275.0,Imperial County Fire Departmant,2020-04-04,2020-04-12,8.0
+Tehama,26.0,,2020-04-23,2020-04-24,1.0
+Trinity,55.0,,2020-04-25,,
+Contra Costa,47.0,Contra Costa Fire Protection District,2020-04-27,2020-04-27,0.0
+Kings,2060.0,Kings County Fire Department,2020-05-03,2020-05-03,0.0
+Santa Barbara,156.0,Santa Barbara County Fire Department,2020-05-07,2020-05-09,2.0
+Butte,17.0,CAL FIRE/Butte County Fire,2020-05-08,2020-05-08,0.0
+Riverside,20.0,CAL FIRE / Riverside County Fire ,2020-05-18,2020-05-18,0.0
+Madera,152.0,,2020-05-21,,
+Napa,20.0,,2020-05-22,2020-05-23,1.0
+San Luis Obispo,5000.0,Department of Defense,2020-05-27,2020-05-28,1.0
+Riverside,60.0,,2020-05-28,2020-05-28,0.0
+Contra Costa,60.0,,2020-05-30,,
+Santa Barbara,1395.0,Channel Islands National Park,2020-05-31,,
+Madera,237.0,,2020-06-01,,
+Placer,650.0,,2020-06-01,,
+Mendocino,10.0,,2020-06-01,,
+Lassen,37.0,,2020-06-02,2020-06-02,0.0
+Riverside,129.0,,2020-06-02,2020-06-07,5.0
+Solano,300.0,,2020-06-03,2020-06-04,1.0
+Santa Clara,19.0,,2020-06-04,,
+Shasta,15.0,,2020-06-04,2020-06-04,0.0
+Santa Clara,126.0,City of San Jose,2020-06-04,2020-06-07,3.0
+Placer,39.0,,2020-06-05,2020-06-05,0.0
+Sonoma,141.0,,2020-06-05,2020-06-06,1.0
+Solano,79.0,Cordelia Fire Department,2020-06-05,2020-06-05,0.0
+Sonoma,107.0,,2020-06-06,2020-06-08,2.0
+Solano,1837.0,"Cooperating Agencies: Vacaville City FD, Vacaville FPD, Montezuma FPD, Vallejo, Suisun City FD, Suisun FPD, Fairfield FP, Dixon FD, CDCR Vacaville, Cordelia FPD, Madison FPD, Winters FD Strike teams from: Contra Costa County, Marin County, San Francisco County",2020-06-06,2020-06-10,4.0
+Contra Costa,100.0,,2020-06-06,2020-06-07,1.0
+Monterey,211.0,,2020-06-07,,
+Mariposa,85.0,,2020-06-07,2020-06-10,3.0
+Stanislaus,80.0,,2020-06-08,2020-06-08,0.0
+Riverside,27.0,CAL FIRE / Riverside County Fire ,2020-06-08,2020-06-09,1.0
+Monterey,230.0,,2020-06-08,2020-06-09,1.0
+Riverside,100.0,Corona Fire Department,2020-06-08,2020-06-09,1.0
+Riverside,20.0,,2020-06-08,2020-06-08,0.0
+El Dorado,29.0,,2020-06-09,,
+Mendocino,151.0,"Cooperating Agencies: CAL FIRE, Anderson Valley Fire Department and Hopland Fire Protection District",2020-06-09,2020-06-10,1.0
+San Diego,1100.0,,2020-06-09,2020-06-12,3.0
+Ventura,289.0,Ventura County Fire Department,2020-06-10,2020-06-12,2.0
+San Luis Obispo,1672.0,,2020-06-10,2020-06-11,1.0
+Ventura,803.0,Ventura County Fire Department,2020-06-10,2020-06-17,7.0
+San Diego,100.0,"Cooperating Agencies: SDSO, U.S. Forest Service ",2020-06-11,2020-06-14,3.0
+San Diego,90.0,,2020-06-11,2020-06-13,2.0
+Placer,40.0,,2020-06-11,2020-06-11,0.0
+Sacramento,5042.0,"Sac Metro, Folsom FD, Cosumnes FD, USFS, Rescue FD, El Dorado Hills FPD, Cameron Park FD, Wilton FD, Bureau of Indian Affairs, Sac Sheriff’s Office, CHP, Rancho Cordova Police, Folsom Police, PG&E, SMUD",2020-06-12,2020-06-17,5.0
+Fresno,533.0,,2020-06-12,2020-07-08,26.0
+Mariposa,191.0,,2020-06-13,2020-06-16,3.0
+Riverside,10.0,,2020-06-13,2020-06-13,0.0
+Mendocino,34.0,,2020-06-13,2020-06-14,1.0
+Santa Barbara,696.0,Santa Barbara County Fire,2020-06-14,,
+San Luis Obispo,445.0,,2020-06-15,2020-06-19,4.0
+San Benito,895.0,,2020-06-16,2020-06-21,5.0
+San Luis Obispo,18.0,,2020-06-16,2020-06-17,1.0
+Calaveras,1455.0,"Cooperating Agencies: Calaveras County Sheriffs Office, Altaville-Melones Fire, Calaveras Conlsolidated Fire, Central Calaveras Fire, San Andreas Fire, Copperopolis Fire, Stanislaus County Fire, San Joaquin County Fire, Modesto Fire, Jackson Fire, Linden-Peters Fire, Manteca Fire, Amador Fire, Lathrop Fire, Liberty Fire, Yocha Dehe Fire, UC Davis Fire, West Sacramento Fire, Sacramento Metro Fire, Sacramento City Fire, Consumnes Fire, Folsom Fire, LA County Fire, CAL OES, CA Dept. of Corrections ",2020-06-16,2020-06-20,4.0
+Butte,95.0,Butte County Sheriff's Office,2020-06-17,2020-06-17,0.0
+San Joaquin,89.0,"Cooperating Agencies: Buena Vista Rancheria Fire Dept., Clements Rural Fire Protection District., Liberty Rural County Fire Protection District, U.S. Forest Service, CHP, San Joaquin Sheriff’s Office, PG&E",2020-06-17,2020-06-18,1.0
+Tehama,68.0,,2020-06-17,,
+Monterey,83.0,Los Padres National Forest ,2020-06-17,2020-06-22,5.0
+Kern,165.0,Kern County Fire Department,2020-06-17,2020-06-18,1.0
+Placer,110.0,,2020-06-18,2020-06-18,0.0
+Tulare,130.0,,2020-06-18,2020-06-22,4.0
+Butte,13.0,,2020-06-18,2020-06-18,0.0
+Tulare,217.0,,2020-06-19,2020-06-22,3.0
+Butte,89.0,,2020-06-20,2020-06-20,0.0
+Modoc,11.0,,2020-06-20,,
+Tuolumne,10.0,Stanislaus National Forest ,2020-06-21,2020-07-07,16.0
+Monterey,195.0,,2020-06-21,2020-06-25,4.0
+Monterey,52.0,,2020-06-21,2020-06-22,1.0
+Tulare,1050.0,,2020-06-22,2020-06-26,4.0
+Monterey,338.0,,2020-06-22,2020-06-23,1.0
+San Luis Obispo,15.0,Paso Robles Fire Department ,2020-06-22,2020-06-23,1.0
+Fresno,19.0,,2020-06-23,2020-06-26,3.0
+Lassen,563.0,Bureau of Land Management Northern California District ,2020-06-23,2020-06-26,3.0
+Lassen,210.0,Bureau of Land Management Northern California District – Susanville,2020-06-24,2020-06-26,2.0
+Riverside,12.0,CAL FIRE Riverside County Fire ,2020-06-24,2020-06-27,3.0
+Stanislaus,202.0,,2020-06-25,2020-06-26,1.0
+San Luis Obispo,263.0,BLM California Central District ,2020-06-25,2020-06-28,3.0
+Mono,280.0,BLM California Central District,2020-06-26,2020-07-02,6.0
+Riverside,59.0,,2020-06-26,,
+State of Nevada,2975.0,Humboldt-Toiyabe National Forest,2020-06-27,2020-07-06,9.0
+Merced,2192.0,,2020-06-28,2020-07-03,5.0
+San Luis Obispo,33.0,,2020-06-28,2020-06-28,0.0
+Lassen,12.0,,2020-06-29,2020-06-29,0.0
+Butte,136.0,,2020-06-30,2020-07-03,3.0
+Trinity,62.0,Shasta Trinity National Forest,2020-06-30,2020-07-24,24.0
+Kern,2900.0,,2020-07-01,2020-07-03,2.0
+Los Angeles,648.0,Angeles National Forest ,2020-07-01,2020-07-05,4.0
+Madera,597.0,,2020-07-02,2020-07-03,1.0
+San Luis Obispo,157.0,,2020-07-03,2020-07-05,2.0
+San Bernardino,62.0,USFS San Bernardino c,2020-07-03,2020-07-06,3.0
+Alameda,108.0,,2020-07-04,2020-07-05,1.0
+San Luis Obispo,588.0,,2020-07-05,,
+Santa Clara,343.0,,2020-07-05,2020-07-06,1.0
+Merced,100.0,,2020-07-05,,
+Fresno,67.0,,2020-07-05,,
+Santa Clara,5513.0,"Cooperating Agencies: Morgan Hill OES/EOC, Santa Clara County Sheriff, CalTrans, California Highway Patrol, CAL OES, PG&E, CALTRANS, CDCR, South County Fire Protection District, County Parks, California State Parks, Santa Clara Department of Public Health, Santa Clara Office of Emergency Management, Santa Clara Road Department, California Fish and Wildlife.",2020-07-05,2020-07-13,8.0
+Los Angeles,1525.0,USFS Angeles National Forest,2020-07-05,2020-07-10,5.0
+Contra Costa,298.0,,2020-07-06,,
+San Joaquin,150.0,,2020-07-06,2020-07-06,0.0
+Solano,75.0,Fairfield City Fire Department,2020-07-06,2020-07-09,3.0
+El Dorado,32.0,"Cameron Park Fire Dept, Shingle Springs Rancheria Tribal Fire Dept, El Dorado Hills Fire Dept., Garden Valley Fire Protection Dist., Rescue Fire Protection Dist., Diamond Springs-El Dorado Fire Protection Dist., Bureau of Land Management, USFS, El Dorado County Sheriff’s Office, PG&E",2020-07-07,,
+Colusa,25.0,USFS Mendocino National Forest,2020-07-07,2020-07-09,2.0
+Riverside,10.0,CAL FIRE / Riverside County Fire ,2020-07-09,2020-07-09,0.0
+Santa Clara,31.0,,2020-07-11,2020-07-11,0.0
+Madera,108.0,"CAL FIRE, Madera County Sheriff’s Office, USFS, CHP, Madera County Roads, PG&E, North Fork Rancheria Mono Indians of California.",2020-07-11,2020-07-15,4.0
+Riverside,2.0,,2020-07-13,2020-07-13,0.0
+Butte,33.0,,2020-07-13,2020-07-15,2.0
+Riverside,91.0,,2020-07-13,2020-07-15,2.0
+Fresno,29667.0,"Cooperating Agencies: California Highway Patrol, Bureau of Land Management, Fresno County Sheriff, Fresno County Office of Emergency Services, Coalinga City Fire, Coalinga Police and Public Works, California Conservation Corp, California Department of Corrections and Rehabilitation.",2020-07-13,2020-07-26,13.0
+San Benito,1508.0,,2020-07-15,2020-07-18,3.0
+Mariposa,48.0,,2020-07-15,2020-07-18,3.0
+Yuba,500.0,,2020-07-15,2020-07-15,0.0
+Alameda,253.0,,2020-07-16,2020-07-19,3.0
+San Bernardino,119.0,,2020-07-17,2020-07-20,3.0
+Siskiyou,557.0,,2020-07-18,2020-07-28,10.0
+Lassen,9564.0,"Cooperating Agencies: Lassen National Forest, California Highway Patrol, Lassen County Sheriff, CALTRANS, County of Lassen, EMSA CAL-MAT, Susanville Police Department, CAL FIRE Lassen-Modoc Unit",2020-07-18,2020-08-17,30.0
+Shasta,340.0,"Cooperating Agencies: Shasta County Fire Dept., Millville Fire Protection District, Happy Valley Fire Protection District, CDCR, AMR, California National Guard, California Conservation Corps",2020-07-19,2020-07-27,8.0
+Lassen,22634.0,"Cooperating Agencies: California Department of Transportation, Modoc County Sheriff’s Office, California Highway Patrol, Lassen County Public Health, Shasta County Public Health, Surprise Valley Electric, California Conservation Corps, California Department of Corrections and Rehabilitation, Lassen County Office of Emergency Services, Lassen County Department of Public Works, Modoc County Office of Emergency Services, National Weather Service, Bureau of Land Management, Sierra Pacific Industries, CAL FIRE Lassen-Modoc Unit, BLM Northern CA District",2020-07-20,2020-08-12,23.0
+Humboldt,100.0,Hoopa Valley Indian Reservation,2020-07-20,2020-08-18,29.0
+Butte,30.0,,2020-07-20,2020-07-21,1.0
+Contra Costa,75.0,East Contra Costa Fire Protection District,2020-07-20,2020-07-20,0.0
+San Bernardino,71.0,San Bernardino County Fire Department,2020-07-20,2020-07-21,1.0
+Madera,135.0,,2020-07-20,2020-07-21,1.0
+Mono,120.0,Inyo National Forest,2020-07-21,2020-08-12,22.0
+"Siskiyou, Modoc",83261.0,Modoc National Forest ,2020-07-24,2020-08-20,27.0
+Riverside,145.0,CAL FIRE / Riverside County Fire ,2020-07-24,2020-07-25,1.0
+Colusa,138.0,,2020-07-24,2020-07-25,1.0
+Riverside,250.0,,2020-07-25,2020-07-28,3.0
+Sacramento,51.0,,2020-07-26,2020-07-26,0.0
+Merced,788.0,,2020-07-27,,
+Lassen,,USFS Plumas National Forest,2020-07-27,,
+Los Angeles,321.0,Los Angeles County Fire Department,2020-07-27,2020-07-30,3.0
+Humboldt,25.0,Samoa Fire Protection District,2020-07-27,2020-07-31,4.0
+San Diego,100.0,,2020-07-28,,
+San Luis Obispo,3022.0,,2020-07-28,2020-08-01,4.0
+San Bernardino,185.0,,2020-07-29,2020-08-01,3.0
+Sacramento,730.0,,2020-07-29,2020-07-30,1.0
+Riverside,104.0,,2020-07-30,2020-07-31,1.0
+Los Angeles,220.0,Angeles National Forest,2020-07-30,2020-08-14,15.0
+Kern,233.0,,2020-07-30,2020-07-31,1.0
+Riverside,,"United States Forest Service, CAL FIRE / Riverside County Fire , Cooperating Agencies ",2020-07-31,,
+Modoc,,Bureau Land of Management Northern California District,2020-07-31,,
+Tehama,684.0,Lassen National Forest,2020-08-01,2020-09-14,44.0
+Los Angeles,178.0,Angeles National Forest ,2020-08-01,2020-09-14,44.0
+San Luis Obispo,1962.0,"CAL FIRE San Luis Obispo Unit , Cooperating Agencies: SLO City Fire, USFS, SLO County Sheriff, Five Cities Fire, Morro Bay Fire, PG&E, CDCR, CCC, CAL OES, Big Bear Fire Dept.",2020-08-01,2020-08-09,8.0
+El Dorado,36.0,,2020-08-02,2020-08-02,0.0
+Riverside,52.0,CAL FIRE/ Riverside County Fire Department,2020-08-02,2020-08-04,2.0
+Lassen,6882.0,Bureau of Land Management Nevada-Carson District,2020-08-02,2020-08-10,8.0
+Colusa,560.0,"CAL FIRE Sonoma Lake Napa Unit, Cooperating Agencies: Indian Valley Fire & Rescue, Williams Fire Protection Authority, Maxwell Fire Protection District, Madison Fire Protection District, Willow Oak Fire Protection District, Colusa Fire Department, California Highway Patrol, and Colusa County Sheriffs Office.",2020-08-02,2020-08-05,3.0
+Los Angeles,120.0,Los Angeles County Fire,2020-08-02,2020-08-04,2.0
+Yuba,600.0,Beale Air Force Base,2020-08-02,2020-08-03,1.0
+Los Angeles,200.0,"Los Angeles County Fire Department, USFS Angeles National Forest",2020-08-03,2020-08-06,3.0
+Kern,7760.0,Kern County Fire,2020-08-03,2020-08-18,15.0
+San Luis Obispo,,Bureau of Land Management - California,2020-08-03,,
+Fresno,594.0,USFS Sierra National Forest,2020-08-04,2020-08-20,16.0
+San Luis Obispo,280.0,,2020-08-04,2020-08-05,1.0
+Kern,277.0,,2020-08-06,2020-08-07,1.0
+Los Angeles,210.0,Angeles National Forest,2020-08-06,2020-09-14,39.0
+Mendocino,177.0,Cooperating Agencies: California Department of Corrections and Mendocino County Sheriff’s Department,2020-08-10,2020-08-12,2.0
+Placer,65.0,,2020-08-10,2020-08-11,1.0
+Lassen,285.0,,2020-08-11,2020-08-12,1.0
+Kern,424.0,Kern County Fire Department,2020-08-12,2020-08-12,0.0
+Los Angeles,31089.0,"Angeles National Forest, Los Angeles County Fire Department, Cooperating Agencies: County of Los Angeles Sheriff’s Department, California Highway Patrol, County of Los Angeles Public Works, County of Los Angeles Animal Care & Control, County of Los Angeles Parks & Recreation, Red Cross, and Southern California Edison., Information on Preparing to Evacuate: LA County Fire Department Ready Set Go at: www.fire.lacounty.gov/rsg, Incident Information Line:, Incident Media Line:",2020-08-12,2020-09-28,47.0
+San Luis Obispo,183.0,,2020-08-12,2020-08-12,0.0
+Sacramento,512.0,"Cooperating Agencies: Sacramento Metropolitan Fire District., El Dorado County Fire Protection District",2020-08-13,2020-08-14,1.0
+Los Angeles,4237.0,Angeles National Forest ,2020-08-13,2020-10-05,53.0
+Sierra,,USFS Plumas National Forest,2020-08-13,,
+Butte,110.0,,2020-08-14,2020-08-14,0.0
+Sierra,47029.0,Tahoe National Forest,2020-08-14,2020-08-26,12.0
+San Luis Obispo,312.0,CAL FIRE San Luis Obispo,2020-08-15,2020-08-19,4.0
+Fresno,2121.0,"CAL FIRE Fresno-Kings County Fire, Cooperating Agencies: CCC, CDCR, BLM",2020-08-15,,
+San Luis Obispo,20.0,CAL FIRE San Luis Obispo Unit ,2020-08-16,2020-08-17,1.0
+Glenn,727.0,CAL FIRE Tehama-Glenn Unit,2020-08-16,2020-08-17,1.0
+Monterey,48088.0,"Monterey County Sheriff, Cooperating Agencies: Monterey County Regional Fire, CAL OES, Monterey County Sheriff, CHP, Monterey County OES, Red Cross, Monterey County Farm Bureau, and PG&E",2020-08-16,,
+"Mendocino, Humboldt, Trinity, Tehama, Glenn, Lake, Colusa",1032648.0,Mendocino National Forest,2020-08-16,2020-11-11,87.0
+Nevada,705.0,"CAL FIRE Nevada-Yuba-Placer Unit, Nevada County Consolidated Fire Protection District",2020-08-17,2020-08-28,11.0
+Mono,,USFS Inyo National Forest,2020-08-17,2020-08-28,11.0
+Glenn,275.0,CAL FIRE Tehama-Glenn Unit,2020-08-17,2020-08-19,2.0
+Ventura,3000.0,Ventura County Fire Department,2020-08-17,,
+El Dorado,14.0,,2020-08-17,2020-08-19,2.0
+"Santa Cruz, San Mateo",86509.0,"CAL FIRE San Mateo-Santa Cruz Unit, Cooperating Agencies: CAL FIRE - Santa Cruz County Sheriff’s Office, San Mateo’s County Sheriff’s Office, Santa Cruz County Fire Department, San Mateo County Fire Department",2020-08-16,2020-09-22,37.0
+"Santa Clara, Alameda, Contra Costa, San Joaquin, Stanislaus",396624.0,"Cooperating Agencies: Alameda County FD / SO / Animal Services, Atwater City FD / City Manager, CA Dept of Water Resources, CA Dept of Corrections and Rehabilitation, Cal OES, CA Conservation Corps, CA Dept Parks & Recreation, CHP, San Jose City FD /PD, Contra Costa County FPD / SO / OES, DLA San Joaquin County FD, Dos Palos PD / City Manager, East Bay Regional Park, East Contra Costa FD, Fremont City FD / PD / Mayor, Gustine City PD / City Manager, Hollister/San Benito County FD, Livermore-Pleasanton FD / PD, Livingston City Manager, Los Banos FD / PD, Merced City FD, Merced County Fire / SO / Sheriff Animal Services / OES, Milpitas FD / PD, Morgan Hill PD, PG&E, Pleasanton PD, San Benito County SO, San Francisco Water Department, San Joaquin County SO, San Jose FD, San Jose Water Company, San Ramon Valley FD, Santa Clara County FD / SO / Animal Control / Parks, Santa Clara Valley Water District, SF Water Department, South San Joaquin County Fire Authority, Stanislaus County Consolidated FD / SO / OES, Tracy PD, Turlock Irrigation District, CAL FIRE Santa Clara Unit",2020-08-18,2020-10-01,44.0
+Tuolumne,,Stanislaus National Forest,2020-08-18,,
+Monterey,6905.0,"CAL FIRE San Benito-Monterey Unit, Cooperating Agencies: California Office of Emergency Services, Monterey County Sheriff, California Highway Patrol, Monterey County Office of Emergency Services, California Department of Corrections and Rehabilitation, Red Cross, Monterey County Sheriff",2020-08-18,,
+Mendocino,62.0,"CAL FIRE Mendocino Unit, Cooperating Agencies: California Department of Corrections, Covelo Fire Department, Leggett Fire Department, Laytonville Fire Department and Mendocino County Sheriffs Office.",2020-08-18,2020-08-21,3.0
+Calaveras,1789.0,,2020-08-18,,
+Mendocino,820.0,"Cooperating Agencies: California Department of Corrections, Covelo Fire Department, Leggett Fire Department, Laytonville Fire Department and Mendocino County Sheriffs Office., CAL FIRE Mendocino Unit",2020-08-18,2020-08-21,3.0
+"Napa, Sonoma, Lake, Yolo, Solano",363220.0,,2020-08-17,2020-10-02,46.0
+"Tehama, Glenn",19609.0,"Cooperating Agencies: Glenn County Sheriff's Office, Tehama County Sheriff's Office, CA Conservation Corps, CA State Parks, CA Dept. of Water Resources, Glenn County Public Health, Tehama County Public Health, CA Highway Patrol, Sierra Pacific Industries, PG&E, Ca Dept. of Corrections and Rehabilitation, BLM, CAL OES, Glenn County OES, Tehama County OES, Shasta Trinity National Forest ",2020-08-19,2020-10-09,51.0
+Calaveras,55.0,,2020-08-19,2020-08-19,0.0
+Tuolumne,2857.0,,2020-08-20,2020-08-30,10.0
+San Diego,45.0,,2020-08-20,2020-08-22,2.0
+Santa Clara,143.0,,2020-08-21,2020-08-26,5.0
+Plumas,29570.0,Plumas National Forest,2020-08-22,2020-09-09,18.0
+Lassen,,BLM Northern CA District,2020-08-23,2020-09-16,24.0
+Marin,4929.0,"Point Reyes National Seashore National Park Service, Marin County Evacuation Map",2020-08-18,2020-10-02,45.0
+San Luis Obispo,53.0,,2020-08-25,,
+Lassen,567.0,BLM Northern CA District Bureau of Land Management,2020-08-26,2020-08-31,5.0
+Placer,9.0,,2020-08-26,,
+Los Angeles,290.0,,2020-08-28,2020-08-30,2.0
+Madera,688.0,,2020-08-30,2020-08-30,0.0
+Trinity,,Shasta Trinity National Forest,2020-09-01,2020-09-10,9.0
+Mono,,Humboldt-Toiyabe National Forest,2020-09-01,,
+Lake,13.0,,2020-09-01,2020-09-02,1.0
+"Fresno, Madera",,Sierra National Forest ,2020-09-04,,
+"San Bernardino, Riverside",22744.0,,2020-09-05,2020-11-16,72.0
+San Diego,16390.0,"Cleveland National Forest , Cleveland National Forest, Cooperating Agencies: San Diego Sheriff’s Department, San Diego Office of Emergency Services, California Office of Emergency Services, California Highway Patrol, US Fish and Wildlife Services, Bureau of Indian Affairs, Bureau of Land Management, American Red Cross, Viejas Reservation",2020-09-05,2020-09-24,19.0
+Mendocino,1100.0,"CAL FIRE Mendocino Unit , Cooperating Agencies: California Department of Corrections and Rehabilitation, Mendocino County Sheriffs Depatment, Brooktrails Fire and Little Lake Fire. ",2020-09-07,2020-09-14,7.0
+El Dorado,,Eldorado National Forest,2020-09-08,2020-11-09,62.0
+Yuba,1311.0,"Cooperating Agencies: CHP, LINDA FIRE, BEALE AFB, OLIVEHURST FIRE, FOOTHILL FIRE",2020-09-09,2020-09-14,5.0
+Stanislaus,45.0,,2020-09-08,2020-09-09,1.0
+Siskiyou,45.0,CAL FIRE Siskiyou Unit,2020-09-09,2020-09-17,8.0
+Siskiyou,50.0,,2020-09-11,2020-09-21,10.0
+Fresno,1185.0,Sierra National Forest ,2020-09-12,2020-11-09,58.0
+Siskiyou,2188.0,Klamath National Foret ,2020-09-16,2020-09-30,14.0
+Santa Barbara,111.0,,2020-09-16,2020-09-18,2.0
+Riverside,,San Bernardino National Forest,2020-09-17,,
+"Napa, Sonoma",67484.0,"CAL FIRE LNU, Cooperating Agencies: Napa County Fire Department, Santa Rosa PD, Santa Rosa FD, Sonoma Valley Fire Authority, Sonoma County Fire, City of Calistoga, AMR, BLM, OES, PG&E, CDCR, CHP, CALTRANS, & State Parks",2020-09-27,2020-10-20,23.0
+"Shasta, Tehama",56338.0,"CAL FIRE Shasta-Trinity Unit , Cooperating Agencies: Shasta County Sheriff, Tehama County SO, PG&E, CAL TRANS, CHP, Sierra Pacific, Mountain Gate Fire Protection District, Shasta County Fire Department, Shasta County Public Works, City of Redding Fire Department, Anderson Fire Department, Cottonwood Fire Protection District, Weaverville Fire Protection District, National Guard, California Conservation Corps, California Department of Corrections, BLM, California State Parks, Cal OES, National Parks, USFS",2020-09-27,2020-10-13,16.0
+Los Angeles,230.0,Angeles National Forest ,2020-09-28,2020-09-30,2.0
+Riverside,227.0,Riverside County Fire Department,2020-09-29,2020-09-30,1.0
+Amador,48.0,"Cooperating Agencies: Amador Sheriff’s Office; CHP; Ione FD, Sutter Creek Fire Protection Dist; Amador Fire Protection Dist., Lockwood Fire Protection Dist; El Dorado Hills FD; Sac Metro Fire Dist.; Sacramento FD; Buena Vista Rancheria FD; Cameron Park FD; PG&E",2020-09-30,2020-10-03,3.0
+Sacramento,20.0,,2020-10-03,2020-10-04,1.0
+Amador,21.0,,2020-10-04,2020-10-06,2.0
+Yuba,56.0,,2020-10-07,2020-10-07,0.0
+Contra Costa,30.0,,2020-10-11,2020-10-12,1.0
+Calaveras,21.0,,2020-10-13,2020-10-15,2.0
+San Bernardino,170.0,,2020-10-15,2020-10-16,1.0
+El Dorado,15.0,,2020-10-18,2020-10-21,3.0
+Butte,6.0,City of Oroville Fire Department,2020-10-22,2020-10-22,0.0
+Humboldt,102.0,,2020-10-23,,
+Napa,61.0,,2020-10-23,2020-10-25,2.0
+"Shasta, Tehama",275.0,,2020-10-25,,
+Shasta,133.0,,2020-10-25,,
+Shasta,5.0,,2020-10-25,2020-10-25,0.0
+Orange,12466.0,Orange County Fire Authority,2020-10-26,2020-11-07,12.0
+Placer,,USFS El Dorado National Forest,2020-10-26,2020-11-09,14.0
+Orange,13964.0,Orange County Fire Authority,2020-10-26,2020-11-07,12.0
+"Riverside, San Bernardino",150.0,"CAL FIRE / Riverside County Fire , San Bernardino County Fire Department",2020-11-01,,
+Los Angeles,131.0,,2020-11-06,2020-11-07,1.0
+,49.0,,2020-11-17,2020-11-17,0.0
+Riverside,1087.0,"Cooperating Agencies: CAL FIRE/Riverside, City of Corona FD, City of Hemet FD, Riverside City FD, Riverside County Fire Department, Calimesa Fire Department, Soboba Fire Department, ",2020-12-01,2020-12-12,11.0
+Riverside,200.0,"Cooperating Agencies: CAL FIRE/Riverside, CAL FIRE/San Diego, City of Hemet FD, Riverside County Fire Department, Riverside County Emergency Management Department, Riverside County Sheriff’s Office,",2020-12-03,,
+Orange,6686.0,"Orange County Fire Authority , Orange County Sheriff's Office",2020-12-02,2020-12-10,8.0
+San Diego,,,2020-12-02,2020-12-03,1.0
+Lassen,24.0,,2020-12-03,2020-12-03,0.0
+Ventura,174.0,Ventura County Fire Department ,2020-12-07,2020-12-08,1.0
+Riverside,1933.0,,2020-12-13,2020-12-14,1.0
+Ventura,250.0,Ventura County Fire Department ,2021-01-14,2021-01-15,1.0
+Madera,23.0,,2021-01-19,,
+Santa Cruz,20.0,,2021-01-19,,
+San Mateo,15.0,,2021-01-18,,
+,22.0,,2021-01-18,,
+,685.0,Kern County Fire Department,2021-01-19,2021-01-20,1.0
+Riverside,43.0,CAL FIRE/ Riverside County Fire Department,2021-01-19,2021-01-20,1.0
+,184.0,Los Angeles County Fire Department ,2021-01-19,2021-01-22,3.0
+,20.0,,2021-01-19,2021-01-22,3.0
+,37.0,,2021-01-19,2021-01-22,3.0
