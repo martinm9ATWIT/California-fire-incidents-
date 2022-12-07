@@ -16,3 +16,7 @@ The data has over 1,400 samples with 17 coumns:
 
 The objective is to predict hospital charges. The dataset can found online at git[4]. Many example solutions and analysis can be found at data.ca.gov. 
 ![Picture1](pic1.png)
+
+after changes 
+
+![Picture1](pic2.png)
