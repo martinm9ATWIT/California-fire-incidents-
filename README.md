@@ -27,3 +27,7 @@ matplotlib.pyplot, pandas, seaborn, datetime, seaborn, GitHub
 VS Code as IDE
 
 ## Results
+![Picture1](pic3.png)
+![Picture1](pic4.png)
+![Picture1](pic5.png)
+![Picture1](pic6.png)
