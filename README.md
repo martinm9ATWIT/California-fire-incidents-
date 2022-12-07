@@ -20,3 +20,13 @@ The objective is to predict hospital charges. The dataset can found online at gi
 after changes 
 
 ![Picture1](pic2.png)
+
+## Methods
+Tools:
+
+NumPy, SciPy, Pandas, and Scikit-learn for data analysis and inference
+Streamlit (st) for web app design
+GitHub and Heroku for web app deployment and hosting/version control
+VS Code as IDE
+
+## Results
