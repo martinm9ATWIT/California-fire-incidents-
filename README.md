@@ -1,6 +1,6 @@
 # California-fire-incidents-
 Personal Project for Data Science
-California has one of the most outstanding wild fires across United States so we will be diving in depth to find out which particular counties contribute the most incidents of wildfire and when exactly do wildfires occur. The data was sourced from a creditable source at data.ca.gov. The website has all sorts of information/data about California. Our findings will mostly be based on is most and least fire occurances per county and most importantly how many acres are burned in each one.
+California has one of the most outstanding wild fires across United States so we will be diving in depth to find out which particular counties contribute the most incidents of wildfire and when exactly do wildfires occur. The data was sourced from a creditable source at data.ca.gov. The website has all sorts of information/data about California. Our findings will mostly be based on is most and least fire acres burned for each county and most when do the wild fires occur.
 
 ## Selection of Data
 The model processing and training are conducted using a Jupyter Notebook and is available here.
