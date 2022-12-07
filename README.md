@@ -23,10 +23,7 @@ after changes
 
 ## Methods
 Tools:
-
-NumPy, SciPy, Pandas, and Scikit-learn for data analysis and inference
-Streamlit (st) for web app design
-GitHub and Heroku for web app deployment and hosting/version control
+matplotlib.pyplot, pandas, seaborn, datetime, seaborn, GitHub
 VS Code as IDE
 
 ## Results
