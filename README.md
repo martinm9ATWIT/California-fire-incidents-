@@ -26,7 +26,18 @@ matplotlib.pyplot, pandas, seaborn, datetime, seaborn, GitHub
 VS Code as IDE
 
 ## Results
+Counties that least contribute to acres burned in california:
 ![Picture1](pic3.png)
+Counties that most contribute to acres burned in california:
 ![Picture1](pic4.png)
+With further analysis, yearly timeline of acres burned wasn't giving any specific information:
 ![Picture1](pic5.png)
+Analizing months instead we could conclude August contributes to most wild fires:
 ![Picture1](pic6.png)
+
+
+## Discussion
+-Counties with wild fires in August could have dryer landcape than others.
+-
+
+
