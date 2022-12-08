@@ -39,6 +39,6 @@ Analizing months instead we could conclude August contributes to most wild fires
 
 ## Discussion
 -Counties with wild fires in August could have dryer landcape than others.
--
+-August being the hottest time of the year makes perfect correlation to california wild fires.
 
 
